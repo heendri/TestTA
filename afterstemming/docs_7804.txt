@@ -1,0 +1,7 @@
+definit
+passiv
+linear
+network
+term
+time
+energi

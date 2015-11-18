@@ -1,0 +1,9 @@
+crystal
+controlled
+transistor
+oscillators
+design
+parallel
+resonant
+circuits
+considered

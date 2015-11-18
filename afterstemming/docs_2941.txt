@@ -1,0 +1,7 @@
+calcul
+induct
+toroid
+rectangular
+cross
+section
+turn

@@ -1,0 +1,11 @@
+linear
+amplifi
+neg
+puls
+two
+valv
+amplifi
+describ
+rise
+time
+output

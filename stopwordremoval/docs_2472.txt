@@ -1,0 +1,8 @@
+surface
+charges
+produced
+insulators
+short
+long
+time
+ionization

@@ -1,0 +1,5 @@
+element
+electron
+circuit
+amplitud
+limit

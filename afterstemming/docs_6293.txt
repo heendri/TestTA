@@ -1,0 +1,8 @@
+diffus
+effect
+weak
+altern
+field
+valid
+rayleigh
+law

@@ -1,0 +1,1 @@
+measur activ oscil perform index measur activ oscil defin ratio grid voltag amplitud anod current amplitud crystal control oscil proport crystal perform index measur activ evalu sever common type oscil 

@@ -1,0 +1,15 @@
+voltag
+ratio
+output
+imped
+ladder
+network
+compos
+similar
+element
+simpl
+express
+deriv
+us
+thevenin
+theorem

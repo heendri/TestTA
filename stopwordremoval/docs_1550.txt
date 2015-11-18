@@ -1,0 +1,17 @@
+earth
+satellite
+observations
+upper
+atmosphere
+temperature
+inversion
+layer
+suggested
+wiggle
+curve
+logarithmic
+density
+derived
+exactly
+satellite
+observations

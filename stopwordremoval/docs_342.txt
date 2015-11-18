@@ -1,0 +1,17 @@
+note
+conjugate
+points
+geomagnetic
+field
+lines
+selected
+auroral
+whistler
+stations
+method
+deriving
+conjugate
+points
+auroral
+magnetic
+stations

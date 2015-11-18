@@ -1,0 +1,11 @@
+longitudinal
+transverse
+waves
+lorentz
+plasma
+triple
+refraction
+inhomogeneous
+plasma
+dis
+ussed

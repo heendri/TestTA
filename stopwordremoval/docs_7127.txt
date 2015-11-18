@@ -1,0 +1,9 @@
+theory
+discharge
+potential
+coaxial
+cylindrical
+electrodes
+transverse
+magnetic
+field

@@ -1,0 +1,15 @@
+equation
+state
+plasma
+free
+energy
+completely
+ionized
+gas
+given
+form
+expansion
+terms
+density
+interacting
+particles

@@ -1,0 +1,9 @@
+studi
+phase
+filter
+properti
+arrai
+parallel
+conductor
+ground
+plane

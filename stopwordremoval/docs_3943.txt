@@ -1,0 +1,9 @@
+dynamic
+accuracy
+design
+criterion
+linear
+electronic
+analogue
+differential
+analyzers

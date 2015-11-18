@@ -1,0 +1,9 @@
+seasonal
+variation
+lunar
+solar
+geomagnetic
+tides
+geomagnetic
+equatorial
+region

@@ -1,0 +1,1 @@
+bound thermistor compens resist conduct 

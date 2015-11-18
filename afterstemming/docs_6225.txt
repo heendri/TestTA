@@ -1,0 +1,7 @@
+error
+inher
+radar
+measur
+rainfal
+attenu
+wavelength

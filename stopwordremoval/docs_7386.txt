@@ -1,0 +1,6 @@
+impulse
+governed
+oscillator
+system
+frequency
+stabilization

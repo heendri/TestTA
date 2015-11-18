@@ -1,0 +1,5 @@
+power
+supply
+tiros
+meteorological
+satellite

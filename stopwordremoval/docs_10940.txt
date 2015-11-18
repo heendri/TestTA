@@ -1,0 +1,16 @@
+observation
+optical
+maser
+oscillation
+ruby
+note
+experimental
+results
+obtained
+using
+multiple
+dielectric
+layers
+mirrors
+maser
+cavity

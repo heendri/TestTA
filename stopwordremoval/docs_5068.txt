@@ -1,0 +1,9 @@
+characteristics
+discharge
+probe
+positive
+potential
+measurement
+associated
+gas
+density

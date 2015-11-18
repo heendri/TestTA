@@ -1,0 +1,8 @@
+circuit
+condit
+parametr
+amplif
+correct
+error
+vald
+paper

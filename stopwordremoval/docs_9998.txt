@@ -1,0 +1,12 @@
+theory
+meteor
+height
+distribution
+obtained
+radio
+echo
+observations
+shower
+meteors
+sporadic
+meteors

@@ -1,0 +1,15 @@
+voltag
+depend
+electroluminesc
+bright
+equat
+form
+relat
+bright
+voltag
+found
+fit
+experiment
+data
+well
+constant

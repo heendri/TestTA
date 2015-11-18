@@ -1,0 +1,12 @@
+instability
+effects
+semiconductor
+amplifier
+negative
+effective
+carrier
+mass
+critical
+comment
+proposal
+kromer

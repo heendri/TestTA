@@ -1,0 +1,16 @@
+voltage
+stabilizer
+temperature
+limited
+diode
+placed
+one
+arm
+resistance
+bridge
+controls
+output
+voltage
+saturable
+reactor
+autotransformer

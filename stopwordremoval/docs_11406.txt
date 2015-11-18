@@ -1,0 +1,16 @@
+lunar
+daily
+variation
+horizontal
+drifts
+ionosphere
+waltair
+amplitudes
+phases
+hourly
+harmonics
+drift
+regions
+given
+four
+seasons

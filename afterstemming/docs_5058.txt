@@ -1,0 +1,11 @@
+success
+deriv
+experiment
+law
+refin
+method
+smooth
+experiment
+curv
+describ
+previous

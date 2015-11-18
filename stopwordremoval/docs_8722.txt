@@ -1,0 +1,6 @@
+boundary
+conditions
+ohmic
+losses
+conducting
+wedges

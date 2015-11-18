@@ -1,0 +1,14 @@
+skin
+effect
+ferromagnetic
+resonance
+mathematical
+analysis
+normal
+anomalous
+skin
+effect
+metals
+conditions
+ferromagnetic
+resonance

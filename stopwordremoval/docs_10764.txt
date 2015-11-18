@@ -1,0 +1,8 @@
+linearized
+transfer
+function
+phase
+locked
+loop
+containing
+amplifier

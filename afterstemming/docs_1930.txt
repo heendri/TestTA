@@ -1,0 +1,7 @@
+radio
+reflect
+frequenc
+height
+intens
+aurora
+activ

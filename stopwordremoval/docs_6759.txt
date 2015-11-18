@@ -1,0 +1,7 @@
+transient
+approach
+solution
+linear
+servomechanism
+equivalent
+network

@@ -1,0 +1,16 @@
+crystal
+stabilized
+tunnel
+diode
+oscillators
+theory
+design
+procedure
+given
+oscillator
+frequency
+stability
+parts
+per
+million
+per

@@ -1,0 +1,7 @@
+solution
+magnetostatic
+problem
+unbounded
+homogeneous
+anisotropic
+medium

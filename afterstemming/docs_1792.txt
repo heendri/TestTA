@@ -1,0 +1,10 @@
+electromagnet
+radiat
+electron
+rotat
+ioniz
+medium
+action
+uniform
+magnet
+field

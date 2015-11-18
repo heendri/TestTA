@@ -1,0 +1,6 @@
+electrostatic
+interaction
+two
+arbitrary
+charge
+distributions

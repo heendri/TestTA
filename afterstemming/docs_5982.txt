@@ -1,0 +1,15 @@
+design
+simpl
+band
+pass
+amplifi
+approxim
+ideal
+frequenc
+characterist
+applic
+pole
+zero
+method
+synthesi
+illustr

@@ -1,0 +1,11 @@
+multi
+representation
+single
+valued
+nonlinearity
+several
+inputs
+evaluation
+equivalent
+cursor
+method

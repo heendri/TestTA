@@ -1,0 +1,13 @@
+feedback
+pair
+video
+amplifier
+details
+given
+circuit
+frequency
+range
+midband
+output
+linear
+rms

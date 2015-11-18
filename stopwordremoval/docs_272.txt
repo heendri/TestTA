@@ -1,0 +1,14 @@
+general
+energy
+relations
+nonlinear
+reactances
+alternative
+derivation
+used
+earlier
+based
+conservation
+energy
+properties
+device

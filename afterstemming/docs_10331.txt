@@ -1,0 +1,11 @@
+linear
+circuit
+aspect
+cryotron
+express
+deriv
+gate
+resist
+cryotron
+transit
+region

@@ -1,0 +1,17 @@
+effect
+oblat
+rotat
+atmospher
+orient
+satellit
+orbit
+inclin
+particular
+signific
+rotat
+major
+axi
+orbit
+plane
+occur
+atmospher

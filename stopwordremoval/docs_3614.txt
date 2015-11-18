@@ -1,0 +1,14 @@
+derivation
+phase
+characteristic
+attenuation
+curve
+minimum
+phase
+systems
+graphical
+method
+described
+illustrated
+numerical
+examples

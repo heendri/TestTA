@@ -1,0 +1,12 @@
+linear
+phase
+transistor
+amplifier
+design
+simple
+shunt
+compensated
+linear
+phase
+amplifier
+described

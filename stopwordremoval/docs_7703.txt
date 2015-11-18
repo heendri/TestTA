@@ -1,0 +1,7 @@
+wave
+filter
+characteristics
+direct
+method
+full
+paper

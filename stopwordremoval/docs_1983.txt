@@ -1,0 +1,17 @@
+four
+terminal
+parametric
+amplifier
+lumped
+constant
+model
+using
+ge
+junction
+diodes
+signal
+frequency
+bandwidth
+noise
+factor
+db

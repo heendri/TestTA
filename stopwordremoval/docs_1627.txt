@@ -1,0 +1,17 @@
+circuit
+designed
+high
+voltage
+transistors
+circuit
+described
+common
+emitter
+stage
+feeds
+modified
+common
+collector
+stage
+output
+impedance

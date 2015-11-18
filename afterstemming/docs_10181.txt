@@ -1,0 +1,9 @@
+voltag
+variabl
+capacitor
+make
+relax
+oscil
+control
+frequenc
+rang

@@ -1,0 +1,15 @@
+study
+playback
+process
+magnetic
+head
+simplified
+gap
+loss
+function
+given
+case
+finite
+parameters
+tape
+head

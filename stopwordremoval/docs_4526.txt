@@ -1,0 +1,4 @@
+transistor
+amplifiers
+digital
+computer

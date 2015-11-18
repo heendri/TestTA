@@ -1,0 +1,15 @@
+thermoelectric
+measurements
+type
+silicon
+thermoelectric
+power
+positive
+respect
+cu
+material
+purity
+falling
+purity
+rising
+purity

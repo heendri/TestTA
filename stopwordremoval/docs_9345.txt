@@ -1,0 +1,10 @@
+theory
+laser
+oscillation
+fabry
+perot
+resonators
+approximate
+condition
+oscillation
+derived

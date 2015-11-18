@@ -1,0 +1,8 @@
+optim
+discret
+stochast
+process
+servomechan
+extens
+mill
+theorem

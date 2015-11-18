@@ -1,0 +1,16 @@
+fast
+amplitude
+discriminator
+circuit
+discrimination
+range
+threshold
+stability
+within
+output
+positive
+pulse
+amplitude
+rise
+time
+duration

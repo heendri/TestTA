@@ -1,0 +1,12 @@
+travelling
+wave
+variable
+reactance
+type
+parametric
+amplifier
+full
+description
+amplifier
+previously
+noted

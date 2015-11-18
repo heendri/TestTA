@@ -1,0 +1,7 @@
+theory
+afc
+synchronization
+correction
+paper
+noted
+november

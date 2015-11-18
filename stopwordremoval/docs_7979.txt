@@ -1,0 +1,13 @@
+precision
+high
+current
+computer
+power
+supplies
+unit
+supplying
+uses
+magnetic
+amplifier
+regulated
+rectifier

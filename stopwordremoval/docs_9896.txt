@@ -1,0 +1,6 @@
+diffraction
+electromagnetic
+waves
+aperture
+plane
+screen

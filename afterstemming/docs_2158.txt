@@ -1,0 +1,8 @@
+radio
+echo
+auror
+ioniz
+detect
+rel
+geomagnet
+latitud

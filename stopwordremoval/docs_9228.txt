@@ -1,0 +1,12 @@
+general
+spin
+wave
+dispersion
+relations
+derivation
+takes
+account
+effects
+conductivity
+exchange
+propagation

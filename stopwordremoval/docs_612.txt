@@ -1,0 +1,13 @@
+relationship
+lower
+ionosphere
+night
+glow
+emission
+correlation
+found
+emission
+radio
+echoes
+obtained
+ionosonde

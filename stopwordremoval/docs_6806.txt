@@ -1,0 +1,17 @@
+frequency
+function
+generator
+description
+relaxation
+oscillator
+capable
+giving
+constant
+amplitude
+output
+sine
+square
+triangular
+waveform
+frequency
+range

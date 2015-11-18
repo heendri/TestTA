@@ -1,0 +1,10 @@
+transistor
+nonlinearity
+dependence
+emitter
+bias
+current
+pnp
+alloy
+junction
+transistors

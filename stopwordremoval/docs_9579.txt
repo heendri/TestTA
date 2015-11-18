@@ -1,0 +1,15 @@
+band
+nondegenerate
+parametric
+amplifier
+bandwidth
+amplifier
+uses
+two
+si
+pill
+varactor
+diodes
+balanced
+circuit
+db

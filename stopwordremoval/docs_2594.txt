@@ -1,0 +1,14 @@
+calculation
+field
+homogeneous
+conductor
+wavy
+interface
+analysis
+showing
+perturbation
+field
+conductor
+ripples
+proportional
+amplitude

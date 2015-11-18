@@ -1,0 +1,4 @@
+galvomagnetic
+thermomagnetic
+effects
+plasma

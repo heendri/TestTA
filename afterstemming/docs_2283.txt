@@ -1,0 +1,7 @@
+ir
+standard
+static
+magnet
+storag
+definit
+term

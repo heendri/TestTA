@@ -1,0 +1,6 @@
+analysi
+junction
+transistor
+audio
+oscil
+circuit

@@ -1,0 +1,14 @@
+note
+confinement
+plasma
+rf
+fields
+rigorous
+derivation
+certain
+results
+previously
+obtained
+boot
+inferior
+methods

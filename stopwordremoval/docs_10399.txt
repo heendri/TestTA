@@ -1,0 +1,7 @@
+note
+diffraction
+scalar
+wave
+small
+circular
+aperture

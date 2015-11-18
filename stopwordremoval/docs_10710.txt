@@ -1,0 +1,8 @@
+height
+gradient
+horizontal
+drifts
+region
+waltair
+value
+obtained

@@ -1,0 +1,7 @@
+standard
+errors
+harmonic
+analysis
+cosmic
+ray
+data

@@ -1,0 +1,12 @@
+design
+pass
+pass
+band
+pass
+filters
+tchebycheff
+type
+approximation
+constant
+group
+delay

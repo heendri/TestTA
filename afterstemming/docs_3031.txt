@@ -1,0 +1,9 @@
+voltag
+stabil
+emploi
+junction
+transistor
+silicon
+junction
+refer
+diod

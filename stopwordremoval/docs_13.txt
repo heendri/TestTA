@@ -1,0 +1,14 @@
+theory
+cavity
+resonator
+comprising
+two
+confocal
+paraboloids
+revolution
+solution
+found
+system
+equations
+given
+buchholz

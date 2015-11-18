@@ -1,0 +1,13 @@
+frequency
+modulator
+marginal
+oscillator
+voltage
+sensitive
+capacitor
+dc
+bias
+used
+tank
+circuit
+oscillator

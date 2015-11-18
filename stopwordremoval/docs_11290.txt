@@ -1,0 +1,15 @@
+current
+limited
+rectifiers
+description
+given
+class
+rectifier
+circuits
+limit
+output
+current
+specified
+maximum
+applications
+suggested

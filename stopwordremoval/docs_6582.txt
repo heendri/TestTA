@@ -1,0 +1,7 @@
+capacitance
+anchor
+approximate
+value
+mean
+radius
+derived

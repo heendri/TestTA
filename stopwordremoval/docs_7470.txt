@@ -1,0 +1,6 @@
+design
+frequency
+constant
+time
+delay
+lines

@@ -1,0 +1,12 @@
+current
+operated
+diode
+logic
+gates
+basic
+logic
+circuits
+described
+practical
+examples
+given

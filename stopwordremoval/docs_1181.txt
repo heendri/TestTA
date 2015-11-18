@@ -1,0 +1,12 @@
+quantitative
+analysis
+nonlinear
+second
+order
+differential
+equation
+oscillating
+system
+limited
+increment
+region

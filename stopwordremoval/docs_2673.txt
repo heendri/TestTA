@@ -1,0 +1,16 @@
+study
+digital
+analogue
+converter
+technique
+described
+using
+bistable
+multivibrator
+circuits
+generating
+current
+proportional
+numbers
+binary
+scale

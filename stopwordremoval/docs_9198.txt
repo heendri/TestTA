@@ -1,0 +1,14 @@
+variable
+diode
+parametric
+standing
+wave
+amplifier
+details
+given
+experimental
+work
+type
+amplifier
+discussed
+landauer

@@ -1,0 +1,6 @@
+asymmetry
+zero
+drift
+errors
+magnetic
+amplifiers

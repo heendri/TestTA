@@ -1,0 +1,6 @@
+subharmonic
+oscillations
+nonlinear
+system
+positive
+damping

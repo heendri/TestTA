@@ -1,0 +1,9 @@
+ir
+standard
+solid
+state
+devic
+definit
+term
+nonlinear
+capacitor

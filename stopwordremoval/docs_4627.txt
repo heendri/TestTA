@@ -1,0 +1,17 @@
+transistor
+operating
+conditions
+collector
+current
+voltage
+characteristic
+curves
+designs
+earthed
+base
+transistors
+amplifiers
+discussed
+numerical
+examples
+given

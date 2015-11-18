@@ -1,0 +1,14 @@
+upper
+limits
+output
+power
+vacuum
+tube
+transistor
+amplifiers
+simple
+analysis
+comparison
+based
+idealized
+characteristics

@@ -1,0 +1,13 @@
+nois
+perform
+tin
+oxid
+resistor
+nois
+measur
+show
+resistor
+defect
+found
+standard
+test

@@ -1,0 +1,15 @@
+rf
+sourc
+heater
+power
+level
+audio
+frequenc
+amplifi
+detail
+given
+simpl
+compact
+oscil
+rate
+output

@@ -1,0 +1,7 @@
+applic
+junction
+transistor
+gener
+linear
+sawtooth
+waveform

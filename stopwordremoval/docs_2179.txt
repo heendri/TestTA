@@ -1,0 +1,4 @@
+digital
+storage
+punched
+tape

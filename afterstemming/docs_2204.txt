@@ -1,0 +1,13 @@
+transistor
+nuclear
+reson
+magnet
+field
+probe
+descript
+margin
+oscil
+type
+nuclear
+reson
+detector

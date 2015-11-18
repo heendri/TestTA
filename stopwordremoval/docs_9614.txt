@@ -1,0 +1,8 @@
+operational
+ruby
+maser
+observations
+centimetres
+foot
+radio
+telescope

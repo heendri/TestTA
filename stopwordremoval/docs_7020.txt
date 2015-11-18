@@ -1,0 +1,8 @@
+distribution
+currents
+disk
+rotating
+uniform
+magnetic
+field
+damping

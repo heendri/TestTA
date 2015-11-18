@@ -1,0 +1,10 @@
+energi
+band
+split
+inter
+band
+term
+disloc
+lattic
+atom
+solid

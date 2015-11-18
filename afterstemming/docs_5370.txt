@@ -1,0 +1,5 @@
+micro
+power
+oper
+silicon
+transistor

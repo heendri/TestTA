@@ -1,0 +1,16 @@
+transistor
+power
+supply
+geiger
+counters
+unit
+described
+comprising
+junction
+transistors
+class
+amplifier
+circuit
+operating
+battery
+supplying

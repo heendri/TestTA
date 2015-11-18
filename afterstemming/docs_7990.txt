@@ -1,0 +1,7 @@
+radio
+frequenc
+nondestruct
+readout
+magnet
+core
+memori

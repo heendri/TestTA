@@ -1,0 +1,13 @@
+variable
+ultrasonic
+water
+delay
+line
+unit
+described
+produces
+delay
+variable
+stable
+within
+bandwidth

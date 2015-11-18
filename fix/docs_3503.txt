@@ -1,0 +1,1 @@
+optimum filter monoton respons amplitud characterist rippl pass band high rate attenu stop band combin desir featur butterworth tchebycheff respons 

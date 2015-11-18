@@ -1,0 +1,1 @@
+electr control audio filter design theori base work linvil present pass high pass filter cut frequenc continu variabl cut characterist control signal investig structur speech signal experiment result report 

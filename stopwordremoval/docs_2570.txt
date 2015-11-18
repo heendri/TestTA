@@ -1,0 +1,9 @@
+linear
+gate
+duration
+diodes
+recovery
+time
+used
+coincidence
+circuit

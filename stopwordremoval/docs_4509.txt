@@ -1,0 +1,5 @@
+geomagnetic
+distortion
+region
+magnetic
+equator

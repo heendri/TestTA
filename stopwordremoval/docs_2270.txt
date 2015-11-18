@@ -1,0 +1,11 @@
+temperature
+atmospheric
+region
+emitting
+night
+glow
+line
+regions
+faint
+auroral
+arcs

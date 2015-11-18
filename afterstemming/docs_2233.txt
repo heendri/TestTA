@@ -1,0 +1,6 @@
+transit
+time
+relat
+plasma
+electron
+oscil

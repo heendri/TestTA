@@ -1,0 +1,11 @@
+ire
+standards
+circuits
+definitions
+terms
+linear
+passive
+reciprocal
+time
+invariant
+networks

@@ -1,0 +1,16 @@
+detection
+discrete
+radio
+sources
+wavelength
+details
+tabulated
+sources
+observed
+naval
+research
+laboratory
+equipment
+used
+briefly
+described

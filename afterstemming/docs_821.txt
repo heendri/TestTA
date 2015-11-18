@@ -1,0 +1,8 @@
+wave
+function
+effect
+hamiltonian
+bloch
+electron
+electr
+field

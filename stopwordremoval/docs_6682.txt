@@ -1,0 +1,7 @@
+application
+cycle
+magnetic
+amplifier
+position
+indicating
+servomechanism

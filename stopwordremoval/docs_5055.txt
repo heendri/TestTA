@@ -1,0 +1,6 @@
+principles
+construction
+magnetic
+amplifiers
+sensitivity
+threshold

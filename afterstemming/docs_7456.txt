@@ -1,0 +1,12 @@
+voltag
+stabil
+seri
+valv
+control
+analysi
+oper
+equip
+take
+larg
+load
+current

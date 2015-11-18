@@ -1,0 +1,4 @@
+intern
+oscil
+microwav
+transistor

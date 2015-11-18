@@ -1,0 +1,10 @@
+height
+emission
+line
+air
+glow
+observed
+jungfraujoch
+mean
+altitude
+deduced

@@ -1,0 +1,14 @@
+skin
+effect
+ferromagnet
+reson
+mathemat
+analysi
+normal
+anomal
+skin
+effect
+metal
+condit
+ferromagnet
+reson

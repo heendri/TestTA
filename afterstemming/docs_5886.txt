@@ -1,0 +1,11 @@
+stabil
+transistor
+amplifi
+stabil
+us
+unbypass
+resistor
+emitt
+circuit
+junction
+transistor

@@ -1,0 +1,17 @@
+new
+isodyn
+phase
+splitter
+detail
+given
+amplifi
+phase
+splitter
+directli
+coupl
+output
+final
+stage
+taken
+cathod
+follow

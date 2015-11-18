@@ -1,0 +1,16 @@
+accuracy
+solar
+flare
+observations
+division
+observed
+solar
+flares
+three
+classes
+statistically
+justifiable
+uniform
+detailed
+reporting
+required

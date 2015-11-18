@@ -1,0 +1,8 @@
+theory
+magnetohydrodynamic
+waves
+using
+energy
+pulse
+tensor
+abraham

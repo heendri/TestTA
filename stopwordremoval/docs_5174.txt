@@ -1,0 +1,16 @@
+triode
+cathode
+followers
+impedance
+matching
+transformers
+filters
+design
+curves
+derived
+measurements
+five
+different
+types
+triode
+presented

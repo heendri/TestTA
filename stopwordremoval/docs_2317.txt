@@ -1,0 +1,17 @@
+topological
+investigation
+network
+determinants
+main
+result
+gives
+determinant
+nodal
+admittance
+matrix
+rlc
+network
+mutual
+inductance
+ideal
+transformers

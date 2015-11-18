@@ -1,0 +1,16 @@
+design
+controlled
+rectifiers
+using
+triode
+transistors
+polyphase
+rectifiers
+described
+switching
+elements
+transistors
+stability
+conditions
+investigated
+graphically

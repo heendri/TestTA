@@ -1,0 +1,14 @@
+anisotropic
+field
+aligned
+ionization
+irregularities
+ionosphere
+near
+magnetic
+equator
+equatorial
+scatter
+echoes
+measured
+huancayo

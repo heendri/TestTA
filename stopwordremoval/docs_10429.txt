@@ -1,0 +1,17 @@
+effect
+oblate
+rotating
+atmosphere
+orientation
+satellite
+orbit
+inclinations
+particular
+significant
+rotation
+major
+axis
+orbital
+plane
+occurs
+atmosphere

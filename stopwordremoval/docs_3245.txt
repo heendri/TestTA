@@ -1,0 +1,8 @@
+balanced
+transistor
+dc
+convertor
+theoretical
+analysis
+operation
+given

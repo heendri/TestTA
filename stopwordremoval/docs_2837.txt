@@ -1,0 +1,17 @@
+radiation
+charged
+particle
+passing
+plate
+expressions
+derived
+fourier
+components
+radiation
+field
+space
+front
+behind
+dielectric
+plate
+vacuum

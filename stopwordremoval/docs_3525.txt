@@ -1,0 +1,7 @@
+design
+feedback
+amplifiers
+prescribed
+closed
+loop
+characteristics

@@ -1,0 +1,9 @@
+addit
+neg
+resist
+oscil
+mode
+sever
+class
+mode
+consid

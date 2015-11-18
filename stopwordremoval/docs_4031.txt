@@ -1,0 +1,9 @@
+simultaneous
+measurement
+air
+earth
+current
+atmospheric
+electric
+potential
+gradient

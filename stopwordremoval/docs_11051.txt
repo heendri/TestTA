@@ -1,0 +1,17 @@
+choice
+collector
+load
+resistance
+minimum
+harmonic
+distortion
+graphical
+method
+calculating
+optimum
+load
+minimize
+harmonic
+distortion
+transistor
+amplifiers

@@ -1,0 +1,6 @@
+gas
+filled
+diode
+digital
+storage
+element

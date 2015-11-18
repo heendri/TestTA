@@ -1,0 +1,8 @@
+transistors
+part
+applications
+amplifier
+oscillator
+switching
+circuits
+discussed

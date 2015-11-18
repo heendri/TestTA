@@ -1,0 +1,9 @@
+bridge
+short
+arc
+erosion
+copper
+silver
+palladium
+contacts
+break

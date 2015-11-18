@@ -1,0 +1,12 @@
+design
+transistor
+voltag
+regul
+detail
+analysi
+design
+dc
+seri
+regul
+temperatur
+compens

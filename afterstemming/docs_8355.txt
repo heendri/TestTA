@@ -1,0 +1,6 @@
+transistor
+audio
+amplifi
+junction
+transistor
+consid

@@ -1,0 +1,8 @@
+linear
+effect
+applied
+electric
+field
+electron
+spin
+resonance

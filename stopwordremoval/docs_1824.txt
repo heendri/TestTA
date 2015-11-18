@@ -1,0 +1,15 @@
+transistor
+stabilized
+power
+supply
+circuit
+details
+unit
+output
+resistance
+output
+voltage
+variation
+change
+input
+voltage

@@ -1,0 +1,10 @@
+uhf
+wide
+band
+amplifier
+description
+design
+amplifier
+bandwidth
+program
+distribution

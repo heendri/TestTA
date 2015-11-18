@@ -1,0 +1,7 @@
+synthesis
+active
+passive
+filters
+root
+locus
+method

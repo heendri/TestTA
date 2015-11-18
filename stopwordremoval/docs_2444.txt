@@ -1,0 +1,9 @@
+tchebycheff
+approximation
+loss
+free
+image
+parameter
+filters
+according
+cauer

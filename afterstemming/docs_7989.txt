@@ -1,0 +1,4 @@
+check
+code
+digit
+comput

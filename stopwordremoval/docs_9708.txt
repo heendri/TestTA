@@ -1,0 +1,9 @@
+transfer
+function
+tool
+analysis
+resistance
+capacitance
+coupled
+voltage
+amplifier

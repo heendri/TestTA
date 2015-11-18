@@ -1,0 +1,16 @@
+multivibr
+circuit
+us
+pnp
+npn
+junction
+transistor
+detail
+improv
+circuit
+give
+output
+imped
+small
+power
+consumpt

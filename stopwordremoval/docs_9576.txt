@@ -1,0 +1,17 @@
+variable
+dual
+reactance
+travelling
+wave
+parametric
+amplifier
+two
+transmission
+lines
+coupled
+together
+inductance
+capacitance
+vary
+pump
+frequency

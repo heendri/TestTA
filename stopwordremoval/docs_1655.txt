@@ -1,0 +1,6 @@
+electromagnetic
+transmission
+reflection
+properties
+strip
+grating

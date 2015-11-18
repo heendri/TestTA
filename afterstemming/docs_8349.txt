@@ -1,0 +1,8 @@
+transistor
+part
+applic
+amplifi
+oscil
+switch
+circuit
+discuss

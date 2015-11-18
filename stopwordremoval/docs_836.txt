@@ -1,0 +1,8 @@
+radiation
+emitted
+within
+ionized
+gas
+presence
+magnetic
+field

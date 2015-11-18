@@ -1,0 +1,4 @@
+transistorized
+current
+stabilizer
+electromagnet

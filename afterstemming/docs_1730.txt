@@ -1,0 +1,16 @@
+design
+curv
+simpl
+filter
+chart
+given
+design
+simpl
+lc
+ladder
+filter
+either
+butterworth
+tchebycheff
+type
+respons

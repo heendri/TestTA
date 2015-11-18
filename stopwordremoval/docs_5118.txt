@@ -1,0 +1,6 @@
+nature
+detectability
+clouds
+precipitation
+determined
+radar

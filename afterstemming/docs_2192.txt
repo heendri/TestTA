@@ -1,0 +1,11 @@
+group
+delai
+group
+veloc
+concept
+defin
+relat
+transfer
+function
+network
+given

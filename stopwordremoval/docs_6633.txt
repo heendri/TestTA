@@ -1,0 +1,16 @@
+oscillator
+systems
+including
+elements
+inertia
+analysis
+given
+oscillator
+circuits
+valves
+including
+elements
+whost
+resistance
+varies
+temperature

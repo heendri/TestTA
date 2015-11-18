@@ -1,0 +1,11 @@
+geometrical
+quadripole
+representation
+double
+transformer
+representation
+effected
+adapting
+technique
+described
+previously

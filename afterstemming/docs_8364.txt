@@ -1,0 +1,9 @@
+calcul
+intern
+field
+relax
+polar
+polycrystallin
+dipol
+type
+dielectr

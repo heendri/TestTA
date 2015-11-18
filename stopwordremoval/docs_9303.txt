@@ -1,0 +1,10 @@
+level
+linear
+microsecond
+gate
+six
+diode
+gate
+linear
+range
+described

@@ -1,0 +1,5 @@
+nonlinear
+integral
+equation
+theory
+servomechanism

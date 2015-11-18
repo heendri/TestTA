@@ -1,0 +1,4 @@
+time
+constant
+secondari
+emiss

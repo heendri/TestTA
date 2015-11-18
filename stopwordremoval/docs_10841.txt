@@ -1,0 +1,8 @@
+infrared
+reflected
+solar
+radiation
+measurements
+tiros
+meteorological
+satellite

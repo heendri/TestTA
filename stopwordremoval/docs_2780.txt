@@ -1,0 +1,13 @@
+frequency
+spectra
+atmospherics
+propagated
+ionosphere
+report
+experimental
+results
+support
+mode
+theory
+suggested
+budden

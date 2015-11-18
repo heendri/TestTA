@@ -1,0 +1,14 @@
+precision
+current
+regulator
+using
+transistors
+regulator
+electromagnets
+field
+strength
+described
+accurate
+within
+two
+parts

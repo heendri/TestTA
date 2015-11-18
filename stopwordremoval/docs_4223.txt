@@ -1,0 +1,16 @@
+minimum
+noise
+figure
+parametric
+amplifier
+aid
+circulator
+noise
+figure
+made
+approach
+minimum
+value
+pumping
+output
+frequency

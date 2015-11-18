@@ -1,0 +1,17 @@
+silicon
+rectifiers
+characteristics
+given
+experimental
+rectifier
+unit
+rated
+peak
+inverse
+voltage
+hermetically
+sealed
+metal
+case
+mm
+diameter

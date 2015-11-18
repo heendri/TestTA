@@ -1,0 +1,7 @@
+diurnal
+variation
+indices
+geomagnetic
+activity
+disturbed
+days

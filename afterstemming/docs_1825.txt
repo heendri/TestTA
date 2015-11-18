@@ -1,0 +1,6 @@
+transistor
+regul
+power
+suppli
+video
+circuit

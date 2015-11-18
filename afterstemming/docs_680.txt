@@ -1,0 +1,5 @@
+doubl
+push
+pull
+modul
+valv

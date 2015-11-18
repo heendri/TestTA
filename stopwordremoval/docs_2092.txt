@@ -1,0 +1,14 @@
+calculation
+harmonic
+distortion
+sinusoidal
+frequency
+modulation
+cases
+waveguide
+cross
+section
+amplification
+stage
+tuned
+transformer

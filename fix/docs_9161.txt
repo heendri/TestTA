@@ -1,0 +1,1 @@
+speed control dc motor two design continu variabl type servo system describ first emploi phase lock feedback system second simpl veloc feedback system 

@@ -1,0 +1,7 @@
+extension
+spin
+wave
+theory
+ferromagnetism
+higher
+temperatures

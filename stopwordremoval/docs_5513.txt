@@ -1,0 +1,7 @@
+identity
+leading
+solution
+kirchhoffs
+problem
+damped
+waves

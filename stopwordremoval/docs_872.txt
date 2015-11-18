@@ -1,0 +1,11 @@
+estimate
+peak
+sunspot
+number
+probability
+next
+smoothed
+peak
+sunspot
+number
+range

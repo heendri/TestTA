@@ -1,0 +1,11 @@
+transistor
+speech
+equip
+transistor
+circuit
+describ
+construct
+detail
+given
+speech
+amplifi

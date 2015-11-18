@@ -1,0 +1,15 @@
+design
+simple
+band
+pass
+amplifier
+approximate
+ideal
+frequency
+characteristics
+application
+pole
+zero
+method
+synthesis
+illustrated

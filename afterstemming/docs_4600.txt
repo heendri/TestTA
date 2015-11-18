@@ -1,0 +1,6 @@
+glossari
+term
+relat
+automat
+digit
+comput

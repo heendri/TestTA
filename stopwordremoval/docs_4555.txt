@@ -1,0 +1,16 @@
+theory
+electrical
+conductivity
+metal
+fluctuations
+potential
+electron
+ion
+plasma
+metal
+electrical
+resistance
+scattering
+electrons
+fluctuations
+calculated

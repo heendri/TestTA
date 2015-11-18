@@ -1,0 +1,15 @@
+transistor
+stabil
+power
+suppli
+circuit
+detail
+unit
+output
+resist
+output
+voltag
+variat
+chang
+input
+voltag

@@ -1,0 +1,15 @@
+rf
+source
+heater
+power
+level
+audio
+frequency
+amplifiers
+details
+given
+simple
+compact
+oscillator
+rated
+output

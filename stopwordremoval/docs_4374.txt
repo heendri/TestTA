@@ -1,0 +1,16 @@
+description
+electromagnetic
+field
+means
+matrices
+properties
+matrix
+tensors
+briefly
+considered
+quantities
+characterizing
+field
+expressed
+matrix
+form

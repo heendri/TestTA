@@ -1,0 +1,7 @@
+phase
+bistabl
+transistor
+circuit
+correct
+paper
+note

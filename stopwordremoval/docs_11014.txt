@@ -1,0 +1,14 @@
+measurement
+frequency
+atmospherics
+bonn
+report
+measurements
+frequency
+range
+close
+agreement
+found
+earlier
+results
+obtained

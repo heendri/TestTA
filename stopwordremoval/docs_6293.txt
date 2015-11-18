@@ -1,0 +1,8 @@
+diffusion
+effect
+weak
+alternating
+fields
+validity
+rayleighs
+law

@@ -1,0 +1,5 @@
+transients
+magnetographs
+blankstantaneous
+values
+recordings

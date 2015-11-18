@@ -1,0 +1,12 @@
+iter
+method
+nonlinear
+vibrat
+analysi
+method
+give
+result
+analog
+obtain
+duf
+method

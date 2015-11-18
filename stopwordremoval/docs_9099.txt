@@ -1,0 +1,17 @@
+theory
+impurity
+resistance
+metals
+body
+technique
+developed
+calculation
+dc
+resistivity
+fermi
+fluid
+presence
+randomly
+distributed
+fixed
+impurities

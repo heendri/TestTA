@@ -1,0 +1,11 @@
+multistage
+band
+pass
+filter
+optimum
+approximation
+ideal
+rectangular
+shape
+response
+curve

@@ -1,0 +1,6 @@
+electron
+phonon
+interaction
+according
+adiabatic
+approximation

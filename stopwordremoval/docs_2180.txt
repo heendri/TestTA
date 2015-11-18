@@ -1,0 +1,6 @@
+storage
+processing
+digital
+data
+magnetic
+tape

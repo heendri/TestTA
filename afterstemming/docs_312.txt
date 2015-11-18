@@ -1,0 +1,6 @@
+construct
+strong
+field
+maser
+type
+oscil

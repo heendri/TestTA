@@ -1,0 +1,16 @@
+larg
+storag
+binari
+decim
+convert
+digit
+convert
+describ
+handl
+binari
+digit
+number
+maximum
+input
+speed
+bit

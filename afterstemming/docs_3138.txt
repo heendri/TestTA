@@ -1,0 +1,9 @@
+multipurpos
+electron
+switch
+analogu
+comput
+simul
+autocorrel
+applic
+abstract

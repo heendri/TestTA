@@ -1,0 +1,15 @@
+electrons
+lattice
+fields
+study
+motion
+free
+electron
+conduction
+band
+ionic
+crystal
+taking
+account
+lattice
+vibrations

@@ -1,0 +1,10 @@
+apparent
+sidereal
+daily
+variation
+cosmic
+ray
+intensity
+recent
+sunspot
+minimum

@@ -1,0 +1,6 @@
+influence
+temperature
+humidity
+electrical
+constants
+ground

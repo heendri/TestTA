@@ -1,0 +1,7 @@
+zero
+point
+susceptibility
+linear
+antiferromagnetic
+atomic
+chain

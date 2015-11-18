@@ -1,0 +1,6 @@
+larg
+scale
+irregular
+high
+altitud
+wind

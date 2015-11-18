@@ -1,0 +1,10 @@
+elastic
+impurity
+centre
+model
+approximation
+two
+extraneous
+atoms
+crystal
+lattice

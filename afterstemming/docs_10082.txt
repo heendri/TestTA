@@ -1,0 +1,8 @@
+shift
+shadow
+boundari
+scatter
+cross
+section
+opaqu
+object

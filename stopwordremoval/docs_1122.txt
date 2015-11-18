@@ -1,0 +1,6 @@
+theory
+protons
+trapped
+earths
+magnetic
+field

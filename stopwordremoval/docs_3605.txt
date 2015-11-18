@@ -1,0 +1,11 @@
+simple
+variable
+voltage
+power
+supply
+design
+details
+circuit
+giving
+output
+currents

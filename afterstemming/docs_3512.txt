@@ -1,0 +1,15 @@
+doubl
+tetrod
+oscil
+oscil
+cover
+frequenc
+rang
+anod
+modul
+puls
+repeat
+rate
+construct
+detail
+given

@@ -1,0 +1,9 @@
+diffraction
+skew
+plane
+electromagnetic
+wave
+absorbing
+right
+angled
+wedge

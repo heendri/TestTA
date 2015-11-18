@@ -1,0 +1,14 @@
+scale
+height
+upper
+atmospher
+effect
+air
+drag
+orbit
+earth
+satellit
+calcul
+allow
+ellipt
+earth

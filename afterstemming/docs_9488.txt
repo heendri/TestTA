@@ -1,0 +1,9 @@
+season
+variat
+lunar
+solar
+geomagnet
+tide
+geomagnet
+equatori
+region

@@ -1,0 +1,14 @@
+silicon
+transistor
+crystal
+oscillators
+high
+temperature
+stability
+outline
+circuit
+design
+considerations
+discussion
+experimental
+results

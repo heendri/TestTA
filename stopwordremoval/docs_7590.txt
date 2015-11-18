@@ -1,0 +1,7 @@
+accuracy
+perturbation
+calculated
+inaccurate
+unperturbed
+wave
+function

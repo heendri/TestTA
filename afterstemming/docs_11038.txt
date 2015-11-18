@@ -1,0 +1,15 @@
+band
+pass
+filter
+quasi
+symmetr
+attenu
+group
+delai
+characterist
+descript
+design
+procedur
+report
+experiment
+result

@@ -1,0 +1,7 @@
+two
+terminal
+junction
+devices
+frequency
+conversion
+computation

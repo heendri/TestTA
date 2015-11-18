@@ -1,0 +1,13 @@
+automatic
+phase
+control
+theory
+design
+systems
+sinusoidal
+reference
+signal
+analysed
+results
+verified
+experimentally

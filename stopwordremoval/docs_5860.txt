@@ -1,0 +1,11 @@
+general
+tchebycheff
+rational
+function
+derivation
+described
+function
+useful
+design
+pass
+filters

@@ -1,0 +1,6 @@
+comparison
+magnetic
+amplifier
+circuits
+internal
+feedback

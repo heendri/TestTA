@@ -1,0 +1,7 @@
+effect
+large
+dielectric
+constant
+ground
+wave
+propagation

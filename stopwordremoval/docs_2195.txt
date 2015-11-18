@@ -1,0 +1,12 @@
+analysis
+lossy
+symmetrical
+quadripoles
+decimetre
+centimetre
+wavelength
+ranges
+using
+voltage
+node
+displacements

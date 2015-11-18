@@ -1,0 +1,8 @@
+studi
+applic
+hall
+effect
+construct
+logic
+circuit
+element

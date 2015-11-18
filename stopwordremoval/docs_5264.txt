@@ -1,0 +1,15 @@
+gate
+selects
+pulses
+spectrum
+analysis
+circuit
+permitting
+isolation
+pulses
+wide
+repetition
+rates
+per
+sec
+described

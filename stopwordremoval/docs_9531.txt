@@ -1,0 +1,5 @@
+transient
+thermal
+impedance
+semiconductor
+devices

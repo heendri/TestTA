@@ -1,0 +1,14 @@
+constant
+resist
+pass
+network
+maxim
+flat
+time
+delai
+practic
+design
+tabl
+given
+illustr
+exampl

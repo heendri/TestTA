@@ -1,0 +1,11 @@
+puls
+width
+modul
+modul
+achiev
+us
+hole
+storag
+effect
+junction
+transistor

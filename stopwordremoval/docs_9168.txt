@@ -1,0 +1,15 @@
+testing
+metal
+tape
+magnetic
+cores
+code
+translator
+acceptance
+tests
+described
+simulate
+actual
+conditions
+cores
+used

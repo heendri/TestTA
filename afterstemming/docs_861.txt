@@ -1,0 +1,10 @@
+thermal
+radiat
+moon
+radiat
+temperatur
+measur
+show
+variat
+phase
+moon

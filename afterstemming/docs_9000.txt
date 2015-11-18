@@ -1,0 +1,7 @@
+diffract
+plane
+electromagnet
+wave
+cylind
+anisotrop
+conduct

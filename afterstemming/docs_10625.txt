@@ -1,0 +1,8 @@
+nonsymmetr
+properti
+non
+linear
+element
+high
+imped
+circuit

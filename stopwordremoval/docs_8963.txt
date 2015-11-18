@@ -1,0 +1,7 @@
+reversible
+dekatron
+circuit
+description
+unit
+discussion
+limitations

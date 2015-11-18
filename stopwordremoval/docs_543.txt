@@ -1,0 +1,14 @@
+wide
+band
+capacitance
+diodes
+two
+circuits
+described
+using
+voltage
+variable
+capacitors
+modulate
+valve
+oscillator

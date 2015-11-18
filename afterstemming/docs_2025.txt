@@ -1,0 +1,9 @@
+doppler
+satellit
+measur
+note
+record
+obtain
+success
+unsuccess
+launch

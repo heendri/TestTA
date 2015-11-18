@@ -1,0 +1,8 @@
+report
+observations
+geomagnetic
+variations
+aso
+naze
+solar
+eclipse

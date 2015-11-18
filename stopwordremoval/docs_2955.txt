@@ -1,0 +1,16 @@
+concentric
+shear
+mode
+electromechanical
+filter
+experimental
+filter
+simplified
+design
+described
+consists
+four
+magnetostrictive
+ferrite
+disk
+resonators

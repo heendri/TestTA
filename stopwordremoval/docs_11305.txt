@@ -1,0 +1,8 @@
+reduction
+unsymmetric
+quadripoles
+different
+terminal
+resistances
+symmetric
+quadripoles

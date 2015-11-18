@@ -1,0 +1,15 @@
+influence
+coefficients
+transfer
+function
+transmission
+system
+output
+characteristics
+function
+time
+input
+considered
+form
+step
+function

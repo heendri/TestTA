@@ -1,0 +1,8 @@
+absorpt
+emiss
+spectra
+electron
+on
+dimension
+deep
+trap

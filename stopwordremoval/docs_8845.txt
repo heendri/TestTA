@@ -1,0 +1,15 @@
+transistor
+wide
+band
+amplifiers
+design
+rc
+coupled
+multistage
+amplifiers
+considered
+earthed
+emitter
+configuration
+suitable
+application

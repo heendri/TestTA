@@ -1,0 +1,6 @@
+interpret
+network
+theorem
+term
+laplac
+transform

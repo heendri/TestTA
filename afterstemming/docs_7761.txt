@@ -1,0 +1,8 @@
+servomechan
+transient
+perform
+decibel
+log
+frequenc
+plot
+discuss

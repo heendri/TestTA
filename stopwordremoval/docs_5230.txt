@@ -1,0 +1,8 @@
+dual
+input
+describing
+function
+analysis
+nonlinear
+feedback
+systems

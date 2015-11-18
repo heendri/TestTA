@@ -1,0 +1,14 @@
+local
+feedback
+transistor
+amplifi
+effect
+neg
+feedback
+common
+emitt
+amplifi
+calcul
+compar
+measur
+result

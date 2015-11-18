@@ -1,0 +1,6 @@
+errors
+orbital
+predictions
+artificial
+satellites
+earth

@@ -1,0 +1,10 @@
+magnetic
+core
+matrices
+logical
+functions
+applications
+cores
+square
+hysteresis
+loop

@@ -1,0 +1,7 @@
+charging
+discharging
+nonlinear
+capacitors
+correction
+paper
+abstracted

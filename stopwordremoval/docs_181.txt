@@ -1,0 +1,10 @@
+alloyed
+thin
+base
+diode
+capacitors
+parametric
+amplification
+design
+principles
+ghven

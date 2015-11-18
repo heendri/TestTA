@@ -1,0 +1,7 @@
+conductivity
+viscosity
+effects
+wave
+propagation
+piezoelectric
+crystals

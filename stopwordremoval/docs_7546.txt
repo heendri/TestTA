@@ -1,0 +1,10 @@
+note
+optimum
+input
+winding
+resistance
+magnetic
+amplifier
+employing
+voltage
+feedback

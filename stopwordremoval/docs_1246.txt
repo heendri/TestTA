@@ -1,0 +1,11 @@
+source
+radiation
+jupiter
+decimetre
+wavelengths
+part
+two
+cyclotron
+radiation
+trapped
+electrons

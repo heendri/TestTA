@@ -1,0 +1,12 @@
+time
+pulse
+height
+converter
+circuit
+described
+deriving
+pulses
+amplitudes
+decrease
+linearly
+time

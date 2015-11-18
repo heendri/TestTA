@@ -1,0 +1,6 @@
+singular
+electromagnetic
+induction
+extension
+concepts
+discussed

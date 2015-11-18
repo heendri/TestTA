@@ -1,0 +1,6 @@
+variation
+speed
+rotation
+earth
+since
+june

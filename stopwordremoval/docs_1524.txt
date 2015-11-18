@@ -1,0 +1,4 @@
+impulse
+excitation
+conducting
+medium

@@ -1,0 +1,14 @@
+shielding
+effect
+ionosphere
+analysis
+effect
+ionosphere
+screening
+earth
+external
+fields
+taking
+account
+conductivity
+earth

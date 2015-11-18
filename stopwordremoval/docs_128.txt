@@ -1,0 +1,6 @@
+observations
+whistlers
+frequency
+phenomena
+godhavn
+greenland

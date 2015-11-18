@@ -1,0 +1,11 @@
+propagation
+hydromagnetic
+waves
+compressible
+ionized
+fluid
+mathematical
+treatment
+based
+method
+characteristics

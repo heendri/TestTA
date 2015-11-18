@@ -1,0 +1,8 @@
+theoretical
+comparison
+average
+spot
+noise
+figure
+transistor
+amplifiers

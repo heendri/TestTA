@@ -1,0 +1,6 @@
+least
+squares
+criterion
+applied
+linear
+servos

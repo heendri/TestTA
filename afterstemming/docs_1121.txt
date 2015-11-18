@@ -1,0 +1,14 @@
+period
+solar
+radio
+nois
+emiss
+attent
+drawn
+presenc
+sweeper
+train
+gerson
+gossard
+work
+robert

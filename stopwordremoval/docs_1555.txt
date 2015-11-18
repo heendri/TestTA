@@ -1,0 +1,10 @@
+power
+spectra
+temperature
+humidity
+refractive
+index
+aircraft
+tethered
+balloon
+measurements

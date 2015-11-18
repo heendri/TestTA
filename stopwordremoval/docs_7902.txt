@@ -1,0 +1,7 @@
+generation
+single
+frequency
+pulses
+electroacoustics
+musical
+acoustics

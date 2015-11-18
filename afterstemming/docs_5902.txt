@@ -1,0 +1,7 @@
+dioptric
+electron
+ion
+beam
+circular
+princip
+path

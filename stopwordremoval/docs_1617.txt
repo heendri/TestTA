@@ -1,0 +1,12 @@
+transistor
+blocking
+oscillator
+circuits
+circuit
+characteristics
+examined
+methods
+varying
+output
+waveform
+discussed

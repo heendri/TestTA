@@ -1,0 +1,11 @@
+satellites
+space
+probes
+launched
+ussr
+tabulated
+summary
+launching
+dates
+instrumentation
+results

@@ -1,0 +1,6 @@
+automatic
+checking
+transistor
+counter
+digital
+display

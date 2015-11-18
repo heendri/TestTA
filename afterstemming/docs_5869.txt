@@ -1,0 +1,7 @@
+electron
+switch
+analysi
+oper
+squar
+wave
+gener

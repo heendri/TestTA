@@ -1,0 +1,17 @@
+parametric
+amplifier
+theory
+plasmas
+electron
+beams
+theory
+given
+parametric
+amplifier
+uses
+gas
+discharge
+plasma
+experimental
+amplifier
+described

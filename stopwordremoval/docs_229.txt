@@ -1,0 +1,17 @@
+theory
+electrostatic
+fields
+horizontally
+stratified
+ionosphere
+subject
+vertical
+magnetic
+field
+discussion
+possible
+explanation
+spread
+radio
+star
+scintillation

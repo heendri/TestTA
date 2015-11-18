@@ -1,0 +1,11 @@
+collective
+description
+electron
+interactions
+part
+collective
+vs
+individual
+particle
+aspects
+interactions

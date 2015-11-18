@@ -1,0 +1,8 @@
+stimul
+optic
+emiss
+fluoresc
+solid
+part
+theoret
+consider

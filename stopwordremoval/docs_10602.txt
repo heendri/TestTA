@@ -1,0 +1,7 @@
+auroral
+radar
+observations
+period
+november
+solar
+event

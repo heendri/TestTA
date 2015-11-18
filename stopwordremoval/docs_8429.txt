@@ -1,0 +1,4 @@
+transistor
+amplifiers
+analog
+computers

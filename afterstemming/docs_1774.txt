@@ -1,0 +1,6 @@
+characterist
+electromagnet
+wave
+reflect
+move
+object

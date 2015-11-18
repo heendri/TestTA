@@ -1,0 +1,14 @@
+noise
+tunnel
+diode
+converter
+conversion
+nonlinearity
+negative
+resistance
+characteristic
+tunnel
+diode
+used
+frequency
+conversion

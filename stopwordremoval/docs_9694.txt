@@ -1,0 +1,15 @@
+voltage
+ratio
+output
+impedance
+ladder
+network
+composed
+similar
+elements
+simple
+expressions
+derived
+using
+thevenins
+theorem

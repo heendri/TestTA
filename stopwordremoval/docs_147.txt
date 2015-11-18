@@ -1,0 +1,15 @@
+synthesis
+parallel
+adder
+circuit
+using
+pattern
+recognition
+technique
+besides
+synthesis
+comparison
+conventional
+adder
+circuit
+given

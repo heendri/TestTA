@@ -1,0 +1,8 @@
+south
+magnet
+pole
+compar
+displac
+north
+south
+pole

@@ -1,0 +1,15 @@
+x
+band
+parametric
+amplifier
+using
+silver
+bonded
+diode
+wafer
+type
+construction
+used
+silver
+bonded
+diode

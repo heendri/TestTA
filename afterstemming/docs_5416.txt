@@ -1,0 +1,6 @@
+studi
+select
+fade
+appear
+fct
+trace

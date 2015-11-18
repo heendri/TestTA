@@ -1,0 +1,11 @@
+direct
+current
+stabilizers
+electromagnets
+general
+principles
+operation
+factors
+affecting
+stability
+reviewed

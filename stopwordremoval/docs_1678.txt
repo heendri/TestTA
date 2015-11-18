@@ -1,0 +1,4 @@
+gravitational
+torque
+satellite
+vehicle

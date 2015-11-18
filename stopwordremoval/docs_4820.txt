@@ -1,0 +1,13 @@
+transfer
+function
+relays
+inactive
+zone
+hysteresis
+equation
+transfer
+relay
+calculated
+laplace
+transform
+method

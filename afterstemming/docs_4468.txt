@@ -1,0 +1,6 @@
+import
+origin
+mode
+descript
+magnetogalvan
+effect

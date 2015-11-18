@@ -1,0 +1,17 @@
+spectrometer
+frequency
+range
+instrument
+incorporates
+hartley
+type
+marginal
+oscillator
+continuous
+frequency
+sweep
+frequency
+modulated
+repetition
+rate
+cs

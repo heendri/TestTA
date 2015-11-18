@@ -1,0 +1,6 @@
+program
+finding
+zeros
+polynomial
+analogue
+computer

@@ -1,0 +1,6 @@
+relating
+nyquist
+plot
+root
+locus
+plot

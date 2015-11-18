@@ -1,0 +1,15 @@
+thin
+film
+capacitors
+using
+tantalum
+oxide
+dielectrics
+prepared
+reactive
+sputtering
+note
+method
+preparation
+measured
+characteristics

@@ -1,0 +1,15 @@
+representation
+electromagnetic
+field
+retarded
+potentials
+applications
+considered
+include
+boundary
+problem
+equation
+motion
+electron
+gas
+vacuo

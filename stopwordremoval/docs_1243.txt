@@ -1,0 +1,8 @@
+maximum
+angular
+accuracy
+tracking
+radio
+star
+lobe
+comrarison

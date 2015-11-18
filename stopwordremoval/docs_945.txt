@@ -1,0 +1,11 @@
+simple
+amplitude
+stabilized
+twin
+audio
+oscillator
+stabilization
+achieved
+clipping
+feedback
+loop

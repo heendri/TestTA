@@ -1,0 +1,13 @@
+transistor
+amplifier
+uses
+multiple
+feedback
+shunt
+series
+negative
+feedback
+loops
+simultaneously
+stage
+considered

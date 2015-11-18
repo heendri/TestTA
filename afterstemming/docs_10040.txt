@@ -1,0 +1,10 @@
+replac
+cascad
+unequ
+asymmetr
+quadripol
+equal
+iter
+imped
+on
+quadripol

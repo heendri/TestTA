@@ -1,0 +1,10 @@
+transistor
+nonlinear
+depend
+emitt
+bia
+current
+pnp
+alloi
+junction
+transistor

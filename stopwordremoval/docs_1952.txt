@@ -1,0 +1,16 @@
+minimum
+insertion
+loss
+filters
+generalized
+criterion
+butterworth
+tchebycheff
+filters
+arbitrary
+bandwidth
+chosen
+minimum
+loss
+centre
+band

@@ -1,0 +1,9 @@
+duality
+relations
+threshold
+type
+switching
+functions
+application
+problems
+synthesis

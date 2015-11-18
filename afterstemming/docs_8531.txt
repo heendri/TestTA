@@ -1,0 +1,6 @@
+binari
+adder
+tube
+high
+speed
+comput

@@ -1,0 +1,17 @@
+polyhedral
+satellite
+accurate
+measurement
+orbit
+data
+earth
+satellites
+face
+polyhedron
+reflect
+observer
+light
+pulse
+intensity
+times
+sphere

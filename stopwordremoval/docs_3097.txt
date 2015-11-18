@@ -1,0 +1,8 @@
+potential
+barrier
+molecular
+structure
+methyl
+mercaptan
+microwave
+spectra

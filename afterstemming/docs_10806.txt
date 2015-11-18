@@ -1,0 +1,13 @@
+magnetostat
+mode
+ferromagnet
+slab
+characterist
+mode
+thin
+slab
+magnet
+plane
+obtain
+magnetostat
+limit

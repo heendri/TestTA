@@ -1,0 +1,11 @@
+spectral
+output
+piecewise
+linear
+nonlinearity
+transference
+effective
+piecewise
+linear
+component
+derived

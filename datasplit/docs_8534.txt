@@ -1,0 +1,1 @@
+8534 transistor binary number store for pulse operations 

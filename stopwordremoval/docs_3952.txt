@@ -1,0 +1,17 @@
+magnetostrictive
+delay
+line
+equivalent
+electromechanical
+circuit
+magnetostrictive
+nickel
+delay
+line
+given
+optimum
+matching
+input
+output
+end
+discussed

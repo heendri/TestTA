@@ -1,0 +1,7 @@
+motion
+satellite
+around
+unsymmetrical
+central
+body
+comment

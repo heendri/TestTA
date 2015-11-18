@@ -1,0 +1,8 @@
+auror
+radio
+echo
+tabl
+diagram
+station
+geomagnet
+latitud

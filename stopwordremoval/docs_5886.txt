@@ -1,0 +1,11 @@
+stabilized
+transistor
+amplifier
+stabilized
+using
+unbypassed
+resistor
+emitter
+circuit
+junction
+transistor

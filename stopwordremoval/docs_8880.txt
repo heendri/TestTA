@@ -1,0 +1,14 @@
+aperture
+fields
+diffraction
+slit
+description
+measurements
+using
+parallel
+plate
+device
+field
+distribution
+apertures
+width

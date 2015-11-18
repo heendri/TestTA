@@ -1,0 +1,16 @@
+on
+tunnel
+diod
+flip
+flop
+report
+oper
+circuit
+similar
+on
+given
+oscillogram
+show
+trigger
+switch
+mode

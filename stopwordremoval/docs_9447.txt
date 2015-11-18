@@ -1,0 +1,15 @@
+relation
+zener
+breakdown
+residual
+resistance
+crystals
+theory
+zener
+breakdown
+crystals
+extended
+case
+strong
+electric
+fields

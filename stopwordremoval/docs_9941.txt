@@ -1,0 +1,12 @@
+relation
+time
+frequency
+functions
+practical
+examples
+calculation
+transient
+response
+linear
+transmission
+systems

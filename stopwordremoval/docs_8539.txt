@@ -1,0 +1,5 @@
+effects
+impurities
+resonator
+properties
+quartz

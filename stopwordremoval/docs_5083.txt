@@ -1,0 +1,16 @@
+structure
+magnetohydrodynamic
+shock
+wave
+plasma
+infinite
+conductivity
+analysis
+presented
+relevant
+problems
+solar
+radiation
+ionosphere
+cosmic
+rays

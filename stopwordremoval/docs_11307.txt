@@ -1,0 +1,7 @@
+terminal
+impedance
+series
+parallel
+transitionally
+coupled
+circuit

@@ -1,0 +1,16 @@
+using
+voltage
+variable
+capacitors
+modulator
+design
+circuits
+design
+equations
+given
+phase
+frequency
+modulators
+ssb
+amplitude
+modulators

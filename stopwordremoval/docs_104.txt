@@ -1,0 +1,9 @@
+diurnal
+semidiurnal
+variations
+wind
+pressure
+temperature
+troposphere
+washington
+dc

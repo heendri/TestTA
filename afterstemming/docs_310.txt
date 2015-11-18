@@ -1,0 +1,8 @@
+vertex
+excit
+surfac
+wave
+face
+right
+angl
+wedg

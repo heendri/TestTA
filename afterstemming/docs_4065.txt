@@ -1,0 +1,13 @@
+automat
+graph
+plotter
+adapt
+analogu
+plot
+tabl
+accept
+input
+data
+digit
+form
+describ

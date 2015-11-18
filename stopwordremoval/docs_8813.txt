@@ -1,0 +1,16 @@
+class
+optimal
+noiseless
+load
+sharing
+matrix
+switches
+scheme
+constructing
+matrix
+switch
+reduced
+number
+input
+wires
+given

@@ -1,0 +1,17 @@
+equation
+performance
+nonlinear
+transistor
+amplifier
+first
+order
+differential
+equation
+derived
+describe
+performance
+nonlinear
+amplifier
+discussed
+earlier
+gumowski

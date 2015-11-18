@@ -1,0 +1,7 @@
+calculation
+inductance
+toroids
+rectangular
+cross
+section
+turns

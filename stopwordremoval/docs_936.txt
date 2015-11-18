@@ -1,0 +1,14 @@
+analogy
+weissfloch
+transformer
+ideal
+attenuator
+reflection
+coefficient
+transformer
+extension
+include
+general
+lossy
+two
+port

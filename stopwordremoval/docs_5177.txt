@@ -1,0 +1,7 @@
+push
+pull
+magnetic
+amplifier
+direct
+current
+output

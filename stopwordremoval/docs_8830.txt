@@ -1,0 +1,16 @@
+linear
+slope
+delay
+filters
+compression
+design
+considerations
+summarized
+filters
+linear
+change
+delay
+time
+frequency
+narrow
+band

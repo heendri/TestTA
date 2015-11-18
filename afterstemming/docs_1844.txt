@@ -1,0 +1,8 @@
+dielectr
+film
+aluminium
+tantalum
+electrolyt
+solid
+tantalum
+capacitor

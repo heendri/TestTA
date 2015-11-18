@@ -1,0 +1,1 @@
+asymmetr servomechan servomechan nonlinear element input output characterist asymmetr respect origin consid even input signal pure sine wave output dc compon filter linear element gener feedback loop equat reformul new condit stabil consid temperatur control devic treat exampl 

@@ -1,0 +1,1 @@
+lock perform afc circuit case rc coupl phase detector reactanc valv afc system explicit relat deriv determin lock condit afc system us reactanc valv control oscil relat involv filter time constant initi frequenc error phase detector constant sensit oscil 

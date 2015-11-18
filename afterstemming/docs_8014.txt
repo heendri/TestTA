@@ -1,0 +1,7 @@
+oper
+load
+characterist
+valv
+oscil
+dielectr
+heat

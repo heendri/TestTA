@@ -1,0 +1,10 @@
+note
+effect
+rel
+strong
+field
+propag
+wave
+hyperson
+produc
+plasma

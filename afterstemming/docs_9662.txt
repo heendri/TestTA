@@ -1,0 +1,5 @@
+power
+suppli
+tiro
+meteorolog
+satellit

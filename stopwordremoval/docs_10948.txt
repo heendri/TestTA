@@ -1,0 +1,15 @@
+drift
+velocity
+charged
+particle
+inhomogeneous
+magnetic
+field
+class
+magnetic
+fields
+defined
+drift
+velocity
+calculated
+exactly

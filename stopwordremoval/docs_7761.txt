@@ -1,0 +1,8 @@
+servomechanism
+transient
+performance
+decibel
+log
+frequency
+plots
+discussion

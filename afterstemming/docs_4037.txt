@@ -1,0 +1,5 @@
+visual
+threshold
+detect
+earth
+satellit

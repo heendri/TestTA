@@ -1,0 +1,8 @@
+radio
+echoes
+auroral
+ionization
+detected
+relatively
+geomagnetic
+latitudes

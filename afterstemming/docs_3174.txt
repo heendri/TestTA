@@ -1,0 +1,13 @@
+simpl
+shaft
+digit
+store
+shaft
+posit
+encod
+simpl
+construct
+analogu
+digit
+convers
+describ

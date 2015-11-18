@@ -1,0 +1,17 @@
+single
+electrode
+discharge
+pressures
+millimetres
+mercury
+atmospheric
+pressure
+frequency
+experiments
+conducted
+discharges
+air
+investigate
+characteristics
+torch
+discharge

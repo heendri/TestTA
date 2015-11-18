@@ -1,0 +1,11 @@
+note
+scatter
+plane
+electromagnet
+wave
+small
+thin
+wall
+cylindr
+dielectr
+tube

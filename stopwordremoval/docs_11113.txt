@@ -1,0 +1,12 @@
+radio
+emission
+normal
+galaxies
+observations
+irregular
+early
+type
+galaxies
+general
+discussion
+results

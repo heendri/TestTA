@@ -1,0 +1,7 @@
+parallel
+resist
+capacit
+network
+correct
+paper
+abstract

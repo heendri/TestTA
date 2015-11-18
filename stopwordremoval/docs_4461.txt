@@ -1,0 +1,15 @@
+dependence
+light
+amplification
+phosphors
+light
+intensity
+differential
+chromaticity
+thresholds
+direction
+primary
+blue
+trichromatic
+synthesis
+system

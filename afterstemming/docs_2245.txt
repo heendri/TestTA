@@ -1,0 +1,8 @@
+radio
+frequenc
+spectra
+hydrogen
+deuterid
+strong
+magnet
+field

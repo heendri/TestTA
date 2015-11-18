@@ -1,0 +1,7 @@
+conditions
+impedance
+admittance
+matrices
+ports
+ideal
+transformers

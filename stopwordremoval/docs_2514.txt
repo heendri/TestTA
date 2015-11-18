@@ -1,0 +1,8 @@
+observations
+sputnik
+radio
+observations
+satellite
+period
+july
+tabulated

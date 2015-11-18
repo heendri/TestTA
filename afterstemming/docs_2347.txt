@@ -1,0 +1,16 @@
+comparison
+transient
+respons
+amplitud
+modul
+frequenc
+modul
+signal
+perform
+rc
+rl
+circuit
+filter
+transmiss
+line
+analys

@@ -1,0 +1,4 @@
+automat
+control
+system
+microwav

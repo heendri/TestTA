@@ -1,0 +1,1 @@
+initi transient behaviour filter characterist amplitud respons distort step voltag input butterworth type tchebycheff type filter analys calcul made pass equal network former type 

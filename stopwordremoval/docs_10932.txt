@@ -1,0 +1,7 @@
+electron
+paramagnetic
+resonance
+metals
+two
+conduction
+bands

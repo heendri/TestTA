@@ -1,0 +1,15 @@
+filter
+helix
+travel
+wave
+tube
+part
+filter
+helix
+new
+circuit
+element
+travel
+wave
+amplifi
+oscil

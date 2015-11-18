@@ -1,0 +1,15 @@
+electronic
+transmit
+receive
+switch
+incoming
+signals
+fed
+via
+tank
+circuit
+pentode
+cut
+grid
+bias
+transmitter

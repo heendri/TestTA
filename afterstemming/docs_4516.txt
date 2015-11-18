@@ -1,0 +1,7 @@
+standard
+graphic
+letter
+symbol
+feedback
+control
+system

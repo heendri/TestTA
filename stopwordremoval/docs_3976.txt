@@ -1,0 +1,13 @@
+temperature
+compensated
+crystal
+oscillators
+method
+described
+passive
+network
+containing
+thermistor
+enclosed
+envelope
+crystal

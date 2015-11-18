@@ -1,0 +1,6 @@
+drift
+mobility
+ionic
+impurity
+electric
+field

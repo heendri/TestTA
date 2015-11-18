@@ -1,0 +1,7 @@
+amplitud
+stabil
+transistor
+oscil
+correct
+paper
+abstract

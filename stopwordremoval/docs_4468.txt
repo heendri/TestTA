@@ -1,0 +1,6 @@
+importance
+origin
+modes
+description
+magnetogalvanic
+effects

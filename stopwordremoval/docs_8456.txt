@@ -1,0 +1,14 @@
+transistors
+generate
+multiwaveforms
+junction
+transistors
+nonlinear
+network
+elements
+illustrated
+discussion
+design
+regenerative
+degenerative
+oscillator

@@ -1,0 +1,10 @@
+dependence
+amplitude
+first
+harmonic
+nuclear
+magnetic
+resonance
+absorption
+amount
+detuning

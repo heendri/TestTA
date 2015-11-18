@@ -1,0 +1,7 @@
+secular
+periodic
+motions
+node
+artificial
+earth
+satellite

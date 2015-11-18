@@ -1,0 +1,9 @@
+magnetic
+amplifiers
+balance
+detector
+type
+basic
+principles
+characteristics
+applications

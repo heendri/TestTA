@@ -1,0 +1,16 @@
+format
+sporad
+layer
+temper
+zone
+extens
+work
+describ
+earlier
+includ
+region
+gyro
+frequenc
+ion
+collis
+frequenc

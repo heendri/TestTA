@@ -1,0 +1,12 @@
+simple
+phase
+detector
+phase
+sensitive
+detector
+described
+reference
+variable
+signals
+common
+terminal

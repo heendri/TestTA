@@ -1,0 +1,10 @@
+liber
+electron
+posit
+ion
+impact
+cathod
+puls
+townsend
+discharg
+tube

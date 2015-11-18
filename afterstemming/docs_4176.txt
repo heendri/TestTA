@@ -1,0 +1,11 @@
+physic
+process
+contact
+eros
+gener
+survei
+eros
+effect
+rel
+voltag
+current

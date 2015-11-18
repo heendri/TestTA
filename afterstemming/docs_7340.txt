@@ -1,0 +1,6 @@
+phase
+plane
+approach
+compens
+satur
+servomechan

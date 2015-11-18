@@ -1,0 +1,9 @@
+pulse
+method
+amplification
+oscillations
+advantages
+efficiency
+pwm
+method
+discussed

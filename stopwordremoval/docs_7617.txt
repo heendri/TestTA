@@ -1,0 +1,8 @@
+variations
+geomagnetic
+field
+fluid
+motions
+rate
+earths
+rotation

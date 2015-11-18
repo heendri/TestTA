@@ -1,0 +1,11 @@
+grid
+diod
+sawtooth
+gener
+descript
+simpl
+timebas
+circuit
+wide
+frequenc
+rang

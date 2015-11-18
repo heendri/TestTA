@@ -1,0 +1,7 @@
+applications
+square
+loop
+ferrite
+cores
+telecommunication
+switching

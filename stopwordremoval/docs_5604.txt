@@ -1,0 +1,12 @@
+electromagnetic
+variometer
+vertical
+component
+geomagnetic
+field
+instrument
+described
+operates
+principles
+electromagnetic
+seismograph

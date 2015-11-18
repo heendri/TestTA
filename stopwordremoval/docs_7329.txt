@@ -1,0 +1,7 @@
+mean
+magnetic
+field
+secular
+variation
+adelie
+land

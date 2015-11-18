@@ -1,0 +1,15 @@
+coherence
+requirements
+interferometry
+analysis
+theory
+double
+beam
+interferometry
+based
+gabor
+gabors
+restrictive
+assumptions
+clarified
+generalized

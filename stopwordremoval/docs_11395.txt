@@ -1,0 +1,5 @@
+statistics
+geomagnetic
+storms
+solar
+activity

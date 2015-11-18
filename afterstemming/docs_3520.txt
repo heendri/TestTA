@@ -1,0 +1,5 @@
+binari
+frequenc
+divid
+unction
+transistor

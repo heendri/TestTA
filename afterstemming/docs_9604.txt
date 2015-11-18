@@ -1,0 +1,7 @@
+ferromagnet
+relax
+caus
+interact
+thermal
+excit
+magnon

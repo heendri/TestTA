@@ -1,0 +1,14 @@
+current
+voltag
+behaviour
+plasma
+exact
+solut
+current
+voltag
+relat
+planar
+diod
+fill
+uniform
+plasma

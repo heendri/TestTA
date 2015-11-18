@@ -1,0 +1,14 @@
+field
+charged
+particle
+moving
+medium
+energy
+losses
+charge
+cherenkov
+radiation
+excitation
+plasma
+waves
+determined

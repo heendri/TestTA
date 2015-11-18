@@ -1,0 +1,5 @@
+signal
+switch
+ferroelectr
+memori
+capacitor

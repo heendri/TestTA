@@ -1,0 +1,8 @@
+type
+emissions
+origin
+cosmic
+rays
+associated
+chromospheric
+eruptions

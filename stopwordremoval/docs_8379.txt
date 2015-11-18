@@ -1,0 +1,6 @@
+theory
+apparatus
+observation
+nuclear
+magnetic
+resonance

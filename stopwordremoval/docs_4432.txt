@@ -1,0 +1,9 @@
+influence
+order
+overtone
+temperature
+coefficient
+frequency
+type
+quartz
+resonators

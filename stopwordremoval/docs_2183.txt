@@ -1,0 +1,13 @@
+circuits
+ternary
+switching
+variables
+applications
+ternary
+switching
+algebra
+considered
+synthesis
+ternary
+adder
+described

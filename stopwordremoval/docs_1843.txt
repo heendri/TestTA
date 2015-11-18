@@ -1,0 +1,9 @@
+experimental
+gas
+diode
+switch
+impedance
+stable
+negative
+resistance
+frequencies

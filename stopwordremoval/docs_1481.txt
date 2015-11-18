@@ -1,0 +1,16 @@
+circuit
+applications
+field
+effect
+transistors
+applications
+photosensitive
+cds
+transistors
+sawtooth
+generators
+amplifiers
+phase
+shift
+oscillators
+described

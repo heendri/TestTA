@@ -1,0 +1,15 @@
+coupling
+multipoles
+represented
+wave
+transmission
+problem
+method
+solving
+multiple
+coupling
+problems
+means
+scattering
+matrix
+described

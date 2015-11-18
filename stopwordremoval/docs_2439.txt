@@ -1,0 +1,15 @@
+dielectric
+losses
+periodic
+rectangular
+voltage
+pulses
+application
+different
+method
+solution
+capacitor
+loss
+problem
+dealt
+eisenlohr

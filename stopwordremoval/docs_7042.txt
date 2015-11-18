@@ -1,0 +1,7 @@
+variation
+geomagnetic
+activity
+recurrence
+interval
+solar
+cycle

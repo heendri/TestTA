@@ -1,0 +1,10 @@
+one
+tunnel
+diode
+flip
+flop
+note
+operation
+simple
+bistable
+device

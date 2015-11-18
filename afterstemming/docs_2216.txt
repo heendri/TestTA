@@ -1,0 +1,7 @@
+travel
+wave
+coupler
+longitudin
+beam
+type
+amplifi

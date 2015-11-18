@@ -1,0 +1,9 @@
+general
+pass
+high
+pass
+antimetric
+filters
+inserted
+equal
+resistances

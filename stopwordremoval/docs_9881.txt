@@ -1,0 +1,9 @@
+influence
+cathode
+material
+measured
+breakdown
+strengths
+solid
+liquid
+dielectrics

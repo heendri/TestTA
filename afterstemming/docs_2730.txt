@@ -1,0 +1,6 @@
+exclud
+volum
+problem
+is
+model
+ferromagnet

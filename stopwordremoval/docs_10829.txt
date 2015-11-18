@@ -1,0 +1,16 @@
+sweep
+frequency
+observations
+meteor
+scatter
+bursts
+duration
+signals
+function
+frequency
+agrees
+closely
+theoretical
+inverse
+square
+relation

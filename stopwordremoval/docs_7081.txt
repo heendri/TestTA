@@ -1,0 +1,10 @@
+synthesis
+network
+sine
+squared
+impulse
+response
+discussion
+paper
+abstracted
+february

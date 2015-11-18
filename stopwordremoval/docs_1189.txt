@@ -1,0 +1,16 @@
+pulse
+delay
+system
+details
+given
+phase
+shift
+circuit
+followed
+pulse
+shaping
+stage
+maximum
+delay
+one
+achieved

@@ -1,0 +1,6 @@
+polarization
+electromagnetic
+waves
+vertical
+propagation
+ionosphere

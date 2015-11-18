@@ -1,0 +1,14 @@
+simple
+rectangular
+pulse
+generator
+cathode
+coupled
+multivibrator
+circuit
+discussed
+produces
+pulses
+amplitude
+rise
+times

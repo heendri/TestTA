@@ -1,0 +1,14 @@
+deriv
+phase
+characterist
+attenu
+curv
+minimum
+phase
+system
+graphic
+method
+describ
+illustr
+numer
+exampl

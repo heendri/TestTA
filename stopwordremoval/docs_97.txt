@@ -1,0 +1,7 @@
+application
+dynamic
+programming
+determination
+optimal
+satellite
+trajectories

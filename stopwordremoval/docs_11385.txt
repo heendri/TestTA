@@ -1,0 +1,7 @@
+decomposition
+comparison
+time
+series
+indices
+solar
+activity

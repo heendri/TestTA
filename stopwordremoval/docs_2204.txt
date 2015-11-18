@@ -1,0 +1,13 @@
+transistorized
+nuclear
+resonance
+magnetic
+field
+probe
+description
+marginal
+oscillator
+type
+nuclear
+resonance
+detector

@@ -1,0 +1,11 @@
+simpl
+variabl
+voltag
+power
+suppli
+design
+detail
+circuit
+give
+output
+current

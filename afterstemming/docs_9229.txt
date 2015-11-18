@@ -1,0 +1,13 @@
+calcul
+width
+ferrimagnet
+absorpt
+line
+relax
+time
+case
+spin
+wave
+non
+neglig
+amplitud

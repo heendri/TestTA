@@ -1,0 +1,16 @@
+band
+pass
+amplifiers
+synthesis
+bandwidth
+factor
+seven
+types
+band
+pass
+amplifier
+investigated
+compared
+design
+formulae
+given

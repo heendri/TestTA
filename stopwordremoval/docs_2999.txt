@@ -1,0 +1,10 @@
+toroidal
+oscillations
+spherical
+mass
+viscous
+conducting
+fluid
+uniform
+magnetic
+field

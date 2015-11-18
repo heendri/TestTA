@@ -1,0 +1,17 @@
+subminiature
+magnetic
+amplifiers
+description
+circuits
+using
+new
+ferristor
+fast
+saturable
+reactor
+used
+magnetic
+amplifier
+bistable
+ferroresonant
+element

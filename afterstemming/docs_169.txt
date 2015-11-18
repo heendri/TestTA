@@ -1,0 +1,14 @@
+transistor
+block
+oscil
+frequenc
+divid
+includ
+design
+staircas
+waveform
+gener
+voltag
+increment
+equal
+amplitud

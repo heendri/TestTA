@@ -1,0 +1,6 @@
+general
+solutions
+equations
+classical
+nonconservative
+electromagnetism

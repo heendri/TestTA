@@ -1,0 +1,8 @@
+surfac
+charg
+produc
+insul
+short
+long
+time
+ioniz

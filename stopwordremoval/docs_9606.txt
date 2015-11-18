@@ -1,0 +1,6 @@
+theory
+spin
+lattice
+relaxation
+paramagnetic
+salts

@@ -1,0 +1,5 @@
+transistor
+video
+amplifier
+volts
+output

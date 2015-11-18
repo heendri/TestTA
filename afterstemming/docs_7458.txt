@@ -1,0 +1,12 @@
+geometr
+transform
+imped
+diagram
+note
+graphic
+method
+riemann
+number
+sphere
+imped
+calcul

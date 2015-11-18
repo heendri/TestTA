@@ -1,0 +1,15 @@
+transistors
+audio
+carrier
+frequency
+amplifiers
+characteristics
+common
+emitter
+transistor
+amplifiers
+relation
+requirements
+communication
+systems
+discussed

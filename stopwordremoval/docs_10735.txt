@@ -1,0 +1,10 @@
+ferrite
+cores
+logical
+elements
+properties
+discussed
+operation
+typical
+circuit
+analysed

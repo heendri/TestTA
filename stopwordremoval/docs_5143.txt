@@ -1,0 +1,13 @@
+winding
+focus
+coils
+aluminium
+foil
+coils
+foil
+thin
+coating
+oxide
+wound
+additional
+insulation

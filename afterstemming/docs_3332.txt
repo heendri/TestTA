@@ -1,0 +1,9 @@
+diffus
+charg
+particl
+homogen
+electromagnet
+field
+approxim
+solut
+consid

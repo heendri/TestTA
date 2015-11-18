@@ -1,0 +1,7 @@
+minimality
+rectifier
+nets
+multiple
+outputs
+incompletely
+specified

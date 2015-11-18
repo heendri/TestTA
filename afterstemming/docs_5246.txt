@@ -1,0 +1,10 @@
+decomposit
+deriv
+imped
+two
+termin
+network
+extens
+theori
+present
+previous

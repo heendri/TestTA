@@ -1,0 +1,13 @@
+experimental
+arithmetic
+unit
+detailed
+description
+unit
+performs
+repetitive
+multiplication
+program
+checks
+results
+errors

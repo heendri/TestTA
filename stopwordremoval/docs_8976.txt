@@ -1,0 +1,16 @@
+aspects
+wide
+band
+parametric
+travelling
+wave
+amplifiers
+methods
+described
+calculating
+amplification
+bandwidth
+phase
+conditions
+noise
+figure

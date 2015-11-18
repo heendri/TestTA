@@ -1,0 +1,8 @@
+behaviour
+ferroresonant
+series
+circuit
+containing
+square
+loop
+reactor

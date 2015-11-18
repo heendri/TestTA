@@ -1,0 +1,6 @@
+analytical
+study
+scattering
+thin
+dielectric
+rings

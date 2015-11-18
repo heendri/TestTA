@@ -1,0 +1,11 @@
+pulse
+width
+modulator
+modulation
+achieved
+using
+hole
+storage
+effect
+junction
+transistor

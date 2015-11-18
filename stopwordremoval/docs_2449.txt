@@ -1,0 +1,16 @@
+multivibrator
+circuit
+using
+pnp
+npn
+junction
+transistors
+details
+improved
+circuit
+giving
+output
+impedance
+small
+power
+consumption

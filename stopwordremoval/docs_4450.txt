@@ -1,0 +1,5 @@
+germanium
+diffused
+junction
+photoelectric
+cell

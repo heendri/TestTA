@@ -1,0 +1,17 @@
+source
+energy
+ionosphere
+joule
+heating
+electric
+currents
+associated
+geomagnetic
+variations
+normally
+sufficient
+account
+heat
+flux
+latitude
+ionosphere

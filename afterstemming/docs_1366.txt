@@ -1,0 +1,17 @@
+surfac
+magnetostat
+mode
+surfac
+spin
+wave
+gener
+exist
+surfac
+wave
+mode
+frequenc
+region
+spin
+wave
+band
+shown

@@ -1,0 +1,8 @@
+vertex
+excited
+surface
+waves
+faces
+right
+angled
+wedge

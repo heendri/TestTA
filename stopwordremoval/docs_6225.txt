@@ -1,0 +1,7 @@
+errors
+inherent
+radar
+measurement
+rainfall
+attenuating
+wavelengths

@@ -1,0 +1,6 @@
+radial
+rocket
+survey
+distant
+geomagnetic
+field

@@ -1,0 +1,11 @@
+multi
+represent
+singl
+valu
+nonlinear
+sever
+input
+evalu
+equival
+cursor
+method

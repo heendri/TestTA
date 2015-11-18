@@ -1,0 +1,12 @@
+ifield
+equations
+fluid
+electromagnetic
+field
+system
+relativistic
+generalization
+presented
+macroscopic
+equations
+electromagnetism

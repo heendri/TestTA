@@ -1,0 +1,14 @@
+condition
+passivity
+linear
+quadripole
+complex
+characteristic
+impedances
+reciprocal
+non
+reciprocal
+two
+port
+networks
+considered

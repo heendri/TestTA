@@ -1,0 +1,6 @@
+series
+connected
+magnetic
+amplifier
+inductive
+loading

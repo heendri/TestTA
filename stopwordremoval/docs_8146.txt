@@ -1,0 +1,8 @@
+wave
+mechanics
+theory
+electron
+optical
+image
+formation
+part

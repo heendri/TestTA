@@ -1,0 +1,8 @@
+electron
+temperatur
+electrodeless
+discharg
+subject
+transvers
+magnet
+field

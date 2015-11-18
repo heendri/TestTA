@@ -1,0 +1,15 @@
+note
+transfer
+voltage
+ratio
+passive
+rlc
+networks
+results
+obtained
+failkow
+gerst
+generalized
+include
+rlc
+networks

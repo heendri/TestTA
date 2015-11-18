@@ -1,0 +1,5 @@
+barkhausen
+kurz
+oscillator
+centimetre
+wavelengths

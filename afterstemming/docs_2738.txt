@@ -1,0 +1,5 @@
+galvanomagnet
+properti
+cylindr
+fermi
+surfac

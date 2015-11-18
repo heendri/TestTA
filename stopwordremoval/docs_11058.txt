@@ -1,0 +1,6 @@
+double
+beam
+maser
+primary
+frequency
+standard

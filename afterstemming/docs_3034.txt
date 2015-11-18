@@ -1,0 +1,10 @@
+monitor
+modul
+circuit
+monitor
+output
+high
+power
+modul
+pair
+headphon

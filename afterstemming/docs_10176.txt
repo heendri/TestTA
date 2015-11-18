@@ -1,0 +1,7 @@
+tunnel
+diod
+convert
+differ
+circuit
+analys
+compar

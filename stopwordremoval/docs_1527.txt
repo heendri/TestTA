@@ -1,0 +1,15 @@
+propagation
+oblique
+incidence
+cylindrical
+obstacles
+effect
+oblique
+incidence
+considered
+change
+effective
+radius
+curvature
+diffracting
+obstacle

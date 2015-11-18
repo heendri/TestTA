@@ -1,0 +1,17 @@
+transductor
+high
+imped
+control
+wind
+termin
+dynam
+behaviour
+transductor
+repres
+equat
+similar
+transductor
+imped
+control
+wind
+termin

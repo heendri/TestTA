@@ -1,0 +1,14 @@
+response
+remote
+position
+control
+x
+systems
+hard
+spring
+nonlinear
+characteristics
+step
+function
+random
+inputs

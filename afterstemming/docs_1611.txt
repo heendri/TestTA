@@ -1,0 +1,7 @@
+estim
+dissip
+effect
+tchebycheff
+symmetr
+filter
+comment

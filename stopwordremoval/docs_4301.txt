@@ -1,0 +1,15 @@
+new
+type
+constant
+voltage
+rectifier
+constant
+voltage
+supply
+floating
+battery
+power
+source
+described
+output
+rating

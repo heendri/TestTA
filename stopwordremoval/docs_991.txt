@@ -1,0 +1,8 @@
+high
+resolution
+spectrometer
+radio
+frequency
+controlled
+magnetic
+field

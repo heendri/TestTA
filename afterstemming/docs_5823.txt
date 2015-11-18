@@ -1,0 +1,7 @@
+nonlinear
+tachometr
+feedback
+improv
+transient
+respons
+servomechan

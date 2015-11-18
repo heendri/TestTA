@@ -1,0 +1,17 @@
+calculation
+linear
+circuits
+circuit
+components
+include
+valves
+transistors
+transformers
+set
+form
+multipole
+admittance
+matrix
+five
+determinants
+obtained

@@ -1,0 +1,13 @@
+humidity
+upper
+troposphere
+lower
+stratosphere
+southern
+england
+detailed
+report
+observations
+made
+flights
+altitude

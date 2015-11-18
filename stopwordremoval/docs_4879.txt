@@ -1,0 +1,13 @@
+radar
+echo
+duration
+height
+perseid
+meteor
+triangulation
+data
+meteor
+echo
+lasting
+observed
+discussed

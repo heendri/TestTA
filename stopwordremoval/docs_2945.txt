@@ -1,0 +1,12 @@
+circuit
+theorem
+rectification
+nonlinear
+capacitors
+inductors
+effect
+rectification
+nonlinear
+resistance
+present
+circuit

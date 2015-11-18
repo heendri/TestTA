@@ -1,0 +1,13 @@
+model
+collis
+process
+gase
+part
+small
+amplitud
+process
+charg
+neutral
+on
+compon
+system

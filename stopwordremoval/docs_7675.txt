@@ -1,0 +1,9 @@
+transistors
+trigger
+circuits
+simple
+circuit
+using
+single
+transistor
+described

@@ -1,0 +1,10 @@
+asymmetrical
+finite
+difference
+network
+tensor
+conductivities
+extension
+technique
+described
+macneal

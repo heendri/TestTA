@@ -1,0 +1,6 @@
+theory
+imperfect
+waveguides
+effect
+wall
+impedance

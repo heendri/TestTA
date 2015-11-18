@@ -1,0 +1,13 @@
+position
+identification
+bright
+extended
+radio
+source
+gemini
+accurate
+observations
+reported
+previously
+detected
+source

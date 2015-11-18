@@ -1,0 +1,9 @@
+attenuator
+design
+chart
+given
+design
+constant
+resistance
+types
+attenuator

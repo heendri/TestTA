@@ -1,0 +1,16 @@
+interpretation
+pulse
+trains
+associated
+lightning
+flashes
+treatment
+propagation
+atmospherics
+earth
+ionosphere
+reflections
+assuming
+radiation
+dipole
+source

@@ -1,0 +1,7 @@
+solar
+batteries
+power
+source
+unattended
+uhf
+repeaters

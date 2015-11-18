@@ -1,0 +1,5 @@
+analogu
+method
+optimum
+servomechan
+design

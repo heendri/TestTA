@@ -1,0 +1,7 @@
+transient
+respons
+thermo
+coupl
+circuit
+steadi
+current

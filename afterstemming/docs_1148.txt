@@ -1,0 +1,10 @@
+radio
+wave
+propag
+characterist
+simpl
+ionospher
+model
+base
+rocket
+data

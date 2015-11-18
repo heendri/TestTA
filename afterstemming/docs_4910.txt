@@ -1,0 +1,13 @@
+sunspot
+geomagnet
+storm
+data
+deriv
+greenwich
+observ
+includ
+explanatori
+note
+literatur
+refer
+diagram

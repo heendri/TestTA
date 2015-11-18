@@ -1,0 +1,5 @@
+electron
+beam
+parametr
+amplifi
+region

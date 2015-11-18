@@ -1,0 +1,14 @@
+precision
+thermostat
+temperature
+sensitive
+resistance
+bridge
+controls
+crystal
+oven
+give
+short
+period
+temperature
+stability

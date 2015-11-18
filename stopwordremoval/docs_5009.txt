@@ -1,0 +1,6 @@
+electron
+voltaic
+effect
+germanium
+silicon
+junctions

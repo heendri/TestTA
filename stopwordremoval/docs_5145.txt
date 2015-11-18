@@ -1,0 +1,7 @@
+industrial
+measurement
+temperature
+coefficient
+ceramic
+dielectric
+capacitors

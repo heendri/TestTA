@@ -1,0 +1,14 @@
+computer
+subsystem
+using
+kilomegacycle
+subharmonic
+oscillators
+phase
+locked
+oscillator
+described
+operates
+logical
+operation
+time

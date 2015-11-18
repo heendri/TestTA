@@ -1,0 +1,7 @@
+collapsed
+toroidal
+springs
+contact
+elements
+microwave
+cavities

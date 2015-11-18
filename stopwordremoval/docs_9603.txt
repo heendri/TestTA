@@ -1,0 +1,12 @@
+distribution
+fields
+randomly
+placed
+dipoles
+free
+precession
+signal
+decay
+result
+magnetic
+grains

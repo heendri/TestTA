@@ -1,0 +1,8 @@
+curves
+obtained
+van
+pols
+method
+oscillator
+cubic
+nonlinearity

@@ -1,0 +1,7 @@
+method
+analysis
+directivity
+solar
+radio
+emission
+sunspots

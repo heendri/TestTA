@@ -1,0 +1,6 @@
+specification
+colours
+based
+measurements
+trichromatic
+colorimeter

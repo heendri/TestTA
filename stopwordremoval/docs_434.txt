@@ -1,0 +1,9 @@
+transistorized
+distributed
+amplifier
+characteristic
+impedance
+base
+collector
+transmission
+lines

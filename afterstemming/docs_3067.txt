@@ -1,0 +1,12 @@
+phase
+shift
+oscil
+indic
+radar
+rang
+fire
+rang
+inform
+convei
+variabl
+note

@@ -1,0 +1,6 @@
+simpl
+deriv
+sommerfeld
+formula
+dipol
+function

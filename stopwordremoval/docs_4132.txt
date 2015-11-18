@@ -1,0 +1,9 @@
+measurements
+large
+aerials
+used
+interferometer
+cross
+type
+radio
+telescopes

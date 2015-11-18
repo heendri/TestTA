@@ -1,0 +1,7 @@
+constant
+equat
+atmospher
+refract
+index
+radio
+frequenc

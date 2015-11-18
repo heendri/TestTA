@@ -1,0 +1,5 @@
+majority
+decision
+functions
+six
+variables

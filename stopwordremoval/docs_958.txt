@@ -1,0 +1,13 @@
+winding
+capacitances
+magnetic
+amplifiers
+distributed
+winding
+capacitance
+replaced
+lumped
+capacitance
+empirical
+formula
+found

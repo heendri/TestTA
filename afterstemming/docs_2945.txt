@@ -1,0 +1,12 @@
+circuit
+theorem
+rectif
+nonlinear
+capacitor
+inductor
+effect
+rectif
+nonlinear
+resist
+present
+circuit

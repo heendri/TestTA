@@ -1,0 +1,16 @@
+connect
+print
+wire
+process
+describ
+metal
+eyelet
+pass
+print
+circuit
+board
+stake
+solder
+in
+on
+oper

@@ -1,0 +1,17 @@
+electron
+interaction
+solids
+characteristic
+energy
+loss
+spectrum
+characteristic
+energy
+loss
+spectrum
+analysed
+aid
+dielectric
+formulation
+body
+problem

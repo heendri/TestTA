@@ -1,0 +1,7 @@
+amplitude
+stabilized
+transistor
+oscillator
+correction
+paper
+abstracted

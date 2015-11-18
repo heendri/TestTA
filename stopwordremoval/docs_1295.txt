@@ -1,0 +1,13 @@
+geomagnetic
+noise
+results
+observations
+made
+compared
+estimates
+noise
+intensity
+expected
+cherenkov
+radiation
+mechanism

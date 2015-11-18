@@ -1,0 +1,15 @@
+electromagnetic
+fields
+dipole
+presence
+thin
+plasma
+sheet
+assumption
+thickness
+slab
+small
+expressions
+resultant
+fields
+obtained

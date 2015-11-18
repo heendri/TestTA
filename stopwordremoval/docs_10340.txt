@@ -1,0 +1,17 @@
+tunable
+rejection
+filters
+analysis
+requirements
+rejection
+filter
+used
+design
+practical
+circuits
+tunable
+half
+octave
+covering
+hf
+band

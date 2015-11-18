@@ -1,0 +1,17 @@
+stabil
+on
+dimension
+ferromagnet
+microstructur
+nonuniform
+on
+dimension
+structur
+found
+unstabl
+reason
+stabil
+three
+dimension
+structur
+given

@@ -1,0 +1,8 @@
+analysis
+common
+base
+transistor
+circuit
+mathematical
+errors
+pointed

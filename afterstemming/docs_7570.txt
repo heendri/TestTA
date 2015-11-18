@@ -1,0 +1,5 @@
+synthesi
+narrow
+band
+direct
+coupl

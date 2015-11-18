@@ -1,0 +1,6 @@
+theory
+electrical
+conductivity
+anisotropic
+inhomogeneous
+media

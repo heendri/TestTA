@@ -1,0 +1,4 @@
+short
+wave
+transmission
+disturbance

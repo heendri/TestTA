@@ -1,0 +1,7 @@
+radio
+frequency
+nondestructive
+readout
+magnetic
+core
+memories

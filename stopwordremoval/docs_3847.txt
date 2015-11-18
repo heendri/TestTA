@@ -1,0 +1,15 @@
+theory
+anisotropic
+obstacles
+cavities
+variational
+expressions
+derived
+resonance
+frequencies
+cavity
+containing
+material
+tensor
+electromagnetic
+properties

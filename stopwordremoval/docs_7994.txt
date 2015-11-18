@@ -1,0 +1,17 @@
+rotary
+slider
+potentiometers
+variable
+characteristic
+resistance
+slider
+position
+characteristic
+approximated
+connecting
+suitable
+resistors
+parallel
+short
+sections
+potentiometer

@@ -1,0 +1,15 @@
+swiss
+analogue
+computer
+electromechanical
+system
+described
+quantities
+represented
+voltage
+amplitudes
+angle
+rotation
+shafts
+servo
+system

@@ -1,0 +1,5 @@
+effect
+atmospheric
+oblateness
+satellite
+orbit

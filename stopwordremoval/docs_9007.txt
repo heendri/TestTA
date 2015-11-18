@@ -1,0 +1,17 @@
+direction
+dependence
+magnetostriction
+tensor
+methods
+used
+describe
+lattice
+distortion
+caused
+magnetostriction
+similar
+calculations
+direction
+dependence
+crystal
+energy

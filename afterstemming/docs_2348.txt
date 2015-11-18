@@ -1,0 +1,10 @@
+diod
+reactanc
+modul
+detail
+analysi
+control
+current
+capacitor
+on
+diod

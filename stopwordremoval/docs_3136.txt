@@ -1,0 +1,16 @@
+design
+transistor
+regulated
+power
+supplies
+two
+applications
+circuit
+described
+one
+giving
+output
+resistance
+ripple
+full
+load

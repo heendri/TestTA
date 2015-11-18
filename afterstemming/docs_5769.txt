@@ -1,0 +1,5 @@
+power
+transistor
+audio
+output
+circuit

@@ -1,0 +1,17 @@
+radiation
+current
+filament
+homogeneous
+earth
+application
+micropulsations
+near
+field
+considerations
+used
+steady
+radiations
+micropulsation
+frequencies
+ionospheric
+current

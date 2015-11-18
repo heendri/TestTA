@@ -1,0 +1,8 @@
+galvanomagnetic
+oscillators
+type
+hall
+effect
+oscillator
+described
+efficiency

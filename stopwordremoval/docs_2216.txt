@@ -1,0 +1,7 @@
+travelling
+wave
+couplers
+longitudinal
+beam
+type
+amplifiers

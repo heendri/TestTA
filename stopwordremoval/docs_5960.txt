@@ -1,0 +1,17 @@
+transductor
+high
+impedance
+control
+winding
+termination
+dynamic
+behaviour
+transductor
+represented
+equations
+similar
+transductor
+impedance
+control
+winding
+termination

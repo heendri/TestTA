@@ -1,0 +1,7 @@
+layer
+electron
+model
+reduced
+considerations
+wave
+absorption

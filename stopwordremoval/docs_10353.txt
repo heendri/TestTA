@@ -1,0 +1,17 @@
+tunnel
+diode
+fast
+step
+generator
+produces
+positive
+negative
+steps
+generator
+produces
+pulses
+duration
+rise
+time
+recurrence
+frequencies

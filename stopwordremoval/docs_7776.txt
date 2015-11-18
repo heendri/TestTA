@@ -1,0 +1,10 @@
+minimum
+moment
+error
+squared
+criterion
+new
+performance
+criterion
+servo
+mechanisms

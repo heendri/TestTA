@@ -1,0 +1,15 @@
+theory
+electric
+currents
+magnetosphere
+brief
+theoretical
+treatment
+given
+plasma
+magnetosphere
+replaced
+particle
+gas
+diamagnetic
+properties

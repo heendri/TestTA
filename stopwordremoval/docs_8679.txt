@@ -1,0 +1,17 @@
+cascode
+trigger
+circuit
+using
+pnp
+npn
+transistor
+monostable
+circuit
+preceded
+diode
+pump
+integrator
+acts
+frequency
+dividing
+stage

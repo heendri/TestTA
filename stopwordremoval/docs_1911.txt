@@ -1,0 +1,9 @@
+seasonal
+illumination
+circumpolar
+earth
+satellite
+extreme
+latitude
+orbit
+point

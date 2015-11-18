@@ -1,0 +1,4 @@
+cold
+cathod
+voltag
+stabil

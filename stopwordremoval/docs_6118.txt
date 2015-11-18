@@ -1,0 +1,7 @@
+current
+induced
+conducting
+ribbon
+current
+filament
+parallel

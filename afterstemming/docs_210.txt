@@ -1,0 +1,8 @@
+geomagnet
+disturb
+veloc
+slow
+drift
+solar
+radio
+burst

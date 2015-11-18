@@ -1,0 +1,13 @@
+noise
+output
+balanced
+frequency
+discriminator
+mathematical
+analysis
+gaussian
+noise
+input
+assuming
+limiter
+action

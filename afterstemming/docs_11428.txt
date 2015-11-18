@@ -1,0 +1,7 @@
+solar
+batteri
+power
+sourc
+unattend
+uhf
+repeat

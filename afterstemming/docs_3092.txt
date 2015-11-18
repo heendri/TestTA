@@ -1,0 +1,16 @@
+note
+ground
+state
+antiferromagnet
+kasteleijn
+method
+obtain
+lowest
+energi
+state
+gener
+case
+two
+three
+dimension
+lattic

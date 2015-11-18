@@ -1,0 +1,8 @@
+property
+family
+equiangular
+spirals
+application
+problems
+wave
+propagation

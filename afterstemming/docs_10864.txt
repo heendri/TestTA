@@ -1,0 +1,6 @@
+effect
+collis
+propag
+radio
+wave
+ionospher

@@ -1,0 +1,11 @@
+amplitude
+phase
+response
+amplifier
+operating
+interrupted
+cycle
+analysis
+class
+amplifier
+characteristics

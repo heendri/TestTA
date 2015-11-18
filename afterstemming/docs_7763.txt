@@ -1,0 +1,6 @@
+stabil
+vari
+element
+servomechan
+polynomi
+coeffici

@@ -1,0 +1,12 @@
+vibration
+quartz
+crystal
+plates
+theory
+mindlin
+extended
+case
+crystal
+plates
+nonuniform
+thickness

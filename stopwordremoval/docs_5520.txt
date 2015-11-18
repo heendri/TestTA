@@ -1,0 +1,6 @@
+collisional
+effects
+conduction
+current
+ionized
+gas

@@ -1,0 +1,13 @@
+variable
+magnetic
+amplifier
+method
+described
+varying
+current
+means
+variable
+impedance
+parallel
+feedback
+rectifiers

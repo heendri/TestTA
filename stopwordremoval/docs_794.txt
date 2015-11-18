@@ -1,0 +1,15 @@
+tunnel
+diode
+interstage
+device
+application
+tunnel
+diode
+coupling
+element
+provide
+impedance
+transformation
+power
+stage
+amplifier

@@ -1,0 +1,4 @@
+magnet
+tape
+store
+pegasu

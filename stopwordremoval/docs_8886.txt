@@ -1,0 +1,4 @@
+properties
+three
+coupled
+waves

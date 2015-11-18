@@ -1,0 +1,9 @@
+diurnal
+semidiurn
+variat
+wind
+pressur
+temperatur
+tropospher
+washington
+dc

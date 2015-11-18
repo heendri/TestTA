@@ -1,0 +1,10 @@
+properties
+resonance
+line
+shape
+functions
+mathematical
+discussion
+broadening
+spectral
+lines

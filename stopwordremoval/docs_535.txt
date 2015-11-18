@@ -1,0 +1,14 @@
+stabilized
+locked
+oscillator
+frequency
+divider
+results
+analysis
+divider
+presented
+graphical
+form
+suitable
+design
+purposes

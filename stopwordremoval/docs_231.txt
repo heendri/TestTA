@@ -1,0 +1,17 @@
+transient
+fine
+structure
+layer
+note
+fine
+structure
+layer
+variability
+observed
+using
+ionosonde
+high
+power
+slow
+frequency
+variation

@@ -1,0 +1,11 @@
+transfluxor
+frequency
+memory
+transfluxor
+used
+frequency
+control
+component
+magnetically
+coupled
+multivibrator

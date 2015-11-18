@@ -1,0 +1,5 @@
+latitud
+depend
+forbush
+type
+decreas

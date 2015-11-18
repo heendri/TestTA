@@ -1,0 +1,16 @@
+tuned
+circuit
+oscillators
+uhf
+design
+disk
+seal
+triode
+oscillator
+frequencies
+discussed
+causes
+spurious
+resonance
+elimination
+considered

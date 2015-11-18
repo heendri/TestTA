@@ -1,0 +1,16 @@
+transistor
+crystal
+control
+margin
+oscil
+circuit
+detail
+small
+non
+microphon
+oscil
+unit
+nuclear
+magnet
+reson
+observ

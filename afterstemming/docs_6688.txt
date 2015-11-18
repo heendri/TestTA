@@ -1,0 +1,15 @@
+shape
+nonlinear
+resistor
+characterist
+feedback
+circuit
+describ
+enabl
+wide
+varieti
+characterist
+obtain
+singl
+resist
+element

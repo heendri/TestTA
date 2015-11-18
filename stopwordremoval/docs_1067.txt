@@ -1,0 +1,14 @@
+general
+properties
+propagation
+constant
+nonreciprocal
+iterated
+circuit
+formulae
+given
+circuits
+travelling
+wave
+valves
+considered

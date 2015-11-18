@@ -1,0 +1,7 @@
+theoret
+model
+temperatur
+variat
+surfac
+orbit
+satellit

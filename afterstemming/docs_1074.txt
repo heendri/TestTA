@@ -1,0 +1,5 @@
+voltag
+tune
+tunnel
+diod
+oscil

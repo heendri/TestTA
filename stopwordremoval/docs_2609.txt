@@ -1,0 +1,16 @@
+propagation
+variable
+electromagnetic
+field
+stratified
+anisotropic
+medium
+computation
+field
+surface
+anisotropic
+conducting
+medium
+dipole
+lying
+surface

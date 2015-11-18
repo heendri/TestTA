@@ -1,0 +1,9 @@
+diffract
+skew
+plane
+electromagnet
+wave
+absorb
+right
+angl
+wedg

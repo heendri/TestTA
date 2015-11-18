@@ -1,0 +1,6 @@
+transient
+response
+single
+point
+nonlinear
+servomechanism

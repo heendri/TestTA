@@ -1,0 +1,17 @@
+nyquist
+criterion
+multipl
+loop
+feedback
+circuit
+method
+deriv
+stabil
+criterion
+altern
+cutteridg
+base
+conform
+transform
+present
+januari

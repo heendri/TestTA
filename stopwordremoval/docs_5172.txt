@@ -1,0 +1,6 @@
+higher
+pentode
+note
+transistor
+anode
+load

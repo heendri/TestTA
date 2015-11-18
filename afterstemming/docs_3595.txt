@@ -1,0 +1,16 @@
+digit
+code
+data
+process
+system
+design
+digit
+code
+system
+includ
+error
+detect
+error
+correct
+code
+discuss

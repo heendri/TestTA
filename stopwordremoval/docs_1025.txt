@@ -1,0 +1,5 @@
+radiation
+damage
+transistor
+life
+satellites

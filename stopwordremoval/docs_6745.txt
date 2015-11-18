@@ -1,0 +1,9 @@
+indices
+geomagnetic
+activity
+observatories
+abinger
+eskdalemuir
+lerwick
+july
+august

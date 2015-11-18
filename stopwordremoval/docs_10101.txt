@@ -1,0 +1,16 @@
+analysis
+type
+trail
+meteor
+echo
+characteristics
+type
+echoes
+examined
+detail
+trail
+fragmentation
+dust
+ball
+type
+meteoroid

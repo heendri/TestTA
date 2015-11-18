@@ -1,0 +1,7 @@
+phase
+bistable
+transistor
+circuit
+corrections
+paper
+noted

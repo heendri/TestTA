@@ -1,0 +1,6 @@
+investigation
+magnetic
+recording
+process
+step
+functions

@@ -1,0 +1,11 @@
+induct
+drag
+larg
+neg
+charg
+satellit
+move
+magnet
+field
+free
+ionospher

@@ -1,0 +1,13 @@
+energy
+spectrum
+cosmic
+radiation
+theory
+given
+observed
+spectrum
+const
+wide
+range
+values
+momentum

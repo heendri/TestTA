@@ -1,0 +1,10 @@
+areal
+distribution
+geomagnetic
+activity
+aeromagnetic
+survey
+problem
+near
+auroral
+zone

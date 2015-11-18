@@ -1,0 +1,9 @@
+charge
+ionosphere
+total
+charge
+inner
+side
+ionosphere
+shown
+zero

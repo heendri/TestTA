@@ -1,0 +1,6 @@
+note
+diffusion
+gas
+electrons
+small
+source

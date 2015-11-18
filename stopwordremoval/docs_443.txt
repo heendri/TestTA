@@ -1,0 +1,13 @@
+reactance
+transistor
+frequency
+deviation
+curves
+calculated
+theoretical
+output
+admittance
+compared
+measurements
+oscillator
+circuit

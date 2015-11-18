@@ -1,0 +1,8 @@
+extension
+mode
+theory
+periodically
+distributed
+parametric
+amplifiers
+losses

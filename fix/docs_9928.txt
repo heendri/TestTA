@@ -1,0 +1,1 @@
+resist network analogu unequ mesh subdivid mesh gener method deriv finit differ approxim partial differenti equat solv resist network analogu appli find resist valu current fed network unequ mesh size two wai subdivid network finer mesh ratio given network subdivis ratio describ experiment test shown subdivis introduc neglig error measur field distribut 

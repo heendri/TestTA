@@ -1,0 +1,6 @@
+infrared
+faraday
+effect
+free
+carriers
+semiconductor

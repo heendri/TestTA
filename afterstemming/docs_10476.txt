@@ -1,0 +1,14 @@
+design
+wide
+ba
+shield
+toroid
+rf
+transform
+detail
+transform
+magic
+hybrid
+junction
+frequenc
+rang

@@ -1,0 +1,12 @@
+stable
+direct
+coupled
+transistor
+servo
+preamplifier
+capable
+dc
+operating
+point
+stability
+high

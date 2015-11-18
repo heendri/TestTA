@@ -1,0 +1,3 @@
+characterist
+geomagnet
+micropuls

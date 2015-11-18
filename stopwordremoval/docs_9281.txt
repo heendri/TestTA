@@ -1,0 +1,6 @@
+properties
+characteristics
+tantalum
+capacitors
+solid
+electrolyte

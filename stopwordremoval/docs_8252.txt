@@ -1,0 +1,6 @@
+cubic
+distortions
+modulators
+translations
+paper
+abstracted

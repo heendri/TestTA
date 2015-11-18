@@ -1,0 +1,6 @@
+two
+collector
+transistor
+binary
+full
+addition

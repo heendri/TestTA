@@ -1,0 +1,6 @@
+effect
+collisions
+propagation
+radio
+waves
+ionosphere

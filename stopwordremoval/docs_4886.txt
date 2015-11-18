@@ -1,0 +1,9 @@
+atmospheric
+ozone
+indicator
+air
+streams
+stratosphere
+photo
+chemical
+bases

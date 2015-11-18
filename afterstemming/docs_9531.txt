@@ -1,0 +1,5 @@
+transient
+thermal
+imped
+semiconductor
+devic

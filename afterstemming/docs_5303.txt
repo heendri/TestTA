@@ -1,0 +1,8 @@
+motion
+sphere
+conduct
+fluid
+presenc
+strong
+magnet
+field

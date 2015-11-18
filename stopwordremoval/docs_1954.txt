@@ -1,0 +1,17 @@
+voltage
+controlled
+continuously
+variable
+pass
+filter
+filter
+octave
+cut
+characteristic
+cut
+frequency
+continuously
+variable
+control
+voltage
+variation

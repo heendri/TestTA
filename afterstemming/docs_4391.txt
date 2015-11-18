@@ -1,0 +1,6 @@
+influenc
+temperatur
+humid
+electr
+constant
+ground

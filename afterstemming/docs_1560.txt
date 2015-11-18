@@ -1,0 +1,8 @@
+determin
+true
+height
+maximum
+ioniz
+ten
+point
+method

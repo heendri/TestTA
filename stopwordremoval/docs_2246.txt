@@ -1,0 +1,14 @@
+steady
+state
+free
+precession
+nuclear
+magnetic
+resonance
+description
+new
+technique
+observing
+nuclear
+magnetic
+resonance

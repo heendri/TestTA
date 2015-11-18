@@ -1,0 +1,15 @@
+two
+rc
+oscil
+circuit
+cathod
+coupl
+transitron
+type
+rc
+oscil
+describ
+oper
+freu
+frequenc
+respect

@@ -1,0 +1,10 @@
+simplified
+theory
+two
+carrier
+space
+charge
+limited
+current
+flow
+solids

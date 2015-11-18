@@ -1,0 +1,6 @@
+computation
+sin
+cos
+using
+electronic
+computer

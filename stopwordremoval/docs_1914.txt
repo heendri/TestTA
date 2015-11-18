@@ -1,0 +1,6 @@
+faraday
+rotation
+rate
+satellite
+radio
+signal

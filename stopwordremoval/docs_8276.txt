@@ -1,0 +1,8 @@
+absorption
+cm
+microwaves
+aromatic
+aliphatic
+compounds
+liquid
+state

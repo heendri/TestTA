@@ -1,0 +1,7 @@
+stabil
+control
+system
+studi
+common
+type
+equat

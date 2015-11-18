@@ -1,0 +1,8 @@
+measurement
+solar
+diurnal
+effects
+high
+atmosphere
+artificial
+satellites

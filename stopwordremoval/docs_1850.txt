@@ -1,0 +1,13 @@
+filter
+attenuation
+characteristics
+hyperbolic
+functions
+avoided
+aad
+formulae
+derived
+permit
+slide
+rule
+computation

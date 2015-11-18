@@ -1,0 +1,11 @@
+band
+parametric
+amplifier
+large
+bandwidth
+bandwidth
+achieved
+using
+single
+varactor
+diode

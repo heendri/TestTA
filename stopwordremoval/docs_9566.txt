@@ -1,0 +1,17 @@
+electrically
+variable
+time
+delay
+using
+cascaded
+drift
+transistors
+eight
+cascaded
+transistors
+provide
+variation
+delay
+minimum
+cut
+frequency

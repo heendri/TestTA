@@ -1,0 +1,17 @@
+analysis
+cylindrical
+cavity
+radial
+vanes
+procedure
+involves
+variational
+methods
+obtaining
+successively
+better
+approximations
+resonance
+frequencies
+field
+configuration

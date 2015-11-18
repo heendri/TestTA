@@ -1,0 +1,10 @@
+solution
+partial
+differential
+equations
+difference
+methods
+using
+electronic
+differential
+analyzer

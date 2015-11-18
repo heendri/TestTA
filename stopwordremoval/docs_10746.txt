@@ -1,0 +1,10 @@
+transformer
+drive
+switching
+transistors
+note
+design
+problems
+preferred
+circuit
+arrangement

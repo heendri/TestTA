@@ -1,0 +1,11 @@
+torsional
+magnetostrictive
+delay
+line
+application
+wiedemann
+effect
+using
+toroidal
+coil
+transducers

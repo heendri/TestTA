@@ -1,0 +1,8 @@
+effective
+ferrimagnetic
+resonance
+parameters
+gilbert
+type
+relaxation
+terms

@@ -1,0 +1,16 @@
+dc
+operational
+amplifier
+transistor
+chopper
+description
+drift
+compensated
+dc
+amplifier
+accuracy
+achieved
+airborne
+analogue
+computers
+vol

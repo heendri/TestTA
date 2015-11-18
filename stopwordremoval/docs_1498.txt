@@ -1,0 +1,14 @@
+theory
+magnetic
+modulators
+equivalent
+circuit
+magnetic
+modulator
+derived
+idealized
+characteristics
+design
+modulator
+circuit
+given

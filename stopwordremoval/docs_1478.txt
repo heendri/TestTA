@@ -1,0 +1,12 @@
+frequency
+three
+phase
+rc
+coupled
+oscillator
+part
+two
+inductive
+anode
+load
+resistance

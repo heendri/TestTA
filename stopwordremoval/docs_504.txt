@@ -1,0 +1,13 @@
+transistor
+regulated
+converter
+regulation
+controlled
+blocking
+oscillator
+whose
+frequency
+varies
+function
+error
+voltage

@@ -1,0 +1,7 @@
+experimental
+theoretical
+investigation
+semiconductor
+hall
+effect
+generators

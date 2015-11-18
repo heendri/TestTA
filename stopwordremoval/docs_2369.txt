@@ -1,0 +1,6 @@
+propagation
+electromagnetic
+impulse
+medium
+dielectric
+losses

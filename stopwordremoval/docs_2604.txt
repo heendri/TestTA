@@ -1,0 +1,5 @@
+formation
+discontinuities
+classical
+nonlinear
+electrodynamics

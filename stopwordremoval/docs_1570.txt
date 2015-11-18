@@ -1,0 +1,8 @@
+dynamic
+characteristics
+ionosphere
+coherency
+local
+planetary
+magnetic
+index

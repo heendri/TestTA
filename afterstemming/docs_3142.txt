@@ -1,0 +1,4 @@
+ibm
+edpm
+memori
+system

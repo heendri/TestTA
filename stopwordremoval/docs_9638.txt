@@ -1,0 +1,6 @@
+ground
+equipment
+radio
+observations
+artificial
+satellites

@@ -1,0 +1,15 @@
+oscil
+diffus
+weakli
+ioniz
+plasma
+diffus
+weakli
+ioniz
+plasma
+particl
+observ
+direct
+perpendicular
+magnet
+field

@@ -1,0 +1,14 @@
+comparison
+annual
+mean
+solar
+lunar
+atmospheric
+tides
+barometric
+pressure
+regards
+worldwide
+distribution
+amplitude
+phase

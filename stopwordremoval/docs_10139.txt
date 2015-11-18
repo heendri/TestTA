@@ -1,0 +1,17 @@
+coupling
+protonosphere
+normal
+region
+protonosphere
+distribution
+protons
+determined
+diffusion
+rather
+chemical
+processes
+region
+independent
+diurnal
+changes
+ionosphere

@@ -1,0 +1,13 @@
+tunabl
+caviti
+x
+band
+oscil
+rectangular
+waveguid
+tuner
+extern
+caviti
+reflex
+klystron
+describ

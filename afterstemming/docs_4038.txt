@@ -1,0 +1,17 @@
+effect
+length
+observ
+time
+visual
+threshold
+detect
+faint
+satellit
+formula
+infer
+atmospher
+densiti
+motion
+artifici
+earth
+satellit

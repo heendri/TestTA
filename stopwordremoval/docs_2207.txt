@@ -1,0 +1,6 @@
+static
+characteristics
+cathode
+coupled
+limiter
+clipper

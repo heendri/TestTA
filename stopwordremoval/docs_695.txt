@@ -1,0 +1,8 @@
+electron
+temperature
+electrodeless
+discharge
+subjected
+transverse
+magnetic
+field

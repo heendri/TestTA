@@ -1,0 +1,5 @@
+equivalent
+admittance
+impedance
+scattering
+matrices

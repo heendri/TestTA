@@ -1,0 +1,9 @@
+experiment
+ga
+diod
+switch
+imped
+stabl
+neg
+resist
+frequenc

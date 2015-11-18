@@ -1,0 +1,4 @@
+temperatur
+compens
+coaxial
+caviti

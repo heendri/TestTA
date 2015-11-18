@@ -1,0 +1,9 @@
+calculation
+static
+characteristic
+nonlinear
+multipole
+inertia
+dynamic
+characteristic
+known

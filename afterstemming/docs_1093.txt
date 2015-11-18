@@ -1,0 +1,12 @@
+input
+imped
+rectifi
+modul
+imped
+calcul
+number
+case
+shunt
+seri
+type
+modul

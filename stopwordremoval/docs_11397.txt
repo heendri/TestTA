@@ -1,0 +1,10 @@
+satellite
+data
+analysis
+analysis
+data
+shows
+temperature
+peak
+density
+oscillation

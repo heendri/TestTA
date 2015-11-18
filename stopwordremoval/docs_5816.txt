@@ -1,0 +1,15 @@
+agrimeter
+continuous
+recording
+atmospheric
+electric
+field
+description
+instrument
+based
+measurement
+bound
+charge
+portion
+earths
+surface

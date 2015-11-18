@@ -1,0 +1,11 @@
+simpl
+current
+stabil
+electromagnet
+design
+stabil
+circuit
+oper
+amplidyn
+gener
+describ

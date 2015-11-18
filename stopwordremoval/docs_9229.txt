@@ -1,0 +1,13 @@
+calculation
+widths
+ferrimagnetic
+absorption
+lines
+relaxation
+times
+case
+spin
+waves
+non
+negligible
+amplitude

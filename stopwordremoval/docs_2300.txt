@@ -1,0 +1,17 @@
+physical
+realizability
+microwave
+junction
+conditions
+derived
+satisfied
+matrix
+represent
+admittance
+impedance
+scattering
+matrix
+junction
+given
+fixed
+frequency

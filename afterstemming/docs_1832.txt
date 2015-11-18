@@ -1,0 +1,9 @@
+semiconductor
+thermostat
+oscil
+thermostat
+provid
+control
+ambient
+temperatur
+rang

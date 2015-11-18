@@ -1,0 +1,16 @@
+transistor
+voltage
+regulators
+design
+considerations
+discussed
+series
+type
+regulators
+magnetic
+amplifier
+type
+designed
+tridac
+computer
+described

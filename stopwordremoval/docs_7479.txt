@@ -1,0 +1,8 @@
+subharmonics
+series
+nonlinear
+circuit
+influenced
+initial
+capacitor
+charge

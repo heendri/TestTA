@@ -1,0 +1,11 @@
+instrument
+wide
+band
+magnet
+tape
+record
+develop
+record
+bandwidth
+dc
+describ

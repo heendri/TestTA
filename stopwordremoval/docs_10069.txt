@@ -1,0 +1,15 @@
+potentials
+conductor
+varying
+cross
+section
+importance
+eigen
+hall
+effect
+masking
+bernoulli
+voltage
+experimental
+measurements
+pointed

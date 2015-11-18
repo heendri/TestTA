@@ -1,0 +1,11 @@
+note
+steady
+state
+response
+linear
+time
+invariant
+systems
+general
+periodic
+input

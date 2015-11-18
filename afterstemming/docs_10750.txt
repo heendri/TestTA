@@ -1,0 +1,11 @@
+spectral
+respons
+nonlinear
+devic
+applic
+fourier
+seri
+expans
+bessel
+function
+substitut

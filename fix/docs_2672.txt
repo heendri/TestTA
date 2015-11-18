@@ -1,0 +1,1 @@
+oper amplifi precis current regul drift high dc amplifi control loop reduc steadi state error 

@@ -1,0 +1,6 @@
+ga
+fill
+diod
+digit
+storag
+element

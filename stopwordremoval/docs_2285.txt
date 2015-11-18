@@ -1,0 +1,6 @@
+development
+transistor
+inverter
+using
+power
+transistors

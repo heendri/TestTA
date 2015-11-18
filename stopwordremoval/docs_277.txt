@@ -1,0 +1,17 @@
+considerations
+stability
+electrical
+circuits
+definition
+stability
+based
+integral
+equation
+proposed
+considered
+general
+applicability
+definitions
+bode
+james
+weiss

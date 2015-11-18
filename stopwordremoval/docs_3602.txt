@@ -1,0 +1,17 @@
+analysis
+current
+pulses
+approximate
+method
+analysis
+used
+earlier
+extended
+include
+nonlinear
+characteristics
+application
+class
+amplifier
+circuit
+described

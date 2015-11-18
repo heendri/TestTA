@@ -1,0 +1,6 @@
+singular
+electromagnet
+induct
+extens
+concept
+discuss

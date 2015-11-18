@@ -1,0 +1,12 @@
+interim
+atmosphere
+derived
+rocket
+satellite
+data
+model
+atmosphere
+proposed
+temperate
+latitudes
+altitudes

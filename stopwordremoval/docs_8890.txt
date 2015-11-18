@@ -1,0 +1,12 @@
+simple
+spectrograph
+nuclear
+paramagnetic
+resonance
+description
+modifications
+bloch
+spectrograph
+simplify
+decoupling
+problems

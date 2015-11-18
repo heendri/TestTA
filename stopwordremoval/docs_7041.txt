@@ -1,0 +1,6 @@
+electromagnetic
+field
+rotating
+uniformly
+magnetized
+sphere

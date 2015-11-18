@@ -1,0 +1,9 @@
+asymptotic
+series
+expansion
+motion
+charged
+particle
+slowly
+varying
+fields

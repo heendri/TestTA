@@ -1,0 +1,9 @@
+level
+interference
+atmospherics
+long
+wave
+range
+diurnal
+seasonal
+variations

@@ -1,0 +1,15 @@
+Count of [compact] is : 1
+Count of [memories] is : 1
+Count of [flexible] is : 1
+Count of [capacities] is : 1
+Count of [digital] is : 1
+Count of [data] is : 1
+Count of [storage] is : 1
+Count of [system] is : 1
+Count of [capacity] is : 1
+Count of [to] is : 1
+Count of [bits] is : 1
+Count of [random] is : 1
+Count of [sequential] is : 1
+Count of [access] is : 1
+Count of [described] is : 1

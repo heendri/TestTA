@@ -1,0 +1,16 @@
+simple
+color
+computer
+gives
+tristimulus
+values
+trichromatic
+coefficients
+colour
+specification
+system
+automatically
+computed
+simple
+analogue
+machine

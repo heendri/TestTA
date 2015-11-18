@@ -1,0 +1,9 @@
+diffusion
+charged
+particles
+homogeneous
+electromagnetic
+field
+approximate
+solution
+considered

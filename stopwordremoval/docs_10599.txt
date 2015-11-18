@@ -1,0 +1,11 @@
+observations
+auroral
+ionization
+period
+november
+auroral
+luminosity
+radar
+echo
+amplitude
+observed

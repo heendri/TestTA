@@ -1,0 +1,10 @@
+study
+weak
+field
+maser
+type
+oscillator
+characteristics
+maser
+described
+discussed

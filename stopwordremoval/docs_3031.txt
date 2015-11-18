@@ -1,0 +1,9 @@
+voltage
+stabilizer
+employing
+junction
+transistors
+silicon
+junction
+reference
+diode

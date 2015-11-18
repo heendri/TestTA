@@ -1,0 +1,16 @@
+transistor
+filters
+ripple
+voltage
+dc
+power
+supply
+capacitance
+effectively
+multiplied
+addition
+junction
+transistor
+operating
+impedance
+transformer

@@ -1,0 +1,9 @@
+capac
+field
+cylindr
+trough
+plane
+conductor
+axial
+plane
+symmetri

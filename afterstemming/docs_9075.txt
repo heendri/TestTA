@@ -1,0 +1,14 @@
+comput
+subsystem
+us
+kilomegacycl
+subharmon
+oscil
+phase
+lock
+oscil
+describ
+oper
+logic
+oper
+time

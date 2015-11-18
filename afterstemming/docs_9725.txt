@@ -1,0 +1,8 @@
+effect
+vapour
+halogen
+compound
+emiss
+posit
+ion
+platinum

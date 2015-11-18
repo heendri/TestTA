@@ -1,0 +1,14 @@
+aspects
+network
+analysis
+sequence
+transducers
+algebraic
+formulation
+presented
+analysis
+networks
+synchronous
+type
+sequence
+transducer

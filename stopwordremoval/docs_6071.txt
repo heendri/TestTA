@@ -1,0 +1,11 @@
+note
+theory
+brownian
+motion
+nonlinear
+systems
+hypothesis
+advanced
+macdonald
+shown
+consistent

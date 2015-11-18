@@ -1,0 +1,13 @@
+power
+semiconductor
+ratings
+transient
+intermittent
+load
+methods
+calculating
+maximum
+allowable
+dissipation
+discussed
+examples

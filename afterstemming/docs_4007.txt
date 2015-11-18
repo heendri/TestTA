@@ -1,0 +1,11 @@
+propag
+hydromagnet
+wave
+compress
+ioniz
+fluid
+mathemat
+treatment
+base
+method
+characterist

@@ -1,0 +1,10 @@
+on
+tunnel
+diod
+flip
+flop
+note
+oper
+simpl
+bistabl
+devic

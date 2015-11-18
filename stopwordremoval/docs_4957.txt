@@ -1,0 +1,7 @@
+temperature
+stable
+transistor
+oscillator
+telemetry
+purposes
+described

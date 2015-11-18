@@ -1,0 +1,6 @@
+transistor
+binari
+number
+store
+puls
+oper

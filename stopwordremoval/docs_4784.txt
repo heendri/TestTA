@@ -1,0 +1,12 @@
+distribution
+radio
+brightness
+solar
+disk
+wavelength
+centimetres
+quiet
+sun
+two
+dimensional
+observations

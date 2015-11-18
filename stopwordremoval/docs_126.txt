@@ -1,0 +1,13 @@
+frequency
+radio
+noise
+aurora
+strong
+rf
+noise
+recorded
+one
+occasion
+frequencies
+kcs
+reported

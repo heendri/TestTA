@@ -1,0 +1,5 @@
+operating
+modes
+servomechanism
+nonlinear
+friction

@@ -1,0 +1,17 @@
+general
+network
+theorem
+realization
+transmission
+factor
+four
+terminal
+network
+lumped
+circuit
+elements
+passive
+symmetrical
+quadripole
+transformer
+discussed

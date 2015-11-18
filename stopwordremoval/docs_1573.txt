@@ -1,0 +1,5 @@
+ionospheric
+electrostatic
+fields
+equatorial
+electrojet

@@ -1,0 +1,4 @@
+short
+wave
+transmiss
+disturb

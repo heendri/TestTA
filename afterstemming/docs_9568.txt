@@ -1,0 +1,13 @@
+two
+simpl
+estim
+overshoot
+group
+delai
+approxim
+relat
+transient
+respons
+cascad
+connect
+quadripol

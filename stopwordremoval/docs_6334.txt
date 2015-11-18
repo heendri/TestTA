@@ -1,0 +1,4 @@
+heating
+triode
+voltage
+stabilization

@@ -1,0 +1,10 @@
+depend
+amplitud
+first
+harmon
+nuclear
+magnet
+reson
+absorpt
+amount
+detun

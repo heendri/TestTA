@@ -1,0 +1,8 @@
+square
+wave
+modulator
+receiver
+stark
+effect
+microwave
+spectrometers

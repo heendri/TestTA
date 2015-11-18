@@ -1,0 +1,4 @@
+microwav
+spectrum
+cm
+band

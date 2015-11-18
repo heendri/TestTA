@@ -1,0 +1,15 @@
+photocell
+amplifier
+infra
+red
+spectroscopy
+description
+highly
+linear
+amplifier
+chopping
+frequency
+variation
+variation
+supply
+voltage

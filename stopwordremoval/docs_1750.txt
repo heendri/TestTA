@@ -1,0 +1,13 @@
+pulse
+amplifier
+nonlinear
+feedback
+transistor
+amplifier
+described
+provides
+constant
+output
+range
+input
+signals

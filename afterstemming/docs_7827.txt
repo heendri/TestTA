@@ -1,0 +1,5 @@
+econom
+aspect
+print
+foil
+circuit

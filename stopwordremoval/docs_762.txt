@@ -1,0 +1,14 @@
+rotation
+polar
+ionospheric
+regions
+depth
+drag
+interplanetary
+gas
+expected
+penetrate
+examined
+levels
+region
+involved

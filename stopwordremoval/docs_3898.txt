@@ -1,0 +1,7 @@
+effective
+cross
+sections
+electrostatic
+interaction
+plasmas
+definitions

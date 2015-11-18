@@ -1,0 +1,8 @@
+dielectric
+films
+aluminium
+tantalum
+electrolytic
+solid
+tantalum
+capacitors

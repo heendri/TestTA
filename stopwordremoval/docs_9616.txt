@@ -1,0 +1,7 @@
+surface
+brightness
+radio
+sources
+galactic
+latitudes
+greater

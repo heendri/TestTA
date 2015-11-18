@@ -1,0 +1,6 @@
+pulse
+generator
+high
+speed
+memory
+circuit

@@ -1,0 +1,14 @@
+periodicities
+solar
+radio
+noise
+emission
+attention
+drawn
+presence
+sweeper
+trains
+gerson
+gossard
+work
+roberts

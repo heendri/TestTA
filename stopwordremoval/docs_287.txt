@@ -1,0 +1,9 @@
+noise
+figure
+travelling
+wave
+parametric
+amplifier
+coupled
+mode
+type

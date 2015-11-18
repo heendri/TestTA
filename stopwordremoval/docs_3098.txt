@@ -1,0 +1,8 @@
+microwave
+spectrum
+dependence
+quadrupole
+coupling
+constant
+vibrational
+state

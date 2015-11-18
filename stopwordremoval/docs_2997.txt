@@ -1,0 +1,9 @@
+equivalence
+line
+width
+rate
+energy
+relaxation
+inversion
+spectrum
+ammonia

@@ -1,0 +1,5 @@
+tunnel
+diod
+binari
+counter
+circuit

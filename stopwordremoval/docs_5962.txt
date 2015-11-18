@@ -1,0 +1,12 @@
+ire
+standards
+circuits
+definitions
+terms
+field
+linear
+varying
+parameter
+nonlinear
+circuits
+standard

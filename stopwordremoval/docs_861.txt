@@ -1,0 +1,10 @@
+thermal
+radiation
+moon
+radiation
+temperature
+measured
+showing
+variation
+phase
+moon

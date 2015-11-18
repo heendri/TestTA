@@ -1,0 +1,16 @@
+solar
+flare
+type
+variat
+geomagnet
+field
+integr
+electr
+conduct
+ionospher
+part
+effect
+earth
+ductiv
+earth
+part

@@ -1,0 +1,14 @@
+tolerance
+limits
+matching
+curves
+given
+showing
+level
+power
+transfer
+source
+load
+various
+degrees
+mismatch

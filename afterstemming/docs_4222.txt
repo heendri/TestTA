@@ -1,0 +1,15 @@
+phase
+depend
+ferromagnet
+microwav
+amplifi
+phase
+depend
+oper
+amplifi
+us
+polycrystallin
+yttrium
+garnet
+shown
+experiment

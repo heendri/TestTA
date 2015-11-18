@@ -1,0 +1,14 @@
+calculation
+thermal
+conductivity
+ionic
+current
+rmal
+conductivity
+tensor
+ionic
+part
+plasma
+derived
+kinetic
+theory

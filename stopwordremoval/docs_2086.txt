@@ -1,0 +1,12 @@
+transistor
+amplifiers
+dc
+signals
+basic
+direct
+coupled
+chopper
+type
+amplifiers
+examined
+compared

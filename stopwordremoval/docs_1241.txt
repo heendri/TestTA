@@ -1,0 +1,8 @@
+absorption
+emission
+spectra
+electron
+one
+dimensional
+deep
+trap

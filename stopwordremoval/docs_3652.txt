@@ -1,0 +1,13 @@
+magnetic
+modulator
+demodulator
+advantages
+disadvantages
+outlined
+reference
+equivalent
+circuit
+practical
+modulator
+carrier
+frequency

@@ -1,0 +1,11 @@
+approximation
+harmonic
+response
+saturating
+devices
+exponential
+curve
+used
+approximate
+system
+characteristics

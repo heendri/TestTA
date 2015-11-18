@@ -1,0 +1,4 @@
+electromagnet
+diffract
+dielectr
+strip

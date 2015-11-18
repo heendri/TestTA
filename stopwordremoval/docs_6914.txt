@@ -1,0 +1,7 @@
+extension
+exact
+statement
+analogies
+electrical
+mechanical
+devices

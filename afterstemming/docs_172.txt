@@ -1,0 +1,10 @@
+rc
+amplifi
+bandwidth
+effect
+strai
+capacit
+compens
+cathod
+follow
+circuit

@@ -1,0 +1,9 @@
+doppler
+satellite
+measurements
+note
+records
+obtained
+successful
+unsuccessful
+launchings

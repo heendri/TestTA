@@ -1,0 +1,5 @@
+crystal
+detector
+cover
+frequenc
+band

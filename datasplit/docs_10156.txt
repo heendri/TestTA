@@ -1,0 +1,1 @@
+10156 a program for finding the zeros of a polynomial by analogue computer 

@@ -1,0 +1,14 @@
+structure
+magnetohydrodynamic
+wave
+partially
+ionized
+gas
+approximate
+solution
+equation
+transition
+zone
+given
+special
+cases

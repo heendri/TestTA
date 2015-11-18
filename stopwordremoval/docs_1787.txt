@@ -1,0 +1,4 @@
+catalogue
+radio
+sources
+declinations

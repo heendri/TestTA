@@ -1,0 +1,4 @@
+new
+diode
+function
+generator

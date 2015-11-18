@@ -1,0 +1,16 @@
+stability
+problems
+monostable
+multivibrators
+influence
+amplitude
+trigger
+pulses
+multivibrator
+operation
+dependence
+pulse
+width
+trigger
+frequency
+discussed

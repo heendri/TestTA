@@ -1,0 +1,9 @@
+transistor
+distribut
+amplifi
+characterist
+imped
+base
+collector
+transmiss
+line

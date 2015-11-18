@@ -1,0 +1,1 @@
+margin consider esaki diod resistor gate worst case margin consider impli applic restrict storag system flip flop shift regist 

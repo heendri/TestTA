@@ -1,0 +1,16 @@
+error
+thermal
+conductivity
+fully
+ionized
+gas
+discrepancy
+formulae
+marshall
+rosenbluth
+kaufmann
+error
+last
+collision
+integral
+marshall

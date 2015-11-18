@@ -1,0 +1,17 @@
+nonlinear
+effects
+electron
+plasma
+oscillations
+nonlinear
+term
+boltzmann
+equation
+considered
+perturbation
+results
+examined
+investigate
+validity
+linear
+approximation

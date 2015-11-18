@@ -1,0 +1,6 @@
+stability
+varying
+element
+servomechanisms
+polynomial
+coefficients

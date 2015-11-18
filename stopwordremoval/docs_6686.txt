@@ -1,0 +1,9 @@
+synchronizing
+circuit
+variable
+input
+voltages
+description
+circuit
+suitable
+cro

@@ -1,0 +1,8 @@
+fading
+long
+duration
+meteor
+bursts
+forward
+scatter
+propagation

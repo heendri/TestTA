@@ -1,0 +1,12 @@
+quality
+control
+ionograms
+description
+instrument
+making
+quick
+accurate
+checks
+receiver
+display
+characteristics

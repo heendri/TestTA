@@ -1,0 +1,9 @@
+linear
+properties
+transistor
+formulae
+charts
+various
+transistor
+circuits
+presented

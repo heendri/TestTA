@@ -1,0 +1,5 @@
+mechan
+uniform
+field
+breakdown
+hydrogen

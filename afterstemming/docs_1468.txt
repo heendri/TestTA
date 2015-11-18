@@ -1,0 +1,8 @@
+standard
+circuit
+definit
+term
+linear
+signal
+flow
+graph

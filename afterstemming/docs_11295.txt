@@ -1,0 +1,15 @@
+modular
+circuit
+construct
+circuit
+construct
+wire
+board
+consist
+lamin
+base
+board
+pierc
+regular
+matrix
+hole

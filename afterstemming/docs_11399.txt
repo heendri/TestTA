@@ -1,0 +1,17 @@
+orbit
+ultraviolet
+system
+map
+star
+sky
+radiant
+intens
+outlin
+camera
+calibr
+equip
+command
+telemetri
+system
+project
+celoscop

@@ -1,0 +1,1 @@
+synthesi feedback control system mean pole zero locat close loop function mathemat descript desir frequenc respons base locat pole zero close loop function given ensur specif veloc acceler error constant bandwidth rel stabil met provid accept system transient respons algebra manipul yield transfer function main loop subsidiari feedback loop correct network requir meet specif 

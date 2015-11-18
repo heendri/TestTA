@@ -1,0 +1,9 @@
+band
+ferrite
+amplifier
+parametric
+amplifier
+using
+sphere
+garnet
+giving

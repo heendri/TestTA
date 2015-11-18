@@ -1,0 +1,17 @@
+radiat
+charg
+particl
+pass
+plate
+express
+deriv
+fourier
+compon
+radiat
+field
+space
+front
+behind
+dielectr
+plate
+vacuum

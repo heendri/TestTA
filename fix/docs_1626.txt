@@ -1,0 +1,1 @@
+design consider direct coupl transistor amplifi shown maximum obtain signal drift ratio amplifi achiev choos optimum sourc resist signal drift capabl transistor optimum sourc resist nearli three configur common emitt common collector common base neg feedback chang optimum sourc resist gener degrad signal drift ratio improv signal drift ratio obtain reduc emitt current 

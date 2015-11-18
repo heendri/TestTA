@@ -1,0 +1,6 @@
+transistor
+audio
+amplifiers
+junction
+transistors
+considered

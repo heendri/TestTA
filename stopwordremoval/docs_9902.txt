@@ -1,0 +1,13 @@
+wave
+functions
+impurity
+levels
+general
+method
+solving
+difference
+equations
+arising
+impurity
+calculations
+developed

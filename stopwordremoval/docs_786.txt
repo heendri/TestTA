@@ -1,0 +1,13 @@
+dual
+frequency
+oscillator
+design
+basic
+design
+details
+given
+circuits
+hartley
+colpitts
+oscillators
+combined

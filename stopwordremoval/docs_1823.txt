@@ -1,0 +1,11 @@
+waveforms
+atmospherics
+classification
+interpretation
+observed
+waveforms
+given
+tantry
+description
+equipment
+tantry

@@ -1,0 +1,8 @@
+frequency
+stable
+lc
+oscillators
+critical
+comment
+authors
+reply

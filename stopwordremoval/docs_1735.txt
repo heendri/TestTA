@@ -1,0 +1,17 @@
+quartz
+servo
+oscillator
+description
+quartz
+oscillator
+stable
+parts
+dual
+stabilization
+resonant
+loop
+balance
+bridge
+operated
+servo
+control

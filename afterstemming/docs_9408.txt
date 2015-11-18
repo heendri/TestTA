@@ -1,0 +1,8 @@
+symmetr
+transistor
+dc
+switch
+applic
+modul
+demodul
+circuit

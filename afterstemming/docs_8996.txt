@@ -1,0 +1,13 @@
+determin
+dielectr
+permitt
+magnet
+permeabl
+tensor
+medium
+analyt
+note
+separ
+gyroelectr
+gyromagnet
+effect

@@ -1,0 +1,17 @@
+loss
+phase
+simple
+equalizers
+approximate
+computations
+performed
+using
+first
+one
+two
+terms
+rapidly
+convergent
+power
+series
+expansion

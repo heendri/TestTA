@@ -1,0 +1,6 @@
+noise
+problem
+coincident
+current
+core
+memory

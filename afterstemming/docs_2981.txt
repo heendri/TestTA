@@ -1,0 +1,15 @@
+demodul
+limit
+control
+system
+signal
+descript
+transistor
+circuit
+automat
+control
+system
+act
+limit
+modul
+demodul

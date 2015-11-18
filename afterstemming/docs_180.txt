@@ -1,0 +1,7 @@
+semiconductor
+varactor
+us
+surfac
+space
+charg
+layer

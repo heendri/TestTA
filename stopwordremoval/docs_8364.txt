@@ -1,0 +1,9 @@
+calculation
+internal
+field
+relaxation
+polarization
+polycrystalline
+dipole
+type
+dielectrics

@@ -1,0 +1,7 @@
+triggered
+timebase
+oscillographs
+triggered
+sawtooth
+generator
+described

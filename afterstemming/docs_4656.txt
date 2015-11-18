@@ -1,0 +1,6 @@
+subharmon
+oscil
+nonlinear
+system
+posit
+damp

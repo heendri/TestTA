@@ -1,0 +1,14 @@
+calcul
+field
+homogen
+conductor
+wavi
+interfac
+analysi
+show
+perturb
+field
+conductor
+rippl
+proport
+amplitud

@@ -1,0 +1,11 @@
+model
+phosphors
+basis
+quantum
+mechanics
+transition
+probabilities
+constant
+defects
+discrete
+spectrum

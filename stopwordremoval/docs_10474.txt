@@ -1,0 +1,11 @@
+microsecond
+ferrite
+core
+memory
+storage
+capacity
+bits
+achieved
+instruction
+repetition
+rate

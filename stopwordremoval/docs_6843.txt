@@ -1,0 +1,7 @@
+positions
+six
+discrete
+sources
+cosmic
+radio
+radiation

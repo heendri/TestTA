@@ -1,0 +1,7 @@
+principle
+servo
+type
+mechanism
+requiring
+variable
+elements

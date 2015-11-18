@@ -1,0 +1,9 @@
+satur
+reactor
+induct
+dc
+load
+part
+transient
+respons
+part

@@ -1,0 +1,13 @@
+industrial
+applications
+semiconductors
+part
+thermistors
+description
+characteristics
+thermistors
+typical
+forms
+construction
+various
+applications

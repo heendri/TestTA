@@ -1,0 +1,14 @@
+noise
+nonlinear
+reactance
+travelling
+wave
+amplifier
+results
+obtained
+experimental
+model
+using
+nonlinear
+capacitances
+given

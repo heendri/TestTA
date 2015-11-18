@@ -1,0 +1,8 @@
+language
+translation
+electronics
+novel
+application
+digital
+computing
+machines

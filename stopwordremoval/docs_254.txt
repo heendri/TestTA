@@ -1,0 +1,8 @@
+synthesis
+waveforms
+atmospherics
+effective
+parameters
+lower
+ionosphere
+frequencies

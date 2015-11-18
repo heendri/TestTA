@@ -1,0 +1,6 @@
+linear
+circuit
+regul
+solid
+state
+invert

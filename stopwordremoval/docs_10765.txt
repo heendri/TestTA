@@ -1,0 +1,8 @@
+design
+wide
+band
+power
+amplifiers
+steady
+state
+condition

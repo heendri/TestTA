@@ -1,0 +1,4 @@
+design
+apertur
+coupl
+filter

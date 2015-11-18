@@ -1,0 +1,9 @@
+saturable
+reactors
+inductive
+dc
+load
+part
+steady
+state
+operation

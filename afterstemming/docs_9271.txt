@@ -1,0 +1,3 @@
+telemetri
+signal
+sputnik

@@ -1,0 +1,6 @@
+analys
+magnet
+detect
+stepper
+servo
+motor

@@ -1,0 +1,7 @@
+termin
+imped
+seri
+parallel
+transition
+coupl
+circuit

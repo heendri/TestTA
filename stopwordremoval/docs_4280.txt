@@ -1,0 +1,10 @@
+effect
+air
+drag
+orbit
+russian
+earth
+satellite
+comparison
+theory
+observations

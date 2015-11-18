@@ -1,0 +1,11 @@
+interpretation
+transmission
+line
+parameters
+negative
+conductance
+load
+application
+negative
+conductance
+amplifiers

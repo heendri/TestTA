@@ -1,0 +1,8 @@
+association
+aurorae
+frequency
+hiss
+observed
+byrd
+station
+antarctica

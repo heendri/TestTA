@@ -1,0 +1,4 @@
+rf
+characteristics
+capacitors
+comment

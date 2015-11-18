@@ -1,0 +1,7 @@
+fundamental
+wave
+functions
+unbounded
+magneto
+hydrodynamic
+field

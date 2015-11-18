@@ -1,0 +1,17 @@
+electron
+plasma
+oscillations
+external
+electric
+field
+oscillation
+frequency
+calculated
+assuming
+electron
+distribution
+function
+satisfies
+given
+kinetic
+equation

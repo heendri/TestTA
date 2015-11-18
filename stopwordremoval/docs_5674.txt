@@ -1,0 +1,8 @@
+transistor
+mcw
+adapter
+miniature
+keyed
+rc
+oscillator
+described

@@ -1,0 +1,10 @@
+investigation
+plasmas
+external
+magnetic
+fields
+steady
+state
+varying
+fields
+english

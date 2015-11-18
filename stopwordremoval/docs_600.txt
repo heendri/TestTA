@@ -1,0 +1,11 @@
+observations
+russian
+satellites
+structure
+outer
+terrestrial
+atmosphere
+radio
+optical
+observations
+analysed

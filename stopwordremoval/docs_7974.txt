@@ -1,0 +1,4 @@
+autocorrelogram
+randomly
+fading
+waves

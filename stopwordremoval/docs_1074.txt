@@ -1,0 +1,5 @@
+voltage
+tuning
+tunnel
+diode
+oscillators

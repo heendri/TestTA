@@ -1,0 +1,6 @@
+theory
+resonance
+absorption
+energy
+rotating
+solid

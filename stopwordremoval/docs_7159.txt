@@ -1,0 +1,6 @@
+corona
+stabilizer
+eht
+supply
+proportional
+counters

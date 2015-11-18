@@ -1,0 +1,9 @@
+metal
+transfluxors
+choice
+materials
+design
+three
+aperture
+transfluxor
+considered

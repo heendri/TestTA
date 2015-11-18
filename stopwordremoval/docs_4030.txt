@@ -1,0 +1,13 @@
+general
+expression
+diurnal
+variation
+atmospheric
+electric
+field
+considering
+influence
+eddy
+diffusion
+near
+ground

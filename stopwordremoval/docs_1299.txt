@@ -1,0 +1,11 @@
+sensitive
+transistor
+recording
+pen
+amplifier
+details
+bridge
+circuit
+temperature
+drift
+given

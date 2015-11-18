@@ -1,0 +1,9 @@
+electron
+voltaic
+effect
+pn
+junction
+induc
+beta
+particl
+bombard

@@ -1,0 +1,6 @@
+formative
+time
+lags
+uniform
+field
+breakdown

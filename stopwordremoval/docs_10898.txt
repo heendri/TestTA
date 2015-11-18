@@ -1,0 +1,11 @@
+resonant
+slot
+parametric
+amplifier
+brief
+description
+varactor
+diode
+amplifier
+operation
+range

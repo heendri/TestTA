@@ -1,0 +1,7 @@
+surements
+absolute
+intensity
+aurora
+night
+airglow
+region

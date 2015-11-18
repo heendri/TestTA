@@ -1,0 +1,16 @@
+considerations
+solar
+cell
+absorption
+curve
+material
+solar
+spectrum
+effects
+contained
+single
+function
+readily
+obtained
+numerical
+integration

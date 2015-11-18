@@ -1,0 +1,16 @@
+binari
+circuit
+count
+backward
+forward
+transistor
+modul
+describ
+us
+build
+logic
+circuit
+complet
+revers
+counter
+measur

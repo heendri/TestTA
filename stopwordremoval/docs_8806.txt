@@ -1,0 +1,13 @@
+parallel
+arithmetic
+unit
+using
+saturated
+transistor
+fast
+carry
+circuit
+addition
+time
+digits
+achieved

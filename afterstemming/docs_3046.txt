@@ -1,0 +1,6 @@
+analogu
+multipli
+squarer
+us
+multigrid
+modul

@@ -1,0 +1,5 @@
+graphical
+method
+flip
+flop
+design

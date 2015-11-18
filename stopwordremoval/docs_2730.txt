@@ -1,0 +1,6 @@
+excluded
+volume
+problem
+ising
+model
+ferromagnetism

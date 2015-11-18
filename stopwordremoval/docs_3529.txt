@@ -1,0 +1,15 @@
+universal
+curves
+design
+transistor
+amplifier
+stages
+design
+curves
+derived
+principal
+transistor
+parameters
+linear
+operation
+frequencies

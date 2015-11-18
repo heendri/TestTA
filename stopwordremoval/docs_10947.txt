@@ -1,0 +1,14 @@
+radio
+frequency
+discharges
+magnetic
+fields
+report
+investigations
+discharges
+magnetic
+field
+normal
+rf
+electric
+field

@@ -1,0 +1,12 @@
+fluctuations
+nonequilibrium
+steady
+state
+macroscopic
+treatment
+noise
+presented
+using
+markovian
+stationary
+assumptions

@@ -1,0 +1,15 @@
+cathode
+follower
+dc
+reference
+level
+describes
+cathode
+follower
+provide
+variable
+reference
+voltage
+source
+output
+impedance

@@ -1,0 +1,17 @@
+pass
+band
+select
+amplif
+hf
+oscil
+bandwidth
+hf
+oscil
+investig
+theoret
+experiment
+studi
+behaviour
+oscil
+select
+amplifi

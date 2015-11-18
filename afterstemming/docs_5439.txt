@@ -1,0 +1,4 @@
+survei
+analog
+digit
+convert

@@ -1,0 +1,6 @@
+transistor
+regulated
+power
+supply
+video
+circuits

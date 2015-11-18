@@ -1,0 +1,9 @@
+drift
+transistor
+chopper
+type
+amplifier
+high
+large
+dynamic
+range

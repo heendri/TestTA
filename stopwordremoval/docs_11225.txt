@@ -1,0 +1,17 @@
+visual
+display
+isolated
+optical
+resonator
+modes
+laser
+cavity
+described
+two
+concave
+mirrors
+forming
+nearly
+spherical
+cavity
+used

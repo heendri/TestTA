@@ -1,0 +1,11 @@
+cosmic
+noise
+measurements
+noise
+field
+strengths
+given
+measured
+satellite
+positions
+hemispheres

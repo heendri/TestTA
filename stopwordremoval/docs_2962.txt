@@ -1,0 +1,16 @@
+pulse
+generator
+uses
+junction
+transistors
+transistor
+circuit
+described
+giving
+pulses
+duration
+repetition
+rates
+pulses
+internal
+delays

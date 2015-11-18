@@ -1,0 +1,7 @@
+electromagnetic
+energy
+momentum
+tensor
+presence
+charged
+matter

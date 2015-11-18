@@ -1,0 +1,12 @@
+catalogue
+power
+law
+tchebycheff
+type
+filters
+order
+tables
+given
+extending
+earlier
+catalogue

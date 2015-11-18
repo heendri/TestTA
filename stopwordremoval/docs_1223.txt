@@ -1,0 +1,8 @@
+note
+perturbation
+uniform
+magnetic
+field
+cube
+magnetic
+material

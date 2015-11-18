@@ -1,0 +1,8 @@
+relations
+magneto
+optical
+phenomena
+visible
+radio
+regions
+spectrum

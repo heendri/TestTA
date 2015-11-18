@@ -1,0 +1,13 @@
+measurement
+plasma
+temperature
+electron
+density
+value
+electron
+density
+deduced
+earlier
+twice
+true
+value

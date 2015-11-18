@@ -1,0 +1,15 @@
+signal
+flow
+graph
+linear
+system
+method
+propos
+construct
+signal
+flow
+graph
+base
+nonessenti
+node
+concept

@@ -1,0 +1,14 @@
+skin
+effect
+shock
+waves
+approximate
+formulae
+given
+skin
+effect
+cylindrical
+conductor
+traversed
+shock
+wave

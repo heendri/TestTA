@@ -1,0 +1,8 @@
+observations
+solar
+cosmic
+rays
+near
+north
+magnetic
+pole

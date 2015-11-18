@@ -1,0 +1,13 @@
+design
+transistor
+amplifier
+detector
+stages
+stabilized
+band
+pass
+characteristics
+extension
+work
+described
+earlier

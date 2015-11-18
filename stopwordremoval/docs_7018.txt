@@ -1,0 +1,4 @@
+crystal
+structure
+antiferromagnetism
+haematite

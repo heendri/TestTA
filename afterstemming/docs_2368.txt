@@ -1,0 +1,4 @@
+veloc
+modul
+electromagnet
+wave

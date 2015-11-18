@@ -1,0 +1,8 @@
+distribut
+current
+disk
+rotat
+uniform
+magnet
+field
+damp

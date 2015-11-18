@@ -1,0 +1,11 @@
+equivalence
+theorems
+electromagnetic
+fields
+theorems
+considered
+reference
+electric
+magnetic
+surface
+currents

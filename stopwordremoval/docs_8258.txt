@@ -1,0 +1,10 @@
+extension
+frohlichs
+general
+theory
+static
+dielectric
+constant
+dielectrically
+anisotropic
+materials

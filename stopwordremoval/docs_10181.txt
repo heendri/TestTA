@@ -1,0 +1,9 @@
+voltage
+variable
+capacitors
+make
+relaxation
+oscillator
+controllable
+frequency
+range

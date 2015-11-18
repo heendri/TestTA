@@ -1,0 +1,11 @@
+spin
+configurations
+direct
+fourier
+method
+outlined
+determining
+configurations
+ordered
+spin
+arrangements

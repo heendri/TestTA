@@ -1,0 +1,8 @@
+basic
+physical
+properties
+silicon
+relate
+rectifier
+design
+application

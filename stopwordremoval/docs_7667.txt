@@ -1,0 +1,9 @@
+steady
+state
+transient
+analysis
+idealized
+series
+connected
+magnetic
+amplifier

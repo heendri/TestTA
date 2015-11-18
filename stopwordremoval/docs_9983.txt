@@ -1,0 +1,7 @@
+deduction
+magnetic
+interaction
+exchange
+model
+ferromagnetic
+metal

@@ -1,0 +1,7 @@
+depend
+integr
+durat
+meteor
+echo
+wavelength
+sensit

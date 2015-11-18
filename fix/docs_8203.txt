@@ -1,0 +1,1 @@
+open loop frequenc respons method nonlinear servomechan graphic represent similar nyquist diagram develop indic frequenc respons characterist synthesi linear filter 

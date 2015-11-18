@@ -1,0 +1,6 @@
+deviation
+holtsmark
+shape
+balmer
+lines
+plasma

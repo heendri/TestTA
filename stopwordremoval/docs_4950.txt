@@ -1,0 +1,14 @@
+wide
+range
+phase
+shift
+oscillator
+oscillator
+frequency
+range
+described
+coupling
+used
+polyphase
+version
+described

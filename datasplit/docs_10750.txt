@@ -1,0 +1,1 @@
+10750 spectral response of a nonlinear device  application of fourier series expansion with a bessel function substitution 

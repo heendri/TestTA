@@ -1,0 +1,12 @@
+transport
+coefficients
+plasmas
+magnetic
+field
+electrical
+thermal
+conductivities
+coefficient
+thermal
+diffusion
+calculated

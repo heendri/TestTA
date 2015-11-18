@@ -1,0 +1,9 @@
+theory
+determining
+upper
+atmosphere
+winds
+radio
+observations
+meteor
+trails

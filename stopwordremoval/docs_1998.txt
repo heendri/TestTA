@@ -1,0 +1,6 @@
+oblique
+shock
+waves
+plasma
+finite
+conductivity

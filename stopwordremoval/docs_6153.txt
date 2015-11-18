@@ -1,0 +1,6 @@
+double
+base
+diode
+semiconductor
+thyratron
+analog

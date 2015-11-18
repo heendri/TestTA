@@ -1,0 +1,6 @@
+electromot
+forc
+develop
+creep
+zinc
+crystal

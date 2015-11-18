@@ -1,0 +1,16 @@
+diode
+phase
+sensitive
+detectors
+load
+theoretical
+experimental
+investigation
+nonlinearity
+introduced
+loading
+simple
+diode
+pushpull
+phase
+detector

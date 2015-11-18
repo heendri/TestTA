@@ -1,0 +1,7 @@
+nonlinear
+tachometric
+feedback
+improve
+transient
+response
+servomechanism

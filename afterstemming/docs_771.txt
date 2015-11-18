@@ -1,0 +1,11 @@
+nois
+electron
+voltag
+stabil
+intern
+resist
+design
+output
+imped
+stabil
+voltag

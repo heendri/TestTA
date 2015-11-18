@@ -1,0 +1,13 @@
+design
+pulse
+amplifier
+relation
+overshoot
+risetime
+derived
+applied
+design
+single
+stage
+valve
+amplifier

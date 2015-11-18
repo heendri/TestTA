@@ -1,0 +1,16 @@
+zener
+diod
+stabil
+tube
+heater
+voltag
+typic
+applic
+zener
+power
+diod
+regul
+dc
+heater
+suppli
+describ

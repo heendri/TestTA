@@ -1,0 +1,6 @@
+simple
+transistor
+amplifier
+energizing
+hall
+multiplier

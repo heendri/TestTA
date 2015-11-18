@@ -1,0 +1,7 @@
+edvac
+drum
+memory
+phase
+system
+magnetic
+recording

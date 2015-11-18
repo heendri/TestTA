@@ -1,0 +1,12 @@
+coulomb
+force
+ampere
+force
+study
+modification
+coulombs
+equation
+satisfy
+amperes
+experimental
+results

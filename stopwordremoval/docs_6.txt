@@ -1,0 +1,16 @@
+binary
+circuits
+count
+backwards
+forwards
+transistorized
+module
+described
+used
+build
+logical
+circuits
+complete
+reversible
+counter
+measures

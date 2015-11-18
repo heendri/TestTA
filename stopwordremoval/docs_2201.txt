@@ -1,0 +1,10 @@
+multivibrator
+negative
+feedback
+description
+given
+multivibrator
+circuit
+good
+frequency
+stability

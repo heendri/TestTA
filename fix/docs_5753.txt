@@ -1,0 +1,1 @@
+set octav band pass filter frequenc filter design elimin harmon describ order achiev desir sharp cut high frequenc side filter oper abnorm imped tenth centr frequenc imped 

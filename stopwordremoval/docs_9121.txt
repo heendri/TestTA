@@ -1,0 +1,6 @@
+electron
+levels
+one
+dimensional
+random
+lattice

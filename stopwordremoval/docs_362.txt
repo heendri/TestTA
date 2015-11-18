@@ -1,0 +1,15 @@
+investigation
+ionospheric
+region
+model
+lower
+ionosphere
+obtained
+observation
+weak
+echoes
+region
+measurement
+ionospheric
+wave
+interaction

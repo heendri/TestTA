@@ -1,0 +1,16 @@
+description
+large
+electronic
+computer
+description
+ibm
+type
+computer
+comprises
+storage
+units
+magnetic
+tape
+core
+drum
+type

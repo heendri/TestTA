@@ -1,0 +1,8 @@
+variat
+geomagnet
+field
+fluid
+motion
+rate
+earth
+rotat

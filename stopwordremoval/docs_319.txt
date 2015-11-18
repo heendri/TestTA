@@ -1,0 +1,7 @@
+temperature
+required
+nuclear
+reactions
+cosmical
+electrical
+discharges

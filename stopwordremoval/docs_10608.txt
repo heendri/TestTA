@@ -1,0 +1,12 @@
+theory
+majority
+decision
+elements
+various
+problems
+concerning
+single
+majority
+decision
+element
+considered

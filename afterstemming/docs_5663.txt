@@ -1,0 +1,8 @@
+band
+pass
+filter
+frequenc
+critic
+comment
+author
+repli

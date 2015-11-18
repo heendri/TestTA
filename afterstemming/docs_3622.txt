@@ -1,0 +1,7 @@
+condit
+imped
+admitt
+matric
+port
+ideal
+transform

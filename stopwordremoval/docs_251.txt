@@ -1,0 +1,6 @@
+directional
+observations
+radio
+noise
+outer
+atmosphere

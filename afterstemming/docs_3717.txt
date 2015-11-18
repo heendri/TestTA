@@ -1,0 +1,4 @@
+analogu
+comput
+fourier
+transform

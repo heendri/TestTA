@@ -1,0 +1,6 @@
+compression
+waves
+plasma
+static
+magnetic
+field

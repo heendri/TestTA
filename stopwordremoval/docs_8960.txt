@@ -1,0 +1,17 @@
+pass
+band
+selective
+amplification
+hf
+oscillator
+bandwidth
+hf
+oscillator
+investigated
+theoretically
+experimentally
+studying
+behaviour
+oscillator
+selective
+amplifier

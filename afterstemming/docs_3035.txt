@@ -1,0 +1,4 @@
+odd
+binari
+asynchron
+counter

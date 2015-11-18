@@ -1,0 +1,8 @@
+statist
+deriv
+dispers
+formula
+lorentz
+plasma
+finit
+temperatur

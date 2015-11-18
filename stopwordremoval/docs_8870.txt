@@ -1,0 +1,7 @@
+equivalence
+critical
+concentrations
+ising
+heisenberg
+models
+ferromagnetism

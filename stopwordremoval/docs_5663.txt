@@ -1,0 +1,8 @@
+band
+pass
+filter
+frequencies
+critical
+comment
+authors
+reply

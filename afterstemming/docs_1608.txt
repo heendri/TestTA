@@ -1,0 +1,10 @@
+respons
+capacit
+resist
+divid
+step
+function
+exponenti
+function
+ramp
+function

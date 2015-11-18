@@ -1,0 +1,5 @@
+radar
+observations
+aurora
+college
+alaska

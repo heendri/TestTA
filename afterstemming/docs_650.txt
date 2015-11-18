@@ -1,0 +1,13 @@
+stabil
+neg
+resist
+two
+pole
+stabil
+condit
+consid
+basi
+static
+characterist
+two
+pole

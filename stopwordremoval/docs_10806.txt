@@ -1,0 +1,13 @@
+magnetostatic
+modes
+ferromagnet
+slab
+characteristic
+modes
+thin
+slab
+magnetized
+plane
+obtained
+magnetostatic
+limit

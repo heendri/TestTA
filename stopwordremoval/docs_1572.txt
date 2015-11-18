@@ -1,0 +1,12 @@
+effect
+magnetic
+field
+earth
+winds
+ionosphere
+theoretical
+treatment
+electrodynamic
+hydrodynamic
+processes
+ionosphere

@@ -1,0 +1,9 @@
+steadi
+state
+transient
+analysi
+ideal
+seri
+connect
+magnet
+amplifi

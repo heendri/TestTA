@@ -1,0 +1,12 @@
+coil
+capacitances
+inductances
+single
+layer
+cylindrical
+coils
+different
+current
+voltage
+distributions
+coil

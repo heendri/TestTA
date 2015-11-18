@@ -1,0 +1,11 @@
+loss
+mass
+echo
+satellit
+correct
+april
+comparison
+predict
+observ
+orbit
+data

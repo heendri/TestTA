@@ -1,0 +1,15 @@
+shaping
+nonlinear
+resistor
+characteristics
+feedback
+circuits
+described
+enable
+wide
+variety
+characteristics
+obtained
+single
+resistive
+element

@@ -1,0 +1,14 @@
+local
+feedback
+transistor
+amplifiers
+effects
+negative
+feedback
+common
+emitter
+amplifiers
+calculated
+compared
+measured
+results

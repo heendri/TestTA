@@ -1,0 +1,7 @@
+fermi
+acceleration
+electrons
+outer
+van
+allen
+belt

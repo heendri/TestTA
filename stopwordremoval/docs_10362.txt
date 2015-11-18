@@ -1,0 +1,10 @@
+new
+magnetic
+controlled
+rectifier
+power
+amplifier
+saturable
+reactor
+controlling
+time

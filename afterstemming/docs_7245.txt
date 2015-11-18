@@ -1,0 +1,4 @@
+synthesi
+servomechan
+root
+locat

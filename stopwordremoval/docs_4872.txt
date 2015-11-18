@@ -1,0 +1,17 @@
+possible
+source
+line
+width
+ferromagnetic
+resonance
+brief
+theoretical
+discussion
+indicating
+effect
+finite
+size
+sample
+dispersion
+relaxation
+times

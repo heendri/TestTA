@@ -1,0 +1,14 @@
+measurements
+winds
+upper
+atmosphere
+means
+drifting
+meteor
+trails
+description
+doppler
+radar
+system
+associated
+equipment

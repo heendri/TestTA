@@ -1,0 +1,12 @@
+origin
+backward
+wave
+nonmagnetized
+plasma
+cylinder
+bounded
+air
+conditions
+existence
+wave
+derived

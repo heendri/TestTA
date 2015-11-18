@@ -1,0 +1,6 @@
+cubic
+distort
+modul
+translat
+paper
+abstract

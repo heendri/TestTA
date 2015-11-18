@@ -1,0 +1,11 @@
+note
+scattering
+plane
+electromagnetic
+wave
+small
+thin
+walled
+cylindrical
+dielectric
+tube

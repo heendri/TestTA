@@ -1,0 +1,11 @@
+group
+delay
+group
+velocity
+concepts
+defined
+relation
+transfer
+function
+network
+given

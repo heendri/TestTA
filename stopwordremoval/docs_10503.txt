@@ -1,0 +1,14 @@
+random
+pulse
+generator
+variable
+mean
+rate
+method
+producing
+random
+pulse
+train
+predetermined
+statistical
+properties

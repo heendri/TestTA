@@ -1,0 +1,7 @@
+drift
+charged
+particle
+magnetic
+field
+constant
+gradient

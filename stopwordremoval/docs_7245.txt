@@ -1,0 +1,4 @@
+synthesis
+servomechanisms
+root
+locations

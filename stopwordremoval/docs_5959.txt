@@ -1,0 +1,9 @@
+pulse
+permeability
+losses
+magnetic
+materials
+subjected
+rectangular
+dc
+pulses

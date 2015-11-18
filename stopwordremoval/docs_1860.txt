@@ -1,0 +1,7 @@
+generations
+oscillations
+equally
+spaced
+frequencies
+given
+band

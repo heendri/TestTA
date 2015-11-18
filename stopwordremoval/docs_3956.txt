@@ -1,0 +1,4 @@
+logic
+bidirectional
+binary
+counters

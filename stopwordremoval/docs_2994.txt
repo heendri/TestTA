@@ -1,0 +1,12 @@
+diffraction
+spherical
+wave
+pulse
+half
+plane
+screen
+fourier
+integral
+treatment
+point
+source

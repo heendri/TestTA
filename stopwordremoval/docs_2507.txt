@@ -1,0 +1,7 @@
+effect
+solar
+eclipse
+geomagnetic
+fld
+earth
+currents

@@ -1,0 +1,11 @@
+power
+output
+characteristics
+ruby
+laser
+theoretical
+treatment
+giving
+values
+efficiency
+operation

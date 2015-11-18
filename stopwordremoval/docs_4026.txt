@@ -1,0 +1,7 @@
+distribution
+brightness
+metre
+wavelengths
+across
+suns
+disk

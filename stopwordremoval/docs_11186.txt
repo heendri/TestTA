@@ -1,0 +1,16 @@
+contribution
+synthesis
+resistive
+three
+ports
+algebraic
+topological
+treatment
+special
+case
+three
+port
+network
+synthesis
+italian
+version

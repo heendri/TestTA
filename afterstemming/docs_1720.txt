@@ -1,0 +1,5 @@
+foil
+clad
+lamin
+print
+circuitri

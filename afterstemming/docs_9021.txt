@@ -1,0 +1,6 @@
+volum
+densiti
+radio
+echo
+meteor
+trail

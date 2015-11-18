@@ -1,0 +1,11 @@
+ir
+standard
+circuit
+definit
+term
+linear
+passiv
+reciproc
+time
+invari
+network

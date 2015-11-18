@@ -1,0 +1,10 @@
+application
+method
+generating
+function
+radiative
+nonradiative
+transitions
+trapped
+electron
+crystal

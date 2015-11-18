@@ -1,0 +1,14 @@
+voltage
+current
+stabilization
+power
+transistors
+basic
+circuits
+design
+data
+details
+two
+power
+units
+given

@@ -1,0 +1,6 @@
+saturable
+core
+reference
+source
+magnetic
+amplifiers

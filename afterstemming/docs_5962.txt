@@ -1,0 +1,12 @@
+ir
+standard
+circuit
+definit
+term
+field
+linear
+vari
+paramet
+nonlinear
+circuit
+standard

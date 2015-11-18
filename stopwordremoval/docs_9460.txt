@@ -1,0 +1,16 @@
+propagation
+electromagnetic
+surface
+wave
+along
+wedge
+surfaces
+conditions
+surface
+waves
+excited
+plane
+wave
+incident
+wedge
+determined

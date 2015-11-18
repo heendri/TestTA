@@ -1,0 +1,6 @@
+electromagnet
+field
+rotat
+uniformli
+magnet
+sphere

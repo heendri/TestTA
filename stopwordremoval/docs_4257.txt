@@ -1,0 +1,8 @@
+absorption
+refraction
+polar
+gases
+function
+pressure
+microwave
+frequencies

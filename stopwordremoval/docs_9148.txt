@@ -1,0 +1,15 @@
+origin
+region
+region
+result
+ionization
+lyman
+alpha
+radiation
+molecules
+excited
+state
+mechanism
+excitation
+molecules
+discussed

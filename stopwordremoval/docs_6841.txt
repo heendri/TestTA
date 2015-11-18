@@ -1,0 +1,8 @@
+sunspot
+areas
+flares
+filaments
+observed
+stockholm
+observatory
+years

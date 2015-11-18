@@ -1,0 +1,14 @@
+potential
+electrostatic
+field
+trajectories
+charged
+particles
+procedure
+described
+calculating
+electric
+potential
+path
+charged
+particle

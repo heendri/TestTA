@@ -1,0 +1,6 @@
+electron
+phonon
+interact
+accord
+adiabat
+approxim

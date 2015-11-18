@@ -1,0 +1,11 @@
+note
+steadi
+state
+respons
+linear
+time
+invari
+system
+gener
+period
+input

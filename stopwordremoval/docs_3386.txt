@@ -1,0 +1,12 @@
+electronic
+transmitter
+receiver
+antenna
+switch
+description
+twin
+triode
+circuit
+instantaneous
+break
+operation

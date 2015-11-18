@@ -1,0 +1,11 @@
+basic
+fuse
+type
+electron
+equip
+type
+slow
+medium
+fast
+action
+describ

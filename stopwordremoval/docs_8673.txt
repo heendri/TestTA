@@ -1,0 +1,17 @@
+equivalent
+networks
+generic
+multipoles
+nonreciprocal
+four
+terminal
+networks
+realised
+equivalent
+circuit
+contains
+one
+reciprocal
+three
+pole
+element

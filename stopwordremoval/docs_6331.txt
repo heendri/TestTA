@@ -1,0 +1,10 @@
+effect
+rayleigh
+scattering
+ground
+reflection
+upon
+determination
+height
+night
+airglow

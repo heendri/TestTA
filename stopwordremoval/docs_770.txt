@@ -1,0 +1,14 @@
+thermoelectric
+temperature
+stabilization
+electrical
+circuit
+elements
+application
+peltier
+effect
+cooling
+semiconductor
+rectifiers
+transistors
+discussed

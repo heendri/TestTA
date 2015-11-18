@@ -1,0 +1,1 @@
+rc direct coupl power stage analysi perform rc direct coupl output stage consist ideal triod resist anod feed resist load resist determin relat maximum effici formula deriv evalu particular case 

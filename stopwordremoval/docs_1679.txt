@@ -1,0 +1,9 @@
+motion
+nodal
+line
+second
+russian
+earth
+satellite
+flattening
+earth

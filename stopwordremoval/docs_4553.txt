@@ -1,0 +1,9 @@
+capacity
+field
+cylindrical
+trough
+plane
+conductor
+axial
+plane
+symmetry

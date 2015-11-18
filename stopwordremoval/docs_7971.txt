@@ -1,0 +1,12 @@
+reflection
+conditions
+vertical
+propagation
+ionosphere
+presence
+collisions
+earths
+magnetic
+field
+case
+layer

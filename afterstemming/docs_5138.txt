@@ -1,0 +1,6 @@
+binari
+adder
+us
+ga
+discharg
+triod

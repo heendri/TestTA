@@ -1,0 +1,6 @@
+simpl
+transistor
+amplifi
+energ
+hall
+multipli

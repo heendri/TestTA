@@ -1,0 +1,10 @@
+ranging
+satellite
+doppler
+shift
+observation
+experimental
+thod
+using
+simple
+apparatus

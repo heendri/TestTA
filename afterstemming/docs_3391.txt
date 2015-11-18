@@ -1,0 +1,17 @@
+calcul
+linear
+circuit
+circuit
+compon
+includ
+valv
+transistor
+transform
+set
+form
+multipol
+admitt
+matrix
+five
+determin
+obtain

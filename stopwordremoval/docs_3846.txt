@@ -1,0 +1,13 @@
+numerical
+method
+determination
+two
+pole
+function
+approximates
+given
+complex
+function
+band
+real
+frequencies

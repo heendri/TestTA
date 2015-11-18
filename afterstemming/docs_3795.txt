@@ -1,0 +1,5 @@
+ident
+spin
+temperatur
+thermodynam
+temperatur

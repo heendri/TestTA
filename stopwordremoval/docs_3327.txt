@@ -1,0 +1,10 @@
+semi
+infinite
+array
+parallel
+metallic
+plates
+finite
+thickness
+microwave
+systems

@@ -1,0 +1,6 @@
+direct
+observ
+radio
+nois
+outer
+atmospher

@@ -1,0 +1,7 @@
+admittance
+impedance
+scattering
+matrices
+concepts
+interrelation
+defined

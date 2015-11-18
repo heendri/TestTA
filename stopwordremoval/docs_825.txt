@@ -1,0 +1,12 @@
+theory
+superconductivity
+exact
+treatment
+strong
+coupling
+approximation
+theory
+bardeen
+discussion
+meissner
+effect

@@ -1,0 +1,4 @@
+mechanics
+magnetic
+amplifier
+operation

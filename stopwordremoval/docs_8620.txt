@@ -1,0 +1,14 @@
+measurement
+soil
+conductivity
+wave
+tilt
+method
+description
+experimental
+arrangement
+report
+results
+obtained
+vicinity
+delhi

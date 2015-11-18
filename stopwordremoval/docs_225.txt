@@ -1,0 +1,6 @@
+solar
+activity
+altitude
+tropopause
+near
+equator

@@ -1,0 +1,14 @@
+parallel
+tdc
+amplifier
+drift
+amplifier
+wide
+frequency
+response
+discussion
+please
+note
+change
+udc
+number

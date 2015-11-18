@@ -1,0 +1,13 @@
+application
+magnetic
+resonance
+solid
+state
+electronics
+description
+basic
+principles
+techniques
+outline
+recent
+applications

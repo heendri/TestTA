@@ -1,0 +1,7 @@
+direct
+digital
+conversion
+pulse
+width
+multiplexed
+data

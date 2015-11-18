@@ -1,0 +1,8 @@
+spatial
+time
+fluctuation
+coulomb
+energy
+concentration
+impurity
+conduction

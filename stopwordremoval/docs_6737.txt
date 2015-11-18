@@ -1,0 +1,17 @@
+propagation
+wave
+front
+dispersive
+medium
+problem
+investigated
+theoretically
+means
+laplace
+transformation
+general
+case
+plane
+wave
+homogeneous
+medium

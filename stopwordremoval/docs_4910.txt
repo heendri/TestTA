@@ -1,0 +1,13 @@
+sunspot
+geomagnetic
+storm
+data
+derived
+greenwich
+observations
+includes
+explanatory
+notes
+literature
+references
+diagrams

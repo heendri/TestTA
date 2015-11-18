@@ -1,0 +1,11 @@
+electron
+spin
+reson
+absorpt
+metal
+part
+theori
+electron
+diffus
+skin
+effect

@@ -1,0 +1,11 @@
+grid
+diode
+sawtooth
+generator
+description
+simple
+timebase
+circuit
+wide
+frequency
+range

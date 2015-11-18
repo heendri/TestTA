@@ -1,0 +1,13 @@
+narrow
+band
+filter
+random
+signal
+show
+output
+narrow
+band
+filter
+necessarili
+gaussian
+input

@@ -1,0 +1,8 @@
+resist
+capacit
+filter
+network
+singl
+compon
+frequenc
+control

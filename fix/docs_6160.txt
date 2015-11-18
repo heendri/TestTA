@@ -1,0 +1,1 @@
+corner plot approxim shape actual respons curv rl rc circuit obtain suitabl combin straight line call corner plot paramet involv defin rule determin inspect circuit deriv method restrict imped appli network transfer function discuss bode network analysi feedback amplifi design chapter 

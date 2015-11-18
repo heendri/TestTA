@@ -1,0 +1,5 @@
+latitude
+dependence
+forbush
+type
+decrease

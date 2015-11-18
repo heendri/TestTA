@@ -1,0 +1,5 @@
+galvanomagnetic
+properties
+cylindrical
+fermi
+surfaces

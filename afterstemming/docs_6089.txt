@@ -1,0 +1,4 @@
+posit
+gap
+germanium
+diod

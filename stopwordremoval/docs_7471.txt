@@ -1,0 +1,16 @@
+ultrasonic
+delay
+lines
+survey
+characteristics
+operation
+delay
+lines
+using
+fused
+quartz
+glass
+rods
+quartz
+crystal
+transducers

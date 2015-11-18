@@ -1,0 +1,17 @@
+junction
+transistor
+switch
+circuit
+transistor
+experiment
+switch
+system
+includ
+block
+oscil
+multivibr
+flip
+flop
+gate
+ad
+circuit

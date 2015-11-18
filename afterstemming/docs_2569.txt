@@ -1,0 +1,12 @@
+time
+puls
+height
+convert
+circuit
+describ
+deriv
+puls
+amplitud
+decreas
+linearli
+time

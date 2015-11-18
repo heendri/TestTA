@@ -1,0 +1,10 @@
+radio
+wave
+propagation
+characteristics
+simple
+ionospheric
+model
+based
+rocket
+data

@@ -1,0 +1,9 @@
+new
+high
+slope
+multigrid
+valv
+applic
+puls
+switch
+circuit

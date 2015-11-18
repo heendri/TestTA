@@ -1,0 +1,16 @@
+design
+aperiodic
+oscillator
+circuit
+inductive
+quartz
+crystal
+discussion
+illustrated
+numerical
+example
+oscillator
+using
+valve
+suitable
+band

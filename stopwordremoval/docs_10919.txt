@@ -1,0 +1,17 @@
+antiferromagnetic
+susceptibility
+plane
+triangular
+ising
+lattice
+antiferromagnetic
+susceptibility
+plane
+triangular
+ising
+lattice
+calculated
+terms
+power
+series
+temperatures

@@ -1,0 +1,15 @@
+temperature
+fields
+electrical
+coils
+numerical
+solutions
+computation
+steady
+temperature
+fields
+coils
+relaxation
+method
+described
+illustrated

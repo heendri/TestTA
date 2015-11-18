@@ -1,0 +1,14 @@
+distribution
+ionospheric
+disturbances
+geomagnetic
+bay
+statistical
+analysis
+based
+ionospheric
+data
+obtained
+widely
+distributed
+stations

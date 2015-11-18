@@ -1,0 +1,13 @@
+stabil
+narrow
+band
+transistor
+amplifi
+stage
+stabil
+criterion
+deriv
+method
+phase
+neutral
+base

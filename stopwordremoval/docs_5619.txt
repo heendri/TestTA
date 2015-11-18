@@ -1,0 +1,8 @@
+auroral
+radio
+echo
+table
+diagram
+station
+geomagnetic
+latitude

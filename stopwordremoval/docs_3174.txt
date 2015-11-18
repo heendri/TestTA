@@ -1,0 +1,13 @@
+simple
+shaft
+digitizer
+store
+shaft
+position
+encoder
+simple
+construction
+analogue
+digital
+conversion
+described

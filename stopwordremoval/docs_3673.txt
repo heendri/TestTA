@@ -1,0 +1,17 @@
+contribution
+theory
+transport
+processes
+plasma
+located
+magnetic
+field
+mean
+statistical
+characteristics
+velocity
+heat
+flow
+stress
+tensor
+determined

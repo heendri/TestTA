@@ -1,0 +1,5 @@
+effect
+feedback
+ratio
+magnet
+amplifi

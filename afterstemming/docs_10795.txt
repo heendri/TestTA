@@ -1,0 +1,16 @@
+thermion
+emiss
+spheric
+metal
+particl
+build
+posit
+charg
+particl
+loss
+electron
+absenc
+space
+charg
+predict
+quantit

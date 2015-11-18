@@ -1,0 +1,6 @@
+calculation
+behaviour
+sparks
+resistance
+inductance
+circuit

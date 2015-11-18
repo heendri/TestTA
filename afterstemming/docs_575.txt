@@ -1,0 +1,7 @@
+resolv
+power
+three
+antenna
+pattern
+deriv
+apertur

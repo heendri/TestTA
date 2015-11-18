@@ -1,0 +1,1 @@
+oper mode servomechan nonlinear friction 

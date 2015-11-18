@@ -1,0 +1,12 @@
+analysis
+full
+wave
+magnetic
+amplifier
+circuits
+considering
+change
+width
+dynamic
+hysteresis
+loop

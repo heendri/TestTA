@@ -1,0 +1,16 @@
+zener
+diodes
+stabilize
+tube
+heater
+voltages
+typical
+applications
+zener
+power
+diodes
+regulation
+dc
+heater
+supplies
+described

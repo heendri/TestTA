@@ -1,0 +1,16 @@
+thermistors
+linear
+temperature
+readings
+two
+circuits
+described
+deriving
+error
+voltage
+varies
+linearly
+difference
+actual
+desired
+temperature

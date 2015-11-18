@@ -1,0 +1,17 @@
+precision
+variable
+frequency
+power
+supply
+ballast
+tube
+thermal
+regulating
+bridge
+controls
+amplitude
+output
+adjustable
+filter
+controls
+frequency

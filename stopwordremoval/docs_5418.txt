@@ -1,0 +1,11 @@
+measurement
+auroral
+radiation
+photon
+counter
+copper
+cathode
+counter
+satisfactory
+measuring
+radiation

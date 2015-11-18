@@ -1,0 +1,10 @@
+response
+capacitance
+resistance
+divider
+step
+function
+exponential
+function
+ramp
+function

@@ -1,0 +1,10 @@
+general
+motion
+conduction
+electrons
+uniform
+magnetic
+field
+application
+diamagnetism
+metals

@@ -1,0 +1,4 @@
+transfluxor
+analogu
+storag
+devic

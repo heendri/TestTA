@@ -1,0 +1,7 @@
+electron
+paramagnet
+reson
+metal
+two
+conduct
+band

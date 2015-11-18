@@ -1,0 +1,16 @@
+world
+maps
+contour
+maps
+based
+local
+time
+diurnal
+variation
+showing
+percentage
+constructed
+ionospheric
+datz
+data
+obtained

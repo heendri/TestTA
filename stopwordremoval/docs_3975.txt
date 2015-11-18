@@ -1,0 +1,6 @@
+bandwidth
+limitations
+equalizers
+transistor
+output
+circuits

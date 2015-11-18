@@ -1,0 +1,11 @@
+study
+transfer
+properties
+linear
+system
+based
+concept
+rate
+growth
+spectral
+energy

@@ -1,0 +1,17 @@
+surface
+magnetostatic
+modes
+surface
+spin
+waves
+general
+existence
+surface
+wave
+modes
+frequency
+region
+spin
+wave
+band
+shown

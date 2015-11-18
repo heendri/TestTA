@@ -1,0 +1,17 @@
+universal
+time
+component
+geomagnetic
+disturbance
+evidence
+universal
+time
+component
+diurnal
+variation
+geomagnetic
+disturbance
+obtained
+analysis
+index
+figures

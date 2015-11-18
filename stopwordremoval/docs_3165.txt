@@ -1,0 +1,6 @@
+high
+speed
+flip
+flops
+millimicrosecond
+region

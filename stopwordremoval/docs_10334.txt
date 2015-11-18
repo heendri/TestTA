@@ -1,0 +1,9 @@
+ire
+standards
+solid
+state
+devices
+definitions
+terms
+nonlinear
+capacitors

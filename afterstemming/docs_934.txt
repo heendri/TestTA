@@ -1,0 +1,11 @@
+spectral
+output
+piecewis
+linear
+nonlinear
+transfer
+effect
+piecewis
+linear
+compon
+deriv

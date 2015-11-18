@@ -1,0 +1,9 @@
+linear
+gate
+durat
+diod
+recoveri
+time
+us
+coincid
+circuit

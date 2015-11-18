@@ -1,0 +1,8 @@
+study
+application
+hall
+effect
+construction
+logic
+circuit
+elements

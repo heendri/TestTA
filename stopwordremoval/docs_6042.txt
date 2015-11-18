@@ -1,0 +1,9 @@
+electron
+voltaic
+effect
+pn
+junctions
+induced
+beta
+particle
+bombardment

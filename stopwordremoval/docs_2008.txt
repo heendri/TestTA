@@ -1,0 +1,8 @@
+energy
+states
+one
+dimensional
+crystal
+vacant
+lattice
+sites

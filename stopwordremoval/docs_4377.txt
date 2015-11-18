@@ -1,0 +1,15 @@
+study
+local
+electromagnetic
+field
+junction
+three
+dielectric
+media
+analysis
+given
+case
+three
+media
+common
+edge

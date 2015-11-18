@@ -1,0 +1,7 @@
+diffract
+electromagnet
+wave
+apertur
+plane
+conduct
+screen

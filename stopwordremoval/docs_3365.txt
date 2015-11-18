@@ -1,0 +1,11 @@
+effect
+capacitance
+power
+supply
+filter
+bounce
+discussion
+design
+power
+supply
+filters

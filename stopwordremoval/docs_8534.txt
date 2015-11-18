@@ -1,0 +1,6 @@
+transistor
+binary
+number
+store
+pulse
+operations

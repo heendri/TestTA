@@ -1,0 +1,7 @@
+solar
+activity
+transient
+decreases
+cosmic
+ray
+intensity

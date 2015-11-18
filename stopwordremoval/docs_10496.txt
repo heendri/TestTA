@@ -1,0 +1,8 @@
+one
+tunnel
+diode
+binary
+comment
+june
+authors
+reply

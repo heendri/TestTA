@@ -1,0 +1,8 @@
+galvanomagnet
+oscil
+type
+hall
+effect
+oscil
+describ
+effici

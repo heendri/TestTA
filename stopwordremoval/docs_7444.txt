@@ -1,0 +1,16 @@
+solar
+flare
+type
+variation
+geomagnetic
+field
+integrated
+electric
+conductivity
+ionosphere
+part
+effect
+earth
+ductivity
+earth
+part

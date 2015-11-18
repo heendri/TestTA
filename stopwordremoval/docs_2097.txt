@@ -1,0 +1,14 @@
+current
+voltage
+behaviour
+plasma
+exact
+solution
+current
+voltage
+relation
+planar
+diode
+filled
+uniform
+plasma

@@ -1,0 +1,1 @@
+new type constant voltag rectifi constant voltag suppli float batteri power sourc describ output rate 

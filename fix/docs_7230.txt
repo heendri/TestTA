@@ -1,0 +1,1 @@
+effect larg dielectr constant ground wave propag 

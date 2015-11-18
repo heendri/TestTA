@@ -1,0 +1,7 @@
+temperatur
+electron
+densiti
+flare
+deriv
+spectroscop
+data

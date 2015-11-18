@@ -1,0 +1,11 @@
+attempt
+detect
+galactic
+magnetic
+field
+field
+using
+zeeman
+splitting
+hydrogen
+line

@@ -1,0 +1,13 @@
+new
+junction
+transistor
+pulse
+width
+modulator
+base
+pulse
+current
+modulated
+common
+emitter
+configuration

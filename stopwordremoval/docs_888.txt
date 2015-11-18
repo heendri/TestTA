@@ -1,0 +1,8 @@
+altitude
+dependence
+time
+variation
+radiation
+intensity
+observed
+satellite

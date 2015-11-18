@@ -1,0 +1,17 @@
+problems
+relating
+transistor
+power
+amplifiers
+design
+transformerless
+output
+amplifiers
+considered
+graphical
+method
+determining
+transistor
+thermal
+stability
+given

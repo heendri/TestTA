@@ -1,0 +1,15 @@
+record
+sputnik
+field
+strength
+record
+taken
+breisach
+west
+germani
+dai
+time
+transit
+period
+novemb
+discuss

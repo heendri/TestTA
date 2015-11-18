@@ -1,0 +1,12 @@
+boxcar
+integrator
+long
+holding
+times
+detailed
+description
+circuit
+component
+values
+performance
+data

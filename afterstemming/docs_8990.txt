@@ -1,0 +1,10 @@
+free
+path
+formula
+coeffici
+diffus
+veloc
+drift
+ion
+electron
+gase

@@ -1,0 +1,7 @@
+new
+linear
+passiv
+nonreciproc
+microwav
+circuit
+compon

@@ -1,0 +1,14 @@
+analysis
+magnetic
+amplifier
+diodes
+analysis
+restricted
+amplifiers
+terminated
+resistive
+load
+voltage
+waveforms
+typical
+amplifiers

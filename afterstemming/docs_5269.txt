@@ -1,0 +1,6 @@
+synthesi
+amplifi
+tripl
+tune
+coupl
+circuit

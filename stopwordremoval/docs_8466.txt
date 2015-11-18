@@ -1,0 +1,16 @@
+transistor
+amplifiers
+analog
+computers
+high
+transistor
+amplifiers
+servo
+described
+effects
+power
+supply
+variations
+temperature
+coefficients
+shown

@@ -1,0 +1,16 @@
+triod
+cathod
+follow
+imped
+match
+transform
+filter
+design
+curv
+deriv
+measur
+five
+differ
+type
+triod
+present

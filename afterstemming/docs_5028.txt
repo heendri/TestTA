@@ -1,0 +1,15 @@
+calcul
+ferroxcub
+pot
+core
+coil
+method
+calcul
+core
+dimens
+wind
+present
+give
+result
+accur
+within

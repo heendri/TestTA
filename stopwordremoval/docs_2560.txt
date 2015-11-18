@@ -1,0 +1,13 @@
+investigation
+apparatus
+recording
+atmospherics
+analysis
+integrating
+circuit
+long
+time
+constant
+response
+series
+pulses

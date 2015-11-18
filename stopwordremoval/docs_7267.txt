@@ -1,0 +1,4 @@
+transistor
+reversible
+binary
+counter

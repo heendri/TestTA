@@ -1,0 +1,7 @@
+detection
+sine
+wave
+presence
+noise
+nonlinear
+filter

@@ -1,0 +1,7 @@
+electronic
+switch
+analysis
+operation
+square
+wave
+generators

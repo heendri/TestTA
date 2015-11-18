@@ -1,0 +1,6 @@
+algorithm
+determin
+minim
+represent
+logic
+function

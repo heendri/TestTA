@@ -1,0 +1,7 @@
+stabilization
+zener
+diodes
+elementary
+design
+principles
+discussed

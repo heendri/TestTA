@@ -1,0 +1,7 @@
+parallel
+resistance
+capacitance
+network
+correction
+paper
+abstracted

@@ -1,0 +1,14 @@
+tunabl
+audio
+filter
+electromechan
+filter
+clamp
+reson
+reed
+type
+describ
+factor
+vari
+frequenc
+rang

@@ -1,0 +1,8 @@
+machines
+think
+general
+survey
+capabilities
+limitations
+digital
+computers

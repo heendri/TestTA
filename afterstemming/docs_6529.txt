@@ -1,0 +1,15 @@
+note
+transfer
+voltag
+ratio
+passiv
+rlc
+network
+result
+obtain
+failkow
+gerst
+gener
+includ
+rlc
+network

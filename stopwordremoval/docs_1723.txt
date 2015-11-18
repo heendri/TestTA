@@ -1,0 +1,6 @@
+study
+neon
+bulb
+nonlinear
+circuit
+element

@@ -1,0 +1,15 @@
+potenti
+conductor
+vari
+cross
+section
+import
+eigen
+hall
+effect
+mask
+bernoulli
+voltag
+experiment
+measur
+point

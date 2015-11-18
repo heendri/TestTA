@@ -1,0 +1,9 @@
+models
+demonstrating
+phenomena
+ferromagnetic
+hysteresis
+extension
+refinement
+preisach
+model

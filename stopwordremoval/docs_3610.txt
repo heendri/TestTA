@@ -1,0 +1,16 @@
+fast
+transistor
+relay
+describes
+push
+pull
+switching
+circuit
+incorporating
+zener
+diodes
+rise
+time
+capable
+handling
+currents

@@ -1,0 +1,10 @@
+high
+speed
+logic
+circuit
+us
+common
+base
+transistor
+tunnel
+diod

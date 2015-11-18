@@ -1,0 +1,12 @@
+determination
+trajectories
+relativistic
+charged
+particles
+electric
+magnetic
+fields
+adams
+method
+finite
+differences

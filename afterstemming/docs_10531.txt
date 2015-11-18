@@ -1,0 +1,10 @@
+stimul
+optic
+emiss
+fluoresc
+solid
+part
+spectroscopi
+stimul
+emiss
+rubi

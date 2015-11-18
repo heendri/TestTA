@@ -1,0 +1,4 @@
+magnet
+amplifi
+reset
+control

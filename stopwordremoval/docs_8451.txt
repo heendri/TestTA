@@ -1,0 +1,6 @@
+noise
+figure
+linear
+quadripoles
+amplifier
+valves

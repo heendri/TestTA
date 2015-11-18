@@ -1,0 +1,11 @@
+microcircuit
+binari
+full
+adder
+us
+unipolar
+transistor
+us
+activ
+passiv
+element

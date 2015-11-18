@@ -1,0 +1,7 @@
+operation
+loading
+characteristics
+valve
+oscillators
+dielectric
+heating

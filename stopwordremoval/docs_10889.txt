@@ -1,0 +1,13 @@
+tunnel
+diodes
+level
+triggers
+sensitive
+level
+circuit
+uses
+tunnel
+diode
+drive
+schmitt
+trigger

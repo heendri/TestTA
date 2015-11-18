@@ -1,0 +1,8 @@
+motion
+sphere
+conducting
+fluid
+presence
+strong
+magnetic
+field

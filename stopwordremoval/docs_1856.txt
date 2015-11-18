@@ -1,0 +1,14 @@
+frequency
+time
+characteristics
+pass
+filters
+delay
+equalization
+television
+transmission
+basic
+circuits
+given
+bunemann
+considered

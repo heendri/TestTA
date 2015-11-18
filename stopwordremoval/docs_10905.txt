@@ -1,0 +1,17 @@
+audio
+frequency
+phase
+modulator
+using
+pulse
+techniques
+range
+phase
+shift
+carrier
+departure
+linearity
+function
+magnitude
+modulation
+input

@@ -1,0 +1,11 @@
+decay
+spin
+sputnik
+secular
+change
+spin
+fading
+rate
+occurred
+period
+october

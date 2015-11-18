@@ -1,0 +1,9 @@
+attenuation
+east
+west
+west
+east
+daytime
+propagation
+using
+atmospherics

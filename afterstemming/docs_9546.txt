@@ -1,0 +1,6 @@
+effect
+toler
+element
+imag
+paramet
+filter

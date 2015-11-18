@@ -1,0 +1,10 @@
+rc
+amplifier
+bandwidth
+effect
+stray
+capacitance
+compensated
+cathode
+follower
+circuit

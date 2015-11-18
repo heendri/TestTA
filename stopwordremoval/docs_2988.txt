@@ -1,0 +1,9 @@
+free
+path
+formulae
+coefficient
+diffusion
+velocity
+drift
+electrons
+gases

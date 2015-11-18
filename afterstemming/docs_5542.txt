@@ -1,0 +1,6 @@
+step
+switch
+convert
+digit
+analog
+data

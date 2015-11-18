@@ -1,0 +1,10 @@
+explicit
+formulae
+calculation
+characteristic
+function
+filters
+tchebycheff
+pass
+band
+behaviour

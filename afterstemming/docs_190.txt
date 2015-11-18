@@ -1,0 +1,12 @@
+comment
+kluver
+paper
+entitl
+small
+signal
+power
+conserv
+theorem
+irrot
+electron
+beam

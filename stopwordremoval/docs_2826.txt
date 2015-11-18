@@ -1,0 +1,16 @@
+multilevel
+pulsed
+field
+maser
+generation
+high
+frequencies
+maser
+operated
+oscillator
+pumping
+frequency
+principles
+operation
+characteristics
+discussed

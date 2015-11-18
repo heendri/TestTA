@@ -1,0 +1,6 @@
+effects
+atmospheric
+refraction
+angles
+measured
+satellite

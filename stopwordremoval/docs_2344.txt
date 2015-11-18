@@ -1,0 +1,15 @@
+directional
+bridge
+parametric
+amplifier
+description
+given
+operation
+performance
+directional
+bridge
+system
+using
+variable
+reactance
+diodes

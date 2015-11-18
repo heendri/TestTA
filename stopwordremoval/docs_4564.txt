@@ -1,0 +1,17 @@
+particle
+transport
+electric
+current
+pressurehe
+problem
+discussed
+tonks
+treated
+detailed
+analysis
+particle
+trajectories
+qualitatively
+similar
+results
+obtained

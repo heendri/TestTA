@@ -1,0 +1,7 @@
+circuit
+technique
+generation
+electrical
+test
+patterns
+television

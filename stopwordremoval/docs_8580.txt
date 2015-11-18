@@ -1,0 +1,13 @@
+theory
+plasma
+oscillations
+metals
+effect
+crystal
+lattice
+plasma
+oscillations
+investigated
+basis
+quantum
+mechanics

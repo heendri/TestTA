@@ -1,0 +1,11 @@
+modul
+phase
+detector
+note
+error
+finit
+switch
+voltag
+appli
+shunt
+modul

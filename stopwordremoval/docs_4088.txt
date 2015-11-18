@@ -1,0 +1,12 @@
+neon
+pulser
+computer
+laboratory
+output
+peak
+positive
+negative
+pulse
+repetition
+frequencies
+obtained

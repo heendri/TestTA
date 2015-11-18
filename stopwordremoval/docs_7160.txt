@@ -1,0 +1,11 @@
+electronic
+control
+device
+description
+high
+precision
+voltage
+regulator
+suitable
+rotary
+generator

@@ -1,0 +1,7 @@
+constriction
+positive
+column
+glow
+discharge
+high
+pressure

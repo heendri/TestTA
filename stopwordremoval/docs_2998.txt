@@ -1,0 +1,8 @@
+equilibrium
+configurations
+oblate
+fluid
+spheroids
+influence
+magnetic
+field

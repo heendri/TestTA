@@ -1,0 +1,8 @@
+circuit
+conditions
+parametric
+amplification
+correction
+error
+valdes
+paper

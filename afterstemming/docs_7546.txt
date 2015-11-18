@@ -1,0 +1,10 @@
+note
+optimum
+input
+wind
+resist
+magnet
+amplifi
+emploi
+voltag
+feedback

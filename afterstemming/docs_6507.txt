@@ -1,0 +1,6 @@
+transistor
+junction
+diod
+telephon
+power
+plant

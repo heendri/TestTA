@@ -1,0 +1,17 @@
+electronic
+equalizer
+description
+amplifier
+variable
+boost
+attenuation
+high
+frequency
+ends
+response
+characteristic
+typical
+response
+curves
+amplifier
+shown

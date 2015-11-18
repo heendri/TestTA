@@ -1,0 +1,12 @@
+diffract
+spheric
+wave
+puls
+half
+plane
+screen
+fourier
+integr
+treatment
+point
+sourc

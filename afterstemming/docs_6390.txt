@@ -1,0 +1,12 @@
+coulomb
+forc
+amper
+forc
+studi
+modif
+coulomb
+equat
+satisfi
+amper
+experiment
+result

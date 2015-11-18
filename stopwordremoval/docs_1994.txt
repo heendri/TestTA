@@ -1,0 +1,11 @@
+statistics
+plasma
+fundamental
+dynamic
+equations
+derived
+comprising
+system
+partial
+differential
+equations

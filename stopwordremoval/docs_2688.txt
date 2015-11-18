@@ -1,0 +1,11 @@
+elements
+electronic
+circuits
+part
+short
+time
+constant
+circuits
+diodes
+triodes
+august

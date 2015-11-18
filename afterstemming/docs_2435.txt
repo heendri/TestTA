@@ -1,0 +1,16 @@
+thermistor
+linear
+temperatur
+read
+two
+circuit
+describ
+deriv
+error
+voltag
+vari
+linearli
+differ
+actual
+desir
+temperatur

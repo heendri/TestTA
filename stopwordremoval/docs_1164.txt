@@ -1,0 +1,14 @@
+ripple
+type
+time
+delay
+networks
+using
+elliptic
+functions
+design
+simulation
+networks
+frequency
+domain
+presented

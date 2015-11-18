@@ -1,0 +1,13 @@
+electromechanical
+filters
+telecommunication
+equipment
+includes
+descriptions
+construction
+performance
+reed
+type
+magnetostrictive
+piezoelectric
+filters

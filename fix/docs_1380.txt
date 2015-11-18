@@ -1,0 +1,1 @@
+drift charg particl magnet field constant gradient 

@@ -1,0 +1,14 @@
+transistor
+differential
+amplifier
+design
+concepts
+experimental
+results
+obtained
+drift
+compensated
+cross
+coupled
+amplifier
+discussed

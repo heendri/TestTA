@@ -1,0 +1,6 @@
+nation
+bureau
+standard
+prefer
+circuit
+program

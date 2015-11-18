@@ -1,0 +1,6 @@
+origin
+maintenance
+geomagnetism
+secular
+variation
+inversions

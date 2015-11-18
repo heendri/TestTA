@@ -1,0 +1,11 @@
+temperatur
+atmospher
+region
+emit
+night
+glow
+line
+region
+faint
+auror
+arc

@@ -1,0 +1,8 @@
+geomagnetic
+disturbance
+velocity
+slow
+drift
+solar
+radio
+bursts

@@ -1,0 +1,15 @@
+operational
+storage
+life
+silicon
+rectifiers
+results
+given
+life
+test
+measurements
+forward
+voltage
+drop
+reverse
+current

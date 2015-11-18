@@ -1,0 +1,17 @@
+fluctuations
+quartz
+crystal
+oscillators
+results
+analysis
+using
+symbolic
+differential
+equations
+show
+noise
+thermal
+fluctuations
+determining
+factors
+stability

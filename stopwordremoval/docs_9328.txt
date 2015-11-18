@@ -1,0 +1,17 @@
+instability
+longitudinal
+oscillations
+electron
+ion
+plasma
+isotropic
+plasma
+oscillations
+always
+damped
+anisotropic
+medium
+ion
+motion
+lead
+instability

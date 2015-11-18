@@ -1,0 +1,12 @@
+vxo
+variable
+crystal
+oscillator
+description
+stable
+oscillator
+covers
+range
+uses
+six
+crystals

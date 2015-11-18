@@ -1,0 +1,9 @@
+synthesis
+ladder
+networks
+give
+butterworth
+chebyshev
+response
+pass
+band

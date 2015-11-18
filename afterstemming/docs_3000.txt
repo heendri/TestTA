@@ -1,0 +1,14 @@
+theoret
+treatment
+kinet
+diffus
+limit
+reaction
+diffus
+limit
+reaction
+solv
+random
+initi
+distribut
+particl

@@ -1,0 +1,14 @@
+voltag
+current
+stabil
+power
+transistor
+basic
+circuit
+design
+data
+detail
+two
+power
+unit
+given

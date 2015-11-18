@@ -1,0 +1,6 @@
+automat
+check
+transistor
+counter
+digit
+displai

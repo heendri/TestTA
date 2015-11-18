@@ -1,0 +1,11 @@
+magnet
+disk
+random
+access
+memori
+alphanumer
+charact
+store
+averag
+access
+time

@@ -1,0 +1,17 @@
+theory
+galvanomagnetic
+phenomena
+metals
+theory
+developed
+making
+special
+assumptions
+regarding
+conduction
+electron
+dispersion
+law
+form
+collision
+integral

@@ -1,0 +1,16 @@
+world
+map
+contour
+map
+base
+local
+time
+diurnal
+variat
+show
+percentag
+construct
+ionospher
+datz
+data
+obtain

@@ -1,0 +1,13 @@
+automat
+phase
+control
+theori
+design
+system
+sinusoid
+refer
+signal
+analys
+result
+verifi
+experiment

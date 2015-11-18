@@ -1,0 +1,11 @@
+modulator
+phase
+detector
+note
+error
+finite
+switching
+voltage
+applied
+shunt
+modulator

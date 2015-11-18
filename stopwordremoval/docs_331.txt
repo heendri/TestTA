@@ -1,0 +1,8 @@
+onset
+times
+forbush
+type
+cosmic
+ray
+intensity
+decreases

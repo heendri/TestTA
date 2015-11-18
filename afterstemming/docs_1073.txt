@@ -1,0 +1,5 @@
+nois
+spectrum
+phase
+lock
+oscil

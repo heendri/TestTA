@@ -1,0 +1,12 @@
+satellite
+observations
+electron
+content
+magnetic
+equator
+daytime
+values
+electron
+content
+near
+obtained

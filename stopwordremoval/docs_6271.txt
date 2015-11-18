@@ -1,0 +1,7 @@
+theory
+magnetic
+amplifiers
+square
+loop
+core
+materials

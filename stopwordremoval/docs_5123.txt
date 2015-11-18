@@ -1,0 +1,8 @@
+meteors
+text
+given
+papers
+presented
+symposium
+reported
+previously

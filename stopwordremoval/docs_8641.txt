@@ -1,0 +1,6 @@
+integral
+error
+squared
+criterion
+servo
+mechanisms

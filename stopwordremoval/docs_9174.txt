@@ -1,0 +1,9 @@
+helix
+type
+variable
+capacitor
+maximum
+minimum
+capacitance
+ratios
+obtainable

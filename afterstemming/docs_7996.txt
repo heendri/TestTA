@@ -1,0 +1,17 @@
+linear
+reactor
+chart
+design
+data
+present
+iron
+core
+reactor
+induct
+unaffect
+variat
+dc
+wind
+altern
+voltag
+across

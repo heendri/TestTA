@@ -1,0 +1,11 @@
+linear
+amplifier
+negative
+pulses
+two
+valve
+amplifier
+described
+rise
+time
+outputs

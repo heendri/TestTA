@@ -1,0 +1,13 @@
+criterion
+uniqueness
+solutions
+maxwells
+equations
+linear
+medium
+characterized
+absence
+dielectric
+magnetic
+hysteresis
+considered

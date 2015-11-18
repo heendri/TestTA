@@ -1,0 +1,15 @@
+properties
+ferrite
+cores
+horizontal
+deflection
+vut
+put
+transformers
+results
+measurements
+made
+special
+core
+given
+discussed

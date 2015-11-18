@@ -1,0 +1,6 @@
+collision
+effect
+conduct
+current
+ioniz
+ga

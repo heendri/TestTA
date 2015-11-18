@@ -1,0 +1,13 @@
+model
+collision
+processes
+gases
+part
+small
+amplitude
+processes
+charged
+neutral
+one
+component
+systems

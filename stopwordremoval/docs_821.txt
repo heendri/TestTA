@@ -1,0 +1,8 @@
+wave
+functions
+effective
+hamiltonian
+bloch
+electrons
+electric
+field

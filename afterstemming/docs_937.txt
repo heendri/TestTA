@@ -1,0 +1,16 @@
+match
+bandwidth
+formula
+curv
+given
+bandwidth
+differ
+arrang
+input
+output
+match
+singl
+stage
+band
+pass
+filter

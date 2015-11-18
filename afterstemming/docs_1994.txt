@@ -1,0 +1,11 @@
+statist
+plasma
+fundament
+dynam
+equat
+deriv
+compris
+system
+partial
+differenti
+equat

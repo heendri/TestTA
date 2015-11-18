@@ -1,0 +1,13 @@
+external
+magnetic
+field
+single
+thick
+semi
+infinite
+parallel
+plate
+terminated
+convex
+semicircular
+cylinder

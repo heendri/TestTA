@@ -1,0 +1,11 @@
+behaviour
+remote
+position
+control
+servo
+mechanism
+hard
+spring
+non
+linear
+characteristics

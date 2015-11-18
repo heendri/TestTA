@@ -1,0 +1,5 @@
+geomagnet
+current
+control
+region
+absorpt

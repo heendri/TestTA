@@ -1,0 +1,13 @@
+determining
+dielectric
+permittivity
+magnetic
+permeability
+tensors
+medium
+analytical
+note
+separation
+gyroelectric
+gyromagnetic
+effects

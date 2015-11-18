@@ -1,0 +1,10 @@
+cascode
+amplifier
+degenerative
+stabilizer
+description
+stabilizers
+modified
+cascode
+shunt
+amplifiers
