@@ -1,0 +1,1 @@
+design multipl feedback loop design consider applic transistor common cathod common base common emitt connect discuss theorem determin multipl loop circuit stabil criterion given 

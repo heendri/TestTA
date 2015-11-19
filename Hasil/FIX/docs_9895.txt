@@ -1,0 +1,1 @@
+reflect wire grid parallel conduct plane parallel wire grid back conduct plane repres imped shunt across transmiss line case singl wire valu imped depend angl incid space grid wire distanc grid back plane condit deriv reflect coeffici becom zero 

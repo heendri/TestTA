@@ -1,0 +1,1 @@
+design quadripol case symmetr quadripol write imped paramet defin earlier gener express deriv matrix treatment current voltag ladder network characterist imped term z occur first degre 

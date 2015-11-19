@@ -1,0 +1,1 @@
+optimum tchebycheff third order filter theoret analysi given design detect rectangular puls signal background white nois shown result signal nois ratio smaller obtain optimum butterworth filter 

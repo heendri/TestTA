@@ -1,0 +1,1 @@
+calcul energi flow us laplac transform laplac persev integr appli determin energi flow directli laplac transform appli forc result respons method applic transient steadi state lead directli simpl form solut method advantag appli forc possess sever discontinu exampl classic problem eddi current loss linear sheet conductor solv gener arbitrari excit 

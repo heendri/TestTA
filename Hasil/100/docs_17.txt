@@ -1,0 +1,1 @@
+match quadripol design formula deriv ii andt section group curv given practic design paramet obtain 

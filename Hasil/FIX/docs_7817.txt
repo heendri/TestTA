@@ -1,0 +1,1 @@
+effect steep rise fall input puls respons puls amplifi respons shunt compens amplifi ramp function triangular puls analys 

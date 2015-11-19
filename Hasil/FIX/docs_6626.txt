@@ -1,0 +1,1 @@
+detect sine wave presenc nois nonlinear filter 

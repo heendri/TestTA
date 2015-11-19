@@ -23,10 +23,10 @@ public class main {
         int a=0;
         System.out.println("start");
         System.out.println("start baca file....");
-        d.parseFiles("D:\\GDriveHendri\\Tugas\\Tugas Akhir\\TestTA\\100");
+        d.parseFiles("D:\\GDriveHendri\\Tugas\\Tugas Akhir\\TestTA\\Hasil\\FIX");
         System.out.println("done..");
         System.out.println("start calculate...");
-        System.out.println("Ukuran File "+MemoryMeasurer.measureBytes(d.termsDocsArray));
+        System.out.println("Ukuran File "+MemoryMeasurer.measureBytes(d.termsDocsArray)+" Bytes ");
 //        d.tfIdfCalculator();
         System.out.println("done...");
 //        d.viewvector();
@@ -34,7 +34,7 @@ public class main {
         System.out.println("print output");
 //        d.printVocabulary();
 //        d.printvector();
-        d.printTF();
+//        d.printTF();
         System.out.println("done");
         
         

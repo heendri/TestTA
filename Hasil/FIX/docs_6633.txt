@@ -1,0 +1,1 @@
+oscil system includ element inertia analysi given oscil circuit valv includ element whost resist vari temperatur 

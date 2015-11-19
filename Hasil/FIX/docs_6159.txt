@@ -1,0 +1,1 @@
+bound exist time frequenc respons variou type network six theorem present relat transient steadi state respons linear stabl fix lump constant network fourier transform analysi us physic interpret discuss rise time settl time consid overshoot undershoot respons step current input rc drive point imped 

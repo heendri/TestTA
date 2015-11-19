@@ -1,0 +1,1 @@
+toroid oscil spheric mass viscou conduct fluid uniform magnet field 

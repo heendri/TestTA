@@ -1,0 +1,1 @@
+scatter plane wave local homogen dielectr nois plane wave scatter local homogen dielectr nois random refract index fluctuat observ fraunhof region found local structur nois determin averag scatter power receiv fix point wherea overal structur determin space correl radiat receiv two differ point 

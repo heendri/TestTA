@@ -43,7 +43,7 @@ public class Porter {
                 tempList.add(stem.getCurrent());
             }
 
-            File file = new File("D:\\GDriveHendri\\Tugas\\Tugas Akhir\\TestTA\\100\\docs_" + count + ".txt");
+            File file = new File("D:\\GDriveHendri\\Tugas\\Tugas Akhir\\TestTA\\Hasil\\100\\docs_" + count + ".txt");
             FileWriter fw = new FileWriter(file);
             for (String str : tempList) {
 //                System.out.println(str);

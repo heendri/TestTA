@@ -1,0 +1,1 @@
+model solar flare induc ioniz region energi distribut x radiat rang estim rocket measur class flare august simultan measur cosmic nois show chang layer absorpt flare absorpt account assum recombin coeffici electron densiti profil vari linearli 

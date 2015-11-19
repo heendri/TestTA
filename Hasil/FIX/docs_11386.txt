@@ -1,0 +1,1 @@
+shape geomagnet field boundari uniform extern pressur shape caviti separ geomagnet field inteplanetari plasma calcul numer ideal model plasma pressur assum constant surfac caviti 
