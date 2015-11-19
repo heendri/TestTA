@@ -26,6 +26,7 @@ public class DocumentParser {
     private List<String> allTerms = new ArrayList<String>(); //to hold all terms
     private List<double[]> tfidfDocsVector = new ArrayList<double[]>();//hold docs vector
     private List<float[]> tfDocsVector = new ArrayList<float[]>();//hold docs vector
+    private List<float[]> NIDFDocsVector = new ArrayList<float[]>();//hold docs vector
 
     /**
      * Method to create termVector according to its tfidf score.
@@ -53,6 +54,48 @@ public class DocumentParser {
             return 0;
         }
 
+    }
+
+    public void termOccurence() {
+        int mark = 0;
+        boolean tanda = false;
+        int count = 0;
+        float[] tfvectors = new float[allTerms.size()];
+        for (String s : allTerms) {
+            for (int i = 0; i < termsDocsArray.size(); i++) {
+                String[] ss = termsDocsArray.get(i);
+                for (int j = 0; j < ss.length; j++) {
+                    if (s.contains(ss[j])) {
+                        tanda = true;
+                        break;
+                    }
+                }
+                if (tanda = true) {
+                    mark++;
+                    tanda=false;
+                }
+            }
+            tfvectors[count] = mark;
+            count++;
+            mark=0;
+            tanda=false;
+            
+        }
+        for(String s : allTerms){
+            System.out.println(s);
+        }
+        NIDFDocsVector.add(tfvectors);
+    }
+
+    public void tes() {
+//        for(String s : allTerms){
+//            System.out.println(s);
+//        }
+//        System.out.println(termsDocsArray.size());
+//        System.out.println(allTerms.size());
+        for(float[] f : NIDFDocsVector){
+            System.out.println(Arrays.toString(f));
+        }
     }
 
     public double idfCalculator(List<String[]> allTerms, String termToCheck) {
@@ -87,12 +130,11 @@ public class DocumentParser {
 //            tfidfDocsVector.add(tfidfvectors);  //storing document vectors;            
 //        }
 //    }
-    
     public void tfIdfCalculator() {
         double tf; //term frequency
 //        double idf; //inverse document frequency
 //        double tfidf; //term requency inverse document frequency  
-        int counter=1;
+        int counter = 1;
         for (String[] docTermsArray : termsDocsArray) {
             float[] tfvectors = new float[allTerms.size()];
             int count = 0;
@@ -101,17 +143,17 @@ public class DocumentParser {
 //                idf = idfCalculator(termsDocsArray, terms);
 //                idf = new TfIdf().idfCalculator(termsDocsArray, terms);
 //                tfidf = tf * idf;
-                
+
                 tfvectors[count] = (float) tf;
                 count++;
             }
             tfDocsVector.add(tfvectors);  //storing document vectors;
-            System.out.println("Done insert : "+counter);
+            System.out.println("Done insert : " + counter);
             counter++;
         }
     }
-    
-    public void printTF() throws IOException{
+
+    public void printTF() throws IOException {
         File file = new File("D:\\GDriveHendri\\Tugas\\Tugas Akhir\\TestTA\\tf.txt");
         FileWriter fw = new FileWriter(file);
         for (float s[] : tfDocsVector) {
@@ -178,7 +220,7 @@ public class DocumentParser {
 //                    totterm++;
                 }
                 termsDocsArray.add(tokenizedTerms);
-                System.out.println("Done read "+f.getName());
+                System.out.println("Done read " + f.getName());
             }
         }
 //        System.out.println("total term :"+totterm);
