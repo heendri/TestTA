@@ -9,6 +9,8 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileWriter;
 import java.io.IOException;
+import objectexplorer.MemoryMeasurer;
+import objectexplorer.ObjectGraphMeasurer;
 
 /**
  *
@@ -18,12 +20,14 @@ public class main {
 
     public static void main(String[] args) throws IOException, FileNotFoundException {
         DocumentParser d = new DocumentParser();
+        int a=0;
         System.out.println("start");
         System.out.println("start baca file....");
-        d.parseFiles("D:\\GDriveHendri\\Tugas\\Tugas Akhir\\TestTA\\b");
+        d.parseFiles("D:\\GDriveHendri\\Tugas\\Tugas Akhir\\TestTA\\100");
         System.out.println("done..");
         System.out.println("start calculate...");
-        d.tfIdfCalculator();
+        System.out.println("Ukuran File "+MemoryMeasurer.measureBytes(d.termsDocsArray));
+//        d.tfIdfCalculator();
         System.out.println("done...");
 //        d.viewvector();
 //        d.viewterm();

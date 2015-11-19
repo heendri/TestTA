@@ -22,7 +22,7 @@ import java.util.Arrays;
 public class DocumentParser {
 
 //    private ArrayList<String[]> termsDocsArray = new ArrayList<String[]>();//all token
-    private List<String[]> termsDocsArray = new ArrayList<String[]>();
+    public List<String[]> termsDocsArray = new ArrayList<String[]>();
     private List<String> allTerms = new ArrayList<String>(); //to hold all terms
     private List<double[]> tfidfDocsVector = new ArrayList<double[]>();//hold docs vector
     private List<float[]> tfDocsVector = new ArrayList<float[]>();//hold docs vector

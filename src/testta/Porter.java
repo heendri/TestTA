@@ -28,7 +28,7 @@ public class Porter {
         int count = 1;
         PorterStemmer stem = new PorterStemmer();
 
-        for (int ite1 = 1; ite1 <= 11429; ite1++) {
+        for (int ite1 = 1; ite1 <= 100; ite1++) {
             String inputFile2 = "D:\\GDriveHendri\\Tugas\\Tugas Akhir\\TestTA\\stopwordremoval\\docs_" + count + ".txt";
             BufferedReader br2 = new BufferedReader(new FileReader(new File(inputFile2)));
             String line2 = br2.readLine();
@@ -43,7 +43,7 @@ public class Porter {
                 tempList.add(stem.getCurrent());
             }
 
-            File file = new File("D:\\GDriveHendri\\Tugas\\Tugas Akhir\\TestTA\\fix\\docs_" + count + ".txt");
+            File file = new File("D:\\GDriveHendri\\Tugas\\Tugas Akhir\\TestTA\\100\\docs_" + count + ".txt");
             FileWriter fw = new FileWriter(file);
             for (String str : tempList) {
 //                System.out.println(str);
