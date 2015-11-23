@@ -26,21 +26,22 @@ public class main {
         d.parseFiles("D:\\GDriveHendri\\Tugas\\Tugas Akhir\\TestTA\\Hasil\\cek");
         System.out.println("done..");
         System.out.println("start calculate...");
-        System.out.println("Ukuran File "+MemoryMeasurer.measureBytes(d.termsDocsArray)+" Bytes ");
+//        System.out.println("Ukuran File "+MemoryMeasurer.measureBytes(d.termsDocsArray)+" Bytes ");
         
         d.termOccurence();
+        
+        d.tfIdfCalculator();
         d.tes();
-//        d.tfIdfCalculator();
         System.out.println("done...");
 //        d.viewvector();
 //        d.viewterm();
         System.out.println("print output");
 //        d.printVocabulary();
 //        d.printvector();
-//        d.printTF();
+        d.printTF();
+        d.DocumentScoring();
+        d.viewScore();
+        d.printScore();
         System.out.println("done");
-        
-        
-
     }
 }
